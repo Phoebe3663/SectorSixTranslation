@@ -2381,7 +2381,7 @@
     "set_info2":                  "Enemy projectiles go through your spaceship#Enemy projectiles damage your spaceship only if they hit the Elder Mechanism#Maximum armor is reduced by 90%#Armor generation is reduced by 90%#Deflect chance is reduced to 0%#Taken damage reduction is reduced to 0%#Shield duration is reduced to 2 seconds",
     "set_info3":                  "Cooldowns of all abilities are set to 0.5 seconds#Activating an ability deals damage to your spaceship#Damage dealt is equal to 10% of maximum armor",
     "set_info4":                  "Your spaceship gets +4% weapon damage per 1% of missing ether#Your spaceship loses 10% armor every second while ether is higher than 90%",
-    "set_info5":                  "Your spaceship gets +1% weapon damage per 5 ether#Base maximum armor of your spaceship is equal to maximum ether",
+    "set_info5":                  "Your spaceship gets +1% weapon damage per $$ ether#Base maximum armor of your spaceship is equal to maximum ether",
     "set_info6":                  "Weapon limit is equal to part limit#Ether is removed",
     "set_info7":                  "Base weapon damage is equal to the maximum armor of your spaceship#Every second damage is dealt to your spaceship#Damage dealt is equal to 2% of maximum armor",
 
