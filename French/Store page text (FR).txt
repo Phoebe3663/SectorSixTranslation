@@ -1,16 +1,16 @@
-Sector Six is a side-scrolling, sci-fi shooter with silhouette aesthetic, procedural loot, extensive customization, and story missions.
+Sector Six est un jeu de tir de science-fiction à défilement horizontal, avec un style graphique de type silhouette, un butin procédural, une personnalisation poussée, et des missions suivant une histoire.
 
-Save the Universe
-Enter distant future and join the desperate fight to stop the Eight Machines from destroying everything. In your journey, you will interact with ancient structures and beings, break laws of physics, travel between Sectors, battle swarms of the Machine minions, collectors, despair, anomalies, defense systems - all to stop the terrible enemy.
+Sauvez l'univers
+Entrez dans un futur lointain et rejoignez le combat désespéré pour empêcher les Huits Machines de tout détruire. Pendant votre voyage, vous intéragisserez avec d'anciens êtres et structures, casserez les lois de la physique, voyagerez entre les secteurs, combattrez des nuées de sbires des Machines, collectionneurs, désespoir, anomalies, systèmes de défense - tout pour stopper le terrible ennemi.
 
-Build your spaceship
-Spaceship building allows you to build a unique ship from procedural parts, obtained by destroying minions of the Machines. Every part has various properties and can be placed anywhere on the building field, allowing you to customize performance, appearance, and size of your ship.
+Construisez votre vaisseau spatial
+Créez votre vaisseau spatial unique avec des pièces procédurales , obtenues en détruisant les sbires des Machines. Chaque pièce a des propriétés variables et peut être placée n'importe où sur le schéma de construction, vous permettant de personnaliser la performance, l'apparence, et la taille de votre vaisseau.
 
-Become master of spaceship combat
-Test not just your spaceship, but also your skills as you dodge enemy projectiles and find the right timing to counterattack with your own. Each enemy brings new attacks, defenses, and strategies to defeat - it’s up to you to hone your combat skills and take them down.
+Devenez un maître du combat spatial
+Ne testez pas seulement votre vaisseau, mais également vos compétences à esquiver les projectiles ennemis et trouver le bon moment pour contre-attaquer avec les vôtres. Chaque ennemi apporte ses nouvelles attaques, défenses, et stratégies à vaincre - à vous d'aiguiser vos réflexes et les vaincre.
 
-Part customization, part sets, and relics
-Combine, upgrade, and re-roll parts to create ones that are ideal for your dream spaceship. If that is not enough, collect set parts and relics to transform your destroyer of invaders into something even more powerful!
+Personnalisation des pièces, ensemble de pièces et reliques
+Combinez, améliorez et refaites les pièces pour créer celles qui seront idéales pour le vaisseau de vos rêves. Si ce n'est pas assez, collectez des ensembles de pièces et reliques pour transformer votre destructeur d'envahisseurs en quelque chose d'encore plus puissant!
 
-Modular difficulty system
-Make the game as hard as you want it to be! Modular difficulty system allows you to modify almost every element of the combat and offers rewards for increasing the difficulty.
+Système de difficulté adaptable
+Rendez le jeu aussi dur que vous le désirez! Le système de difficulté vous permet de modifier quasiment chaque élément du combat et adapte vos récompenses à la difficulté.
