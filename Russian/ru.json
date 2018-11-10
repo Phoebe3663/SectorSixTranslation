@@ -1,5 +1,5 @@
 {
-"language": "russian",
+  "language": "russian",
   "strings": 
   {
           "COMMENT 8": "COMMENT lines does not need to be translated. ",
@@ -87,7 +87,7 @@
     "button46_tooltip1":      "вкл/выкл трясение экрана",
     
     "button47":               "Предупреждение#оруж.",
-    "button47_tooltip1":      "вкл/выкл предупреждения оруж."
+    "button47_tooltip1":      "вкл/выкл предупреждения оруж.",
     "button47_tooltip2":      "Предупредление о несовершенствах оружия",
     
     "button48":               "Следы",
@@ -112,7 +112,7 @@
     "button54_tooltip1":      "Changes level cap",
 
     "button55":               "Выделить",
-    "button56":               "Собрать,
+    "button56":               "Собрать",
     "button56_tooltip1":      "Collect secured region contributions",
 
     "button57":               "Выйти",
