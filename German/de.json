@@ -34,7 +34,7 @@
     "button13_tooltip1":      "Ändert Partikel-Stufe",
     "button13_tooltip2":      "Eine geringere Partikel-Stufe verbessert die Performance",
     "button14":               "Weiter",
-    "button15":               "Treffer Rahmen",
+    "button15":               "Treffer-Rahmen",
     "button15_tooltip1":      "Schaltet einen roten Rahmen ein/aus, der erscheint, wenn das Raumschiff Schaden nimmt",
     "button16":               "Credits",
     "button17":               "Zurück",
@@ -47,8 +47,8 @@
     "button23_a":             "Laden",
     "button23_b":             "Start",
     
-    "button24":               "Automatisches Speichern",
-    "button24_tooltip1":      "Wenn ausgewählt: Das Spiel wird zu Beginn und am Ende einer Missin gespeichert",
+    "button24":               "Automatisches#Speichern",
+    "button24_tooltip1":      "Wenn EIN: Das Spiel wird zu Beginn und am Ende einer Missin gespeichert",
     
     "button25":               "Ändern",
     "button26":               "Statistiken",
@@ -70,13 +70,13 @@
     "button37":               "Beginnen",
     "button38":               "Verwalten",
     
-    "button39":               "Text Zusammenführung",                   
-    "button39_tooltip1":      "Wenn ausgewählt: Schadenszahlen werden zusammengeführt", 
+    "button39":               "Text vereinen",                   
+    "button39_tooltip1":      "Wenn EIN: Schadenszahlen werden zusammengeführt", 
     
     "button40":               "Alles verkaufen",
 
     "button42":               "Ziele verbergen",
-    "button42_tooltip1":      "Wenn ausgewählt: Taste gedrückt halten, um die Missionsziele anzuzeigen",
+    "button42_tooltip1":      "Wenn EIN: Taste gedrückt halten, um die Missionsziele anzuzeigen",
     
     "button43":               "XP-Erwerb",
     "button43_tooltip1":      "Schaltete Erfahrungs-Erwerb ein/aus",
@@ -87,15 +87,15 @@
     "button46_tooltip1":      "Schaltet Bildschirmwackeln ein/aus",
     
     "button47":               "Waffen#Warnung",
-    "button47_tooltip1":      "Schaltet Waffen-Warnug ein/aus",
+    "button47_tooltip1":      "Schaltet Waffen-Warnung ein/aus",
     "button47_tooltip2":      "Waffen-Warnung warnt dich vor waffenbezogenen Mängeln",
     
     "button48":               "Spuren",
     "button48_tooltip1":      "Schaltet Partikeleffekte der Geschossspuren ein/aus",
     "button48_tooltip2":      "Das Ausschalten der Spuren verbessert die Leistung",
     "button49":               "Alle Ebenen",
-    "button49_tooltip1":      "Schaltet zusätzliche Hintergrungebenen ein/aus",
-    "button49_tooltip2":      "das Ausschalten zusätzlicher Ebenen verbessert die Leistung",
+    "button49_tooltip1":      "Schaltet zusätzliche Hintergrundebenen ein/aus",
+    "button49_tooltip2":      "Das Ausschalten zusätzlicher Ebenen verbessert die Leistung",
 
     "button51_a":             "Neue Missionen",
     "button51_a_tooltip1":    "Warte auf neue Missionen",
@@ -105,7 +105,7 @@
     
     "button52":               "Check",
     "button53":               "Tutorial",
-    "button53_tooltip1":      "Toggles tutorial",
+    "button53_tooltip1":      "Schaltet Tutorail ein/aus",
     
     "button54_1":             "No level cap",
     "button54_2":             "Level cap: ",
@@ -115,7 +115,7 @@
     "button56":               "Collect",
     "button56_tooltip1":      "Collect secured region contributions",
 
-    "button57":               "Leave",
+    "button57":               "Verlassen",
     
     "button60":               "Advanced access",
     
@@ -134,13 +134,13 @@
     
     "button67":               "Form instance",
     
-    "button68":               "Graphics settings",
-    "button69":               "Sound settings",
-    "button70":               "Gameplay settings",
+    "button68":               "Grafik-Einstellungen",
+    "button69":               "Audio-Einstellungen",
+    "button70":               "Gameplay-Einstellungen",
     
-    "button71":               "Change language",
+    "button71":               "Sprache ändern",
     
-    "button71_tooltip1":      "Requires restart",
+    "button71_tooltip1":      "Benötigt Neustart",
     
     "completed":              "Completed",
     "not_started":            "Not started",
@@ -199,8 +199,8 @@
     
     "RMB":                    "right mouse button",
   
-    "ON":                     "ON",
-    "OFF":                    "OFF",
+    "ON":                     "EIN",
+    "OFF":                    "AUS",
     
     "move_up":                "Move up#",
     "move_down":              "Move down#",
