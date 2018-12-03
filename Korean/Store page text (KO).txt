@@ -7,7 +7,7 @@ Build your spaceship
 Spaceship building allows you to build a unique ship from procedural parts, obtained by destroying minions of the Machines. Every part has various properties and can be placed anywhere on the building field, allowing you to customize performance, appearance, and size of your ship.
 
 Become master of spaceship combat
-Test not just your spaceship, but also your skills as you dodge enemy projectiles and find the right timing to counterattack with your own. Each enemy brings new attacks, defenses, and strategies to defeat - it’s up to you to hone your combat skills and take them down.
+Test not just your spaceship, but also your skills as you dodge enemy projectiles and find the right timing to counterattack with your own. Each enemy brings new attacks, defenses, and strategies to defeat - itâ€™s up to you to hone your combat skills and take them down.
 
 Part customization, part sets, and relics
 Combine, upgrade, and re-roll parts to create ones that are ideal for your dream spaceship. If that is not enough, collect set parts and relics to transform your destroyer of invaders into something even more powerful!
