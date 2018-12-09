@@ -6,7 +6,7 @@
 
     "sector_six": "军情六处",
 
-    "press_any_key": "按任意键继续",
+    "press_any_key": "按任意键",
     "to_continue": "继续",
 
     "button1": "地图",
@@ -16,7 +16,7 @@
     "button5": "技能",
 
     "button6": "任务",
-    "button6_b": "Activities",
+    "button6_b": "活动",
 
     "button7": "设置",
     "button8": "全屏",
@@ -35,150 +35,150 @@
     "button14": "继续",
     "button15": "损坏效果",
     "button15_tooltip1": "在飞船受伤时，在屏幕上方出现红色损坏特效",
-    "button16": "Credits",
-    "button17": "Back",
-    "button18": "Refill",
-    "button19": "Leaderboards",
-    "button20": "Upgrade",
-    "button21": "Downgrade",
-    "button22": "Start",
+    "button16": "声望",
+    "button17": "返回",
+    "button18": "注满",
+    "button19": "排行榜",
+    "button20": "升级",
+    "button21": "降级",
+    "button22": "开始游戏",
 
-    "button23_a": "Load",
-    "button23_b": "Start",
+    "button23_a": "读取",
+    "button23_b": "创建",
 
-    "button24": "Auto save",
-    "button24_tooltip1": "If enabled: Game is saved when mission starts and ends",
+    "button24": "自动存档",
+    "button24_tooltip1": "启用后，游戏会在任务开始和结束时自动存档",
 
-    "button25": "Change",
-    "button26": "Stats",
-    "button27": "Done",
-    "button28": "Exit game",
-    "button29": "Main menu",
-    "button30": "Claim",
+    "button25": "修改",
+    "button26": "统计",
+    "button27": "继续",
+    "button28": "退出游戏",
+    "button29": "回到主菜单",
+    "button30": "声明",
 
-    "button31": "Map key",
-    "button31_tooltip1": "Toggles map icon explanations",
+    "button31": "地图标识",
+    "button31_tooltip1": "改变地图标识",
 
-    "button32": "Start mission",
-    "button32_b": "Open map",
+    "button32": "开始任务",
+    "button32_b": "开启地图",
 
-    "button33": "Get full version",
-    "button34": "Yes",
-    "button35": "No",
+    "button33": "获取完整版本",
+    "button34": "是",
+    "button35": "否",
 
-    "button37": "Begin",
-    "button38": "Manage",
+    "button37": "开始",
+    "button38": "管理",
 
-    "button39": "Text merging",
-    "button39_tooltip1": "If enabled: Damage numbers will merge",
+    "button39": "文本合并",
+    "button39_tooltip1": "启用后，伤害数值会合并",
 
-    "button40": "Sell all",
+    "button40": "全部卖出",
 
-    "button42": "Hide objective",
-    "button42_tooltip1": "If enabled: You need to hold button to see mission objective",
+    "button42": "隐藏任务目标",
+    "button42_tooltip1": "启用后，仅在按住按钮时显示任务目标",
 
-    "button43": "Gain XP",
-    "button43_tooltip1": "Toggles experience gain",
+    "button43": "经验显示",
+    "button43_tooltip1": "开关经验显示",
 
-    "button44": "New stock",
-    "button45": "View sets",
-    "button46": "Screen shaking",
-    "button46_tooltip1": "Toggles screen shaking",
+    "button44": "刷新库存",
+    "button45": "分类查看",
+    "button46": "屏幕抖动",
+    "button46_tooltip1": "开关屏幕抖动",
 
-    "button47": "Weapon#warning",
-    "button47_tooltip1": "Toggles weapon warning",
-    "button47_tooltip2": "Weapon warning warns you about weapon related imperfections",
+    "button47": "武器#简介",
+    "button47_tooltip1": "开关武器简介",
+    "button47_tooltip2": "武器简介会提示你关于武器的一些缺陷",
 
-    "button48": "Trails",
-    "button48_tooltip1": "Toggles projectile trail particle effects",
-    "button48_tooltip2": "Disabling trails will improve performance",
-    "button49": "All layers",
-    "button49_tooltip1": "Toggles additional background layers",
-    "button49_tooltip2": "Disabling additional layers will improve performance",
+    "button48": "尾迹效果",
+    "button48_tooltip1": "开关子弹的尾迹效果",
+    "button48_tooltip2": "关闭尾迹可以提升游戏性能",
+    "button49": "动态背景",
+    "button49_tooltip1": "开关动态背景",
+    "button49_tooltip2": "关闭动态背景可以提升游戏性能",
 
-    "button51_a": "New missions",
-    "button51_a_tooltip1": "Wait for new missions",
+    "button51_a": "新任务",
+    "button51_a_tooltip1": "等待新任务",
 
     "button51_b": "New instance",
     "button51_b_tooltip1": "Form new instance",
 
-    "button52": "Check",
-    "button53": "Tutorial",
-    "button53_tooltip1": "Toggles tutorial",
+    "button52": "检查",
+    "button53": "教程",
+    "button53_tooltip1": "开关教程",
 
-    "button54_1": "No level cap",
-    "button54_2": "Level cap: ",
-    "button54_tooltip1": "Changes level cap",
+    "button54_1": "等级无上限",
+    "button54_2": "最高等级: ",
+    "button54_tooltip1": "修改最高等级",
 
-    "button55": "Highlight",
-    "button56": "Collect",
-    "button56_tooltip1": "Collect secured region contributions",
+    "button55": "高亮显示",
+    "button56": "收获",
+    "button56_tooltip1": "收取安全区域奖励",
 
-    "button57": "Leave",
+    "button57": "离开",
 
-    "button60": "Advanced access",
+    "button60": "高级权限",
 
-    "button60_tooltip1": "Unlocks advanced features",
-    "button60_tooltip2": "Not recommended for new players",
-    "button60_tooltip3": "Change your spaceship name to ADMIN to unlock this button",
+    "button60_tooltip1": "解锁高级特性",
+    "button60_tooltip2": "不推荐新手开启",
+    "button60_tooltip3": "修改飞船名为ADMIN以解锁这个选项",
 
-    "button61": "Default settings",
-    "button62": "Default controls",
+    "button61": "恢复默认设置",
+    "button62": "恢复默认按键",
 
-    "button63": "Random name",
-    "button64": "Random avatar",
-    "button65": "Rename avatar",
+    "button63": "随机姓名",
+    "button64": "随机形象",
+    "button65": "随机",
 
-    "button66": "Change",
+    "button66": "修改",
 
     "button67": "Form instance",
 
-    "button68": "Graphics settings",
-    "button69": "Sound settings",
-    "button70": "Gameplay settings",
+    "button68": "图形设置",
+    "button69": "音频设置",
+    "button70": "游戏设置",
 
-    "button71": "Change language",
+    "button71": "选择语言",
 
-    "button71_tooltip1": "Requires restart",
+    "button71_tooltip1": "重启后生效",
 
-    "completed": "Completed",
-    "not_started": "Not started",
+    "completed": "完成",
+    "not_started": "未启动",
 
-    "unfinished_parts": "unfinished parts",
-    "low_level_parts": "low level parts",
-    "generic_parts": "generic parts",
-    "optimized_parts": "optimized parts",
-    "advanced_parts": "advanced parts",
-    "extant_parts": "fractal parts",
-    "mythical_parts": "mythical parts",
-    "relays": "relays",
-    "pylons": "pylons",
-    "nodes": "nodes",
-    "sections": "sections",
-    "engines": "engines",
-    "crafting_items": "crafting items",
-    "alloy_containers": "alloy containers",
-    "compressed_parts": "compressed parts",
-    "uncompressed_parts": "uncompressed parts",
+    "unfinished_parts": "破碎零件",
+    "low_level_parts": "低级零件",
+    "generic_parts": "普通零件",
+    "optimized_parts": "中级零件",
+    "advanced_parts": "高级零件",
+    "extant_parts": "史诗零件",
+    "mythical_parts": "神话零件",
+    "relays": "继电器",
+    "pylons": "输电塔",
+    "nodes": "节点",
+    "sections": "部件",
+    "engines": "引擎",
+    "crafting_items": "制造物品",
+    "alloy_containers": "合金电容",
+    "compressed_parts": "已压缩零件",
+    "uncompressed_parts": "未压缩零件",
 
-    "dismantle_all_items": "Dismantle all",
-    "dismantle": "Dismantle#",
+    "dismantle_all_items": "全部分解",
+    "dismantle": "分解#",
 
-    "unequip_all_items": "Uninstall all",
-    "unequip": "Uninstall#",
+    "unequip_all_items": "全部拆除",
+    "unequip": "拆除#",
 
-    "sell_all_items": "Sell all",
-    "sell": "Sell#",
+    "sell_all_items": "全部卖出",
+    "sell": "卖出#",
 
-    "deactivate": "Deactivate",
-    "activate": "Activate",
+    "deactivate": "停用",
+    "activate": "启用",
 
-    "cancel": "Cancel",
+    "cancel": "取消",
 
-    "generates_new_items": "Generates new items",
-    "new_stock_cost": "Costs $$ units",
+    "generates_new_items": "生成新物品",
+    "new_stock_cost": "花费 $$ units",
 
-    "machine_turn_counter": "The Machines will move in $$ turns",
+    "machine_turn_counter": "装置将在 $$ 回合内启用",
 
     "LS": "LS",
     "RS": "RS",
@@ -190,39 +190,39 @@
     "RT": "RT",
     "LT": "LT",
 
-    "hold_LS": "Hold LS",
+    "hold_LS": "按住LS",
 
-    "start": "Start",
+    "start": "开始",
 
     "COMMENT 4": "Above - XBOX controller keys: Left stick (LS), Right stick (RS), Left bumper (LB), Right bumper (RB), Y, B, RT (Right trigger), LT (Left trigger), Start",
 
-    "RMB": "right mouse button",
+    "RMB": "鼠标右键",
 
-    "ON": "ON",
-    "OFF": "OFF",
+    "ON": "开",
+    "OFF": "关",
 
-    "move_up": "Move up#",
-    "move_down": "Move down#",
-    "move_left": "Move left#",
-    "move_right": "Move right#",
-    "use_ability_1": "Use ability 1#",
-    "use_ability_2": "Use ability 2#",
-    "use_ability_3": "Use ability 3#",
-    "use_ability_4": "Use ability 4#",
-    "use_ability_5": "Use ability 5#",
-    "use_ability_6": "Use ability 6#",
-    "use_ability_7": "Use ability 7#",
-    "use_ability_8": "Use ability 8#",
-    "use_ability_9": "Use ability 9#",
-    "use_alloy_container": "Repair#",
-    "interact": "Interact#",
-    "empower_engines": "Show objective#",
+    "move_up": "向上移动#",
+    "move_down": "向下移动#",
+    "move_left": "向左移动#",
+    "move_right": "向右移动#",
+    "use_ability_1": "使用1技能#",
+    "use_ability_2": "使用2技能#",
+    "use_ability_3": "使用3技能#",
+    "use_ability_4": "使用4技能#",
+    "use_ability_5": "使用5技能#",
+    "use_ability_6": "使用6技能#",
+    "use_ability_7": "使用7技能#",
+    "use_ability_8": "使用8技能#",
+    "use_ability_9": "使用9技能#",
+    "use_alloy_container": "修理飞船#",
+    "interact": "场景互动#",
+    "empower_engines": "引擎过载#",
 
-    "move": "Move",
-    "repair": "Repair",
-    "show_objective": "Show objective",
+    "move": "移动",
+    "repair": "修理",
+    "show_objective": "显示目标",
 
-    "arrow_keys": "Arrow keys",
+    "arrow_keys": "方向键",
 
     "left": "Left",
     "right": "Right",
@@ -245,189 +245,189 @@
     "COMMENT 5": "Above - Strings for key remapping interface",
 
     "safe_and_sound": "Safe And Sound",
-    "safe_and_sound_desc": "Enter secured area",
+    "safe_and_sound_desc": "进入安全区域",
 
-    "savior": "Savior",
-    "savior_desc": "Secure an area",
+    "savior": "救世主",
+    "savior_desc": "保护了一块区域",
 
-    "ultimate_savior": "Ultimate Savior",
-    "ultimate_savior_desc": "Secure all areas",
+    "ultimate_savior": "终级救世主",
+    "ultimate_savior_desc": "保护了所有区域",
 
-    "registered": "Registered",
-    "registered_desc": "Name your ship",
+    "registered": "已注册",
+    "registered_desc": "给你的舰船命名",
 
-    "broken_space": "Broken Space",
-    "broken_space_desc": "Enter phase",
+    "broken_space": "破碎空间",
+    "broken_space_desc": "进入相位空间",
 
-    "advanced_enemy": "Advanced Enemy",
-    "advanced_enemy_desc": "Destroy veteran",
+    "advanced_enemy": "高级敌人",
+    "advanced_enemy_desc": "消灭精英",
 
-    "extinction_event": "Extinction Event",
-    "extinction_event_desc": "Destroy apex",
+    "extinction_event": "灭绝事件",
+    "extinction_event_desc": "破坏顶点",
 
     "lucky": "Lucky",
-    "lucky_desc": "Find part by destroying ruins",
+    "lucky_desc": "破坏建筑时获得零件",
 
-    "demolisher": "Demolisher",
-    "demolisher_desc": "Demolish 500 ruins",
+    "demolisher": "拆迁办",
+    "demolisher_desc": "拆除500个建筑",
 
-    "fallen_city": "Fallen City",
-    "fallen_city_desc": "Demolish ten ruins in a row",
+    "fallen_city": "倾城",
+    "fallen_city_desc": "一个关卡内拆除十个建筑",
 
-    "hunter": "Hunter",
-    "hunter_desc": "Destroy 100 modified minions",
+    "hunter": "我似鸽杀手",
+    "hunter_desc": "消灭100个改良Minion",
 
-    "legendary_hunter": "Legendary Hunter",
-    "legendary_hunter_desc": "Destroy 1000 modified minions",
+    "legendary_hunter": "我莫得感情",
+    "legendary_hunter_desc": "消灭1000个改良Minion",
 
-    "consumer": "Consumer",
-    "consumer_desc": "Use 1000 alloy to repair your spaceship",
+    "consumer": "韭菜",
+    "consumer_desc": "花费1000合金修理飞船",
 
-    "obelisk_of_destruction": "Obelisk of Destruction",
-    "obelisk_of_destruction_desc": "Destroy five minions with the same obelisk",
+    "obelisk_of_destruction": "Obelisk毁灭者",
+    "obelisk_of_destruction_desc": "消灭同一Obelisk的五个Minion",
 
-    "unbreakable": "Unbreakable",
-    "unbreakable_desc": "Complete boss mission with difficulty level 10 and no alloy container",
+    "unbreakable": "坚不可摧",
+    "unbreakable_desc": "完成10级难度的BOSS任务且没有使用合金电容",
 
-    "aesthetic_improvement": "Aesthetic Improvement",
-    "aesthetic_improvement_desc": "Change part skin",
+    "aesthetic_improvement": "审美升级",
+    "aesthetic_improvement_desc": "更换零件外观",
 
-    "fragment_fusion_ach": "Fragment Fusion",
-    "fragment_fusion_desc": "Create relic by fusing relic fragments",
+    "fragment_fusion_ach": "碎片融合",
+    "fragment_fusion_desc": "通过遗物碎片合成遗物",
 
-    "instantaneous_improvement": "Instantaneous Improvement",
-    "instantaneous_improvement_desc": "Get part upgraded by part upgrade chance",
+    "instantaneous_improvement": "突然升级",
+    "instantaneous_improvement_desc": "通过零件的升级机会获得升级零件",
 
-    "cancel_the_funeral": "Cancel the Funeral",
-    "cancel_the_funeral_desc": "Finish mission with 1% or less armor and no alloy",
+    "cancel_the_funeral": "葬礼取消",
+    "cancel_the_funeral_desc": "完成任务时仅剩不到1%的护甲且没有剩余合金",
 
-    "the_apocalypse_has_come": "The Apocalypse Has Come",
-    "the_apocalypse_has_come_desc": "Activate Era's End ability",
+    "the_apocalypse_has_come": "末日降临",
+    "the_apocalypse_has_come_desc": "触发 Era's End",
 
-    "guardians_wrath": "Guardian's Wrath",
-    "guardians_wrath_desc": "Activate Guardian of a Thousand Worlds ability",
+    "guardians_wrath": "Guardian的愤怒",
+    "guardians_wrath_desc": "触发 Guardian of a Thousand Worlds",
 
-    "awakened_power": "Awakened Power",
-    "awakened_power_desc": "Activate Awakening of Inner Power ability",
+    "awakened_power": "力量觉醒",
+    "awakened_power_desc": "触发 Awakening of Inner Power",
 
-    "in_infinity": "In Infinity",
-    "in_infinity_desc": "Clear instance",
+    "in_infinity": "无限大",
+    "in_infinity_desc": "清除Instance",
 
-    "deep_in_infinity": "Deep In Infinity",
-    "deep_in_infinity_desc": "Clear ten instances",
+    "deep_in_infinity": "无限深",
+    "deep_in_infinity_desc": "清除十个Instance",
 
     "swarmling_purge": "Swarmling Purge",
-    "swarmling_purge_desc": "Destroy 1000 swarmlings",
+    "swarmling_purge_desc": "消灭1000个Swarmling",
 
-    "ultimate_destroyer": "Ultimate Destroyer",
-    "ultimate_destroyer_desc": "Destroy 30 bosses",
+    "ultimate_destroyer": "无敌破坏王",
+    "ultimate_destroyer_desc": "消灭30个BOSS",
 
-    "paragon": "Paragon",
-    "paragon_desc": "Have 30 fractal or better parts installed",
+    "paragon": "优秀人才",
+    "paragon_desc": "拥有十个以上的史诗或神话零件",
 
-    "adamant": "Adamant",
-    "adamant_desc": "Have 1000000 or more maximum armor",
+    "adamant": "肉盾",
+    "adamant_desc": "有一百万以上的护甲",
 
-    "apocalyptic": "Apocalyptic",
-    "apocalyptic_desc": "Have 1000000 or more weapon damage",
+    "apocalyptic": "天启",
+    "apocalyptic_desc": "有一百万以上的武器伤害",
 
-    "amplification": "Amplification",
-    "amplification_desc": "Use amplifier to upgrade part",
+    "amplification": "大！大！大！",
+    "amplification_desc": "用放大器升级零件",
 
-    "masterpiece": "Masterpiece",
-    "masterpiece_desc": "Install part with ten or more properties",
+    "masterpiece": "大师级",
+    "masterpiece_desc": "安装十条属性以上的零件",
 
-    "conqueror_of_the_machines": "Conqueror of the Machines",
-    "conqueror_of_the_machines_desc": "Destroy the Eight Machines without failures",
-
-
-
-    "fractal": "Fractal",
-    "fractal_desc": "Install fractal part",
-
-    "mythical": "Mythical",
-    "mythical_desc": "Install mythical part",
-
-    "etalon": "Etalon",
-    "etalon_desc": "Install etalon",
-
-    "relic": "Relic",
-    "relic_desc": "Install relic",
-
-    "relic_carrier": "Relic Carrier",
-    "relic_carrier_desc": "Have 4 relics installed",
-
-    "arcane_arsenal": "Arcane Arsenal",
-    "arcane_arsenal_desc": "Obtain all relics",
+    "conqueror_of_the_machines": "征服者",
+    "conqueror_of_the_machines_desc": "摧毁八个完好的装置",
 
 
 
-    "fighter": "Fighter",
-    "fighter_desc": "Reach level 10",
+    "fractal": "史诗！",
+    "fractal_desc": "安装史诗零件",
 
-    "veteran": "Veteran",
-    "veteran_desc": "Reach level 20",
+    "mythical": "神话！",
+    "mythical_desc": "安装神话零件",
 
-    "master": "Master",
-    "master_desc": "Reach level 30",
+    "etalon": "反射！",
+    "etalon_desc": "安装反射镜",
 
-    "hero": "Hero",
-    "hero_desc": "Reach level 40",
+    "relic": "遗物！",
+    "relic_desc": "安装遗物",
 
-    "legend": "Legend",
-    "legend_desc": "Reach level 50",
+    "relic_carrier": "继承人",
+    "relic_carrier_desc": "安装四个遗物",
 
-    "legendary_fighter": "Legendary Fighter",
-    "legendary_fighter_desc": "Reach level 60",
-
-    "legendary_master": "Legendary Master",
-    "legendary_master_desc": "Reach level 75",
-
-    "legendary_hero": "Legendary Hero",
-    "legendary_hero_desc": "Reach level 90",
+    "arcane_arsenal": "神秘军火库",
+    "arcane_arsenal_desc": "获得所有遗物",
 
 
 
-    "sacrifice": "Sacrifice",
-    "sacrifice_desc": "Trigger sacrificial alloy container ability",
+    "fighter": "战士",
+    "fighter_desc": "10级",
 
-    "into_eternity": "Into Eternity",
-    "into_eternity_desc": "Trigger eternal alloy container ability",
+    "veteran": "精英",
+    "veteran_desc": "20级",
 
-    "ancient_technology": "Ancient Technology",
-    "ancient_technology_desc": "Trigger ancient alloy container ability",
+    "master": "特种兵",
+    "master_desc": "30级",
 
-    "entropy": "Entropy",
-    "entropy_desc": "Trigger unstable alloy container ability",
+    "hero": "英雄",
+    "hero_desc": "40级",
 
-    "untimely_disintegration": "Untimely Disintegration",
-    "untimely_disintegration_desc": "Trigger transient alloy container ability",
+    "legend": "传奇",
+    "legend_desc": "50级",
+
+    "legendary_fighter": "传奇战士",
+    "legendary_fighter_desc": "60级",
+
+    "legendary_master": "传奇特种兵",
+    "legendary_master_desc": "75级",
+
+    "legendary_hero": "传奇英雄",
+    "legendary_hero_desc": "90级",
 
 
 
-    "retrieval": "Retrieval",
-    "retrieval_desc": "Complete retrieval mission",
+    "sacrifice": "祭品",
+    "sacrifice_desc": "使用牺牲合金电容",
 
-    "region_reclaimed": "Area Reclaimed",
-    "region_reclaimed_desc": "Complete elimination mission",
+    "into_eternity": "成为永恒",
+    "into_eternity_desc": "使用永恒合金电容",
 
-    "in_time": "In Time",
-    "in_time_desc": "Complete time attack mission",
+    "ancient_technology": "古老的智慧",
+    "ancient_technology_desc": "使用古代合金电容",
 
-    "destroyer": "Destroyer",
-    "destroyer_desc": "Complete kill mission",
+    "entropy": "崩坏",
+    "entropy_desc": "使用不稳定合金电容",
 
-    "siege_master": "Siege Master",
-    "siege_master_desc": "Complete siege mission",
+    "untimely_disintegration": "提前崩坏",
+    "untimely_disintegration_desc": "使用过渡合金电容",
 
-    "new_beginning": "New Beginning",
-    "new_beginning_desc": "Complete resurrection mission",
 
-    "champion": "Champion",
-    "champion_desc": "Complete arena mission",
 
-    "colony_defender": "Colony Defender",
-    "colony_defender_desc": "Complete boss mission",
+    "retrieval": "代理人",
+    "retrieval_desc": "完成回收任务",
+
+    "region_reclaimed": "开拓者",
+    "region_reclaimed_desc": "完成清除任务",
+
+    "in_time": "时间规划局",
+    "in_time_desc": "完成限时任务",
+
+    "destroyer": "T-800",
+    "destroyer_desc": "完成杀戮任务",
+
+    "siege_master": "攻城师",
+    "siege_master_desc": "完成围攻任务",
+
+    "new_beginning": "新的开始",
+    "new_beginning_desc": "完成复活任务",
+
+    "champion": "角斗士",
+    "champion_desc": "完成竞技场任务",
+
+    "colony_defender": "殖民地",
+    "colony_defender_desc": "完成BOSS任务",
 
 
 
