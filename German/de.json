@@ -248,98 +248,98 @@
     "safe_and_sound":                 "Wohlbehalten",
     "safe_and_sound_desc":            "Betrete einen Gesicherten Bereich",
     
-    "savior":                         "Savior",
-    "savior_desc":                    "Secure an area",
+    "savior":                         "Retter",
+    "savior_desc":                    "Sichere einen Bereich",
     
-    "ultimate_savior":                "Ultimate Savior",
-    "ultimate_savior_desc":           "Secure all areas",
+    "ultimate_savior":                "Ultimativer Retter",
+    "ultimate_savior_desc":           "Sichere alle Bereiche",
     
-    "registered":                     "Registered",
-    "registered_desc":                "Name your ship",
+    "registered":                     "Registriert",
+    "registered_desc":                "Benenne dein Schiff",
     
-    "broken_space":                   "Broken Space",
-    "broken_space_desc":              "Enter phase",
+    "broken_space":                   "Durchbrochener Raum",
+    "broken_space_desc":              "Erreiche Phase",
     
-    "advanced_enemy":                 "Advanced Enemy",
-    "advanced_enemy_desc":            "Destroy veteran",
+    "advanced_enemy":                 "Hochentwickelter Feind",
+    "advanced_enemy_desc":            "Zerstöre einen Veteranen",
     
-    "extinction_event":               "Extinction Event",
-    "extinction_event_desc":          "Destroy apex",
+    "extinction_event":               "Auslöschung",
+    "extinction_event_desc":          "Zerstöre Apex",
     
-    "lucky":                          "Lucky",
-    "lucky_desc":                     "Find part by destroying ruins",
+    "lucky":                          "Glückspilz",
+    "lucky_desc":                     "Finde ein Bauteil durch das Zerstören von Ruinen",
     
-    "demolisher":                     "Demolisher",
-    "demolisher_desc":                "Demolish 500 ruins",
+    "demolisher":                     "Demolierer",
+    "demolisher_desc":                "Demoliere 500 Ruinen",
     
-    "fallen_city":                    "Fallen City",
-    "fallen_city_desc":               "Demolish ten ruins in a row",
+    "fallen_city":                    "Zerfallenen Stadt",
+    "fallen_city_desc":               "Demoliere zehn Ruinen nacheinander",
   
-    "hunter":                         "Hunter",
-    "hunter_desc":                    "Destroy 100 modified minions",
+    "hunter":                         "Jäger",
+    "hunter_desc":                    "Zerstöre 100 modifizierte Gefolgsleute",
     
-    "legendary_hunter":               "Legendary Hunter",
-    "legendary_hunter_desc":          "Destroy 1000 modified minions",
+    "legendary_hunter":               "Legendärer Jäger",
+    "legendary_hunter_desc":          "Zerstöre 1000 modifizierte Gefolgsleute",
     
-    "consumer":                       "Consumer",
-    "consumer_desc":                  "Use 1000 alloy to repair your spaceship",
+    "consumer":                       "Verbraucher",
+    "consumer_desc":                  "Verbrauche 1000 Legierungen, um dein Raumschiff zu reparieren",
     
-    "obelisk_of_destruction":         "Obelisk of Destruction",
-    "obelisk_of_destruction_desc":    "Destroy five minions with the same obelisk",
+    "obelisk_of_destruction":         "Obelisk der Zerstörung",
+    "obelisk_of_destruction_desc":    "Zerstöre fünf Gefolgsleute mit dem selben Obelisken",
     
-    "unbreakable":                    "Unbreakable",
-    "unbreakable_desc":               "Complete boss mission with difficulty level 10 and no alloy container",
+    "unbreakable":                    "Unverwüstlich",
+    "unbreakable_desc":               "Beende eine Boss-Mision der Stufe 10 ohne Legierungs-Behälter",
     
-    "aesthetic_improvement":          "Aesthetic Improvement",
-    "aesthetic_improvement_desc":     "Change part skin",
+    "aesthetic_improvement":          "Ästhetische Verbesserung",
+    "aesthetic_improvement_desc":     "Ändere das Aussehen eines Bauteils",
     
-    "fragment_fusion_ach":            "Fragment Fusion",
-    "fragment_fusion_desc":           "Create relic by fusing relic fragments",
+    "fragment_fusion_ach":            "Fragment-Fusion",
+    "fragment_fusion_desc":           "Erschaffe ein Relikt durch die Fusion von Relikt-Fragmenten",
     
-    "instantaneous_improvement":      "Instantaneous Improvement",
-    "instantaneous_improvement_desc": "Get part upgraded by part upgrade chance",
+    "instantaneous_improvement":      "Unmittelbare Verbesserung",
+    "instantaneous_improvement_desc": "Erhalte eine Bauteil-Aufrüstung durch 'Bauteil-Aufrüst-Chance'",
   
-    "cancel_the_funeral":             "Cancel the Funeral",
-    "cancel_the_funeral_desc":        "Finish mission with 1% or less armor and no alloy",
+    "cancel_the_funeral":             "Begräbnis verschoben",
+    "cancel_the_funeral_desc":        "Beende eine Mission mit 1% oder weniger Rüstung und ohne Legierung",
     
-    "the_apocalypse_has_come":        "The Apocalypse Has Come",
-    "the_apocalypse_has_come_desc":   "Activate Era's End ability",
+    "the_apocalypse_has_come":        "Die Apokalypse ist gekommen",
+    "the_apocalypse_has_come_desc":   "Aktiviere 'Eras Ende' Fähigkeit",
     
-    "guardians_wrath":                "Guardian's Wrath",
-    "guardians_wrath_desc":           "Activate Guardian of a Thousand Worlds ability",
+    "guardians_wrath":                "Zorn des Hüters",
+    "guardians_wrath_desc":           "Aktiviere 'Hüter von tausend Welten' Fähigkeit",
     
-    "awakened_power":                 "Awakened Power",
-    "awakened_power_desc":            "Activate Awakening of Inner Power ability",
+    "awakened_power":                 "Erwachte Kraft",
+    "awakened_power_desc":            "Aktiviere 'Erwachen der inneren Kraft' Fähigkeit",
     
-    "in_infinity":                    "In Infinity",
-    "in_infinity_desc":               "Clear instance",
+    "in_infinity":                    "In der Unendlichkeit",
+    "in_infinity_desc":               "Kläre ein Instanz",
     
-    "deep_in_infinity":               "Deep In Infinity",
-    "deep_in_infinity_desc":          "Clear ten instances",
+    "deep_in_infinity":               "Tief in der Unendlichkeit",
+    "deep_in_infinity_desc":          "Kläre zehn Instanzen",
     
-    "swarmling_purge":                "Swarmling Purge",
-    "swarmling_purge_desc":           "Destroy 1000 swarmlings",
+    "swarmling_purge":                "Schwarm-Bereinigung",
+    "swarmling_purge_desc":           "Zerstöre 1000 Schwärmlinge",
     
-    "ultimate_destroyer":             "Ultimate Destroyer",
-    "ultimate_destroyer_desc":        "Destroy 30 bosses",
+    "ultimate_destroyer":             "Ultimativer Zerstörer",
+    "ultimate_destroyer_desc":        "Zerstöre 30 Bosse",
     
-    "paragon":                        "Paragon",
-    "paragon_desc":                   "Have 30 fractal or better parts installed",
+    "paragon":                        "PVorbild",
+    "paragon_desc":                   "Rüste dein Raumschiff mit 30 fraktalen oder besseren Bauteilen aus",
     
     "adamant":                        "Adamant",
-    "adamant_desc":                   "Have 1000000 or more maximum armor",
+    "adamant_desc":                   "Dein Raumschiff besitzt 1000000 oder mehr maximale Rüstung",
     
-    "apocalyptic":                    "Apocalyptic",
-    "apocalyptic_desc":               "Have 1000000 or more weapon damage",
+    "apocalyptic":                    "Apokalyptisch",
+    "apocalyptic_desc":               "Dein Raumschiff verfügt über 1000000 oder mehr Waffenschaden",
     
-    "amplification":                  "Amplification",
-    "amplification_desc":             "Use amplifier to upgrade part",
+    "amplification":                  "Verstärkung",
+    "amplification_desc":             "Benutze einen Verstärker, um ein Bauteil aufzurüsten",
     
-    "masterpiece":                    "Masterpiece",
-    "masterpiece_desc":               "Install part with ten or more properties",
+    "masterpiece":                    "Meisterstück",
+    "masterpiece_desc":               "Installiere ein Bauteil mit zehn oder mehr Eigenschaften",
     
-    "conqueror_of_the_machines":      "Conqueror of the Machines",
-    "conqueror_of_the_machines_desc": "Destroy the Eight Machines without failures",
+    "conqueror_of_the_machines":      "Eroberer der Maschinen",
+    "conqueror_of_the_machines_desc": "Zerstöre die 'Acht Maschinen' ohne Misserfolg",
     
     
     
