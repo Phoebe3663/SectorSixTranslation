@@ -1,16 +1,16 @@
-Sector Six is a side-scrolling, sci-fi shooter with silhouette aesthetic, procedural loot, extensive customization, and story missions.
+Sector Six - гэта сайд-скролер, sci-fi шутэр з сілуэтнай эстэтыкай, працэдурным лутам, пашыранай кастамiзацыяй, і сюжэтнымі місіямі.
 
-Save the Universe
-Enter distant future and join the desperate fight to stop the Eight Machines from destroying everything. In your journey, you will interact with ancient structures and beings, break laws of physics, travel between Sectors, battle swarms of the Machine minions, collectors, despair, anomalies, defense systems - all to stop the terrible enemy.
+Ратуйце Сусвет
+Акуніцеся ў далёкую будучыню і ўступiце ў адчайную бітву, каб спыніць Восем Машын ад знішчэння свету. У сваёй прыгодзе вы сустрэнеце старажытных істот, парушыце законы фізікі, будзеце падарожнічаць у іншыя Сектары, змагацца з мільёнамі памагатаеў машын, калектары, адчай, анамаліі, ахоўныя сістэмы - усё гэта, каб спыніць жудаснага ворага.
 
-Build your spaceship
-Spaceship building allows you to build a unique ship from procedural parts, obtained by destroying minions of the Machines. Every part has various properties and can be placed anywhere on the building field, allowing you to customize performance, appearance, and size of your ship.
+Пабудуйце свой карабель
+Пабудова карабля дазваляе вам сабраць свой уласны карабель з дэталяў, атрыманых шляхам знішчэння памагатаеў Машын. У кожнай дэталі свае ўласцівасці і яны могуць быць размешчаны дзе заўгодна ў поле будаўніцтва, Дазваляючы вам кастамiзаваць сілу, знешні выгляд, і памер вашага карабля.
 
-Become master of spaceship combat
-Test not just your spaceship, but also your skills as you dodge enemy projectiles and find the right timing to counterattack with your own. Each enemy brings new attacks, defenses, and strategies to defeat - it’s up to you to hone your combat skills and take them down.
+Станьце лепшым у бітве караблёў
+Праверце не толькі свой карабель, але і ваш навык ухілення ад стрэлаў ворагаў для контратакі. У кожнага ворага свае спосабы нападу, абароны, і свае стратэгіі - адтачыце свае навыкі для перамогі над імі!
 
-Part customization, part sets, and relics
-Combine, upgrade, and re-roll parts to create ones that are ideal for your dream spaceship. If that is not enough, collect set parts and relics to transform your destroyer of invaders into something even more powerful!
+Наладкi дэталяў, наборы дэталяў і рэліквіі
+Камбінуйце, паляпшайце, i перастаўляйце дэталі для карабля сваёй мары. Калі гэтага не дастаткова, збярыце наборы дэталяў і рэліквіі, каб ператварыць свой знішчальнік захопнікаў у нешта больш магутнае!
 
-Modular difficulty system
-Make the game as hard as you want it to be! Modular difficulty system allows you to modify almost every element of the combat and offers rewards for increasing the difficulty.
+Мадулярная сістэма ўзроўняў складанасці
+Зрабіце гульню настолькі складанай, наколькі вы хочаце, каб яна была! Мадулярная сістэма ўзроўню складанасці дазваляе вам мадыфікаваць амаль любы элемент бітвы і павялічвае ўзнагароду за павелічэнне складанасці.
