@@ -7,20 +7,20 @@
     
     "sector_six":             "Sector Six",
     
-    "press_any_key":          "Press any key",
-    "to_continue":            "To continue",
+    "press_any_key":          "Націсніце любую клавішу",
+    "to_continue":            "Працягнуць",
     
-    "button1":                "Map",
-    "button2":                "Done",
-    "button3":                "Spaceship",
-    "button4":                "Achievements",
-    "button5":                "Abilities",
+    "button1":                "Карта",
+    "button2":                "Гатова",
+    "button3":                "Карабель",
+    "button4":                "Дасягненні",
+    "button5":                "Здольнасці",
     
-    "button6":                "Story",
-    "button6_b":              "Activities",
+    "button6":                "Сюжэт",
+    "button6_b":              "Дзейнасць",
     
-    "button7":                "Settings",
-    "button8":                "Fullscreen",
+    "button7":                "Налады",
+    "button8":                "Поўнаэкранны",
     "button8_tooltip1":       "Toggles fullscreen mode",
     "button9":                "V-sync",
     "button9_tooltip1":       "Toggles vertical synchronization",
