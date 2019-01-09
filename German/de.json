@@ -152,7 +152,7 @@
     "advanced_parts":         "erweiterte Bauteile",
     "extant_parts":           "fraktale Bauteile",
     "mythical_parts":         "mysthische Bauteile",
-    "relays":                 "Verstärker",
+    "relays":                 "Relais",
     "pylons":                 "Pylone",
     "nodes":                  "Knoten",
     "sections":               "Sektionen",
@@ -229,12 +229,12 @@
     "right":                  "Rechts",
     "up":                     "Hoch",
     "down":                   "Runter",
-    "enter":                  "Enter",
-    "space":                  "Space",
-    "shift":                  "Shift",
-    "ctrl":                   "Ctrl",
+    "enter":                  "Eingabe",
+    "space":                  "Leertaste",
+    "shift":                  "Hochstelltaste",
+    "ctrl":                   "Strg",
     "alt":                    "Alt",
-    "backspace":              "Backspace",
+    "backspace":              "Rücktaste",
     "tab":                    "Tab",
     "home":                   "Pos1",
     "end":                    "Ende",
@@ -260,7 +260,7 @@
     "broken_space":                   "Durchbrochener Raum",
     "broken_space_desc":              "Erreiche Phase",
     
-    "advanced_enemy":                 "Hochentwickelter Feind",
+    "advanced_enemy":                 "Erfahrener Feind",
     "advanced_enemy_desc":            "Zerstöre einen Veteranen",
     
     "extinction_event":               "Auslöschung",
@@ -272,20 +272,20 @@
     "demolisher":                     "Demolierer",
     "demolisher_desc":                "Demoliere 500 Ruinen",
     
-    "fallen_city":                    "Zerfallenen Stadt",
+    "fallen_city":                    "Zerfallene Stadt",
     "fallen_city_desc":               "Demoliere zehn Ruinen nacheinander",
   
     "hunter":                         "Jäger",
-    "hunter_desc":                    "Zerstöre 100 modifizierte Gefolgsleute",
+    "hunter_desc":                    "Zerstöre 100 modifizierte Lakaien",
     
     "legendary_hunter":               "Legendärer Jäger",
-    "legendary_hunter_desc":          "Zerstöre 1000 modifizierte Gefolgsleute",
+    "legendary_hunter_desc":          "Zerstöre 1000 modifizierte Lakaien",
     
     "consumer":                       "Verbraucher",
     "consumer_desc":                  "Verbrauche 1000 Legierungen, um dein Raumschiff zu reparieren",
     
     "obelisk_of_destruction":         "Obelisk der Zerstörung",
-    "obelisk_of_destruction_desc":    "Zerstöre fünf Gefolgsleute mit dem selben Obelisken",
+    "obelisk_of_destruction_desc":    "Zerstöre fünf Lakaien mit dem selben Obelisken",
     
     "unbreakable":                    "Unverwüstlich",
     "unbreakable_desc":               "Beende eine Boss-Mision der Stufe 10 ohne Legierungs-Behälter",
@@ -323,7 +323,7 @@
     "ultimate_destroyer":             "Ultimativer Zerstörer",
     "ultimate_destroyer_desc":        "Zerstöre 30 Bosse",
     
-    "paragon":                        "PVorbild",
+    "paragon":                        "Vorbild",
     "paragon_desc":                   "Rüste dein Raumschiff mit 30 fraktalen oder besseren Bauteilen aus",
     
     "adamant":                        "Adamant",
@@ -343,185 +343,185 @@
     
     
     
-    "fractal":                "Fractal",
-    "fractal_desc":           "Install fractal part",
+    "fractal":                "Fraktal",
+    "fractal_desc":           "Installiere ein fraktales Bauteil",
     
-    "mythical":               "Mythical",
-    "mythical_desc":          "Install mythical part",
+    "mythical":               "Mythisch",
+    "mythical_desc":          "Installiere ein mythisches Bauteil",
     
     "etalon":                 "Etalon",
-    "etalon_desc":            "Install etalon",
+    "etalon_desc":            "Installiere Etalon",
     
-    "relic":                  "Relic",
-    "relic_desc":             "Install relic",
+    "relic":                  "Relikt",
+    "relic_desc":             "Installiere ein Relikt",
     
-    "relic_carrier":          "Relic Carrier",
-    "relic_carrier_desc":     "Have 4 relics installed",
+    "relic_carrier":          "Relikt Träger",
+    "relic_carrier_desc":     "Habe 4 Relikte installiert",
     
-    "arcane_arsenal":         "Arcane Arsenal",
-    "arcane_arsenal_desc":    "Obtain all relics",
+    "arcane_arsenal":         "Arkanes Arsenal",
+    "arcane_arsenal_desc":    "Erlange alle Relikte",
     
     
     
-    "fighter":                  "Fighter",
-    "fighter_desc":             "Reach level 10",
+    "fighter":                  "Kämpfer",
+    "fighter_desc":             "Erreiche Stufe 10",
     
     "veteran":                  "Veteran",
-    "veteran_desc":             "Reach level 20",
+    "veteran_desc":             "Erreiche Stufe 20",
     
-    "master":                   "Master",
-    "master_desc":              "Reach level 30",
+    "master":                   "Meister",
+    "master_desc":              "Erreiche Stufe 30",
     
-    "hero":                     "Hero",
-    "hero_desc":                "Reach level 40",
+    "hero":                     "Held",
+    "hero_desc":                "Erreiche Stufe 40",
     
-    "legend":                   "Legend",
-    "legend_desc":              "Reach level 50",
+    "legend":                   "Legende",
+    "legend_desc":              "Erreiche Stufe 50",
     
-    "legendary_fighter":        "Legendary Fighter",
-    "legendary_fighter_desc":   "Reach level 60",
+    "legendary_fighter":        "Legendärer Kämpfer",
+    "legendary_fighter_desc":   "Erreiche Stufe 60",
     
-    "legendary_master":         "Legendary Master",
-    "legendary_master_desc":    "Reach level 75",
+    "legendary_master":         "Legendärer Meister",
+    "legendary_master_desc":    "Erreiche Stufe 75",
     
-    "legendary_hero":           "Legendary Hero",
-    "legendary_hero_desc":      "Reach level 90",
+    "legendary_hero":           "Legendärer Held",
+    "legendary_hero_desc":      "Erreiche Stufe 90",
   
     
     
-    "sacrifice":                      "Sacrifice",
-    "sacrifice_desc":                 "Trigger sacrificial alloy container ability",
+    "sacrifice":                      "Opfer",
+    "sacrifice_desc":                 "Löse die 'Opfer-Fähigkeit' eines Legierungs-Behälters aus",
     
-    "into_eternity":                  "Into Eternity",
-    "into_eternity_desc":             "Trigger eternal alloy container ability",
+    "into_eternity":                  "Für die Ewigkeit",
+    "into_eternity_desc":             "Löse die 'Ewig-Während-Fähigkeit' eines Legierungs-Behälters aus",
     
-    "ancient_technology":             "Ancient Technology",
-    "ancient_technology_desc":        "Trigger ancient alloy container ability",
+    "ancient_technology":             "Antike Technologie",
+    "ancient_technology_desc":        "Löse die 'Antik-Fähigkeit' eines  Legierungs-Behälters aus",
     
-    "entropy":                        "Entropy",
-    "entropy_desc":                   "Trigger unstable alloy container ability",
+    "entropy":                        "Entropie",
+    "entropy_desc":                   "Löse die 'Instabil-Fähigkeit' eines Legierungs-Behälters aus",
     
-    "untimely_disintegration":        "Untimely Disintegration",
-    "untimely_disintegration_desc":   "Trigger transient alloy container ability",
+    "untimely_disintegration":        "Vorzeitiger Zerfall",
+    "untimely_disintegration_desc":   "Löse die 'Flüchtig-Fähigkeit' eines Legierungs-Behälters aus",
     
     
     
-    "retrieval":                      "Retrieval",
-    "retrieval_desc":                 "Complete retrieval mission",
+    "retrieval":                      "Bergung",
+    "retrieval_desc":                 "Beende eine Bergungs-Mission",
     
-    "region_reclaimed":               "Area Reclaimed",
-    "region_reclaimed_desc":          "Complete elimination mission",
+    "region_reclaimed":               "Gebiet zurückerobert",
+    "region_reclaimed_desc":          "Beende eine Eliminierungs-Mission",
     
-    "in_time":                        "In Time",
-    "in_time_desc":                   "Complete time attack mission",
+    "in_time":                        "Rechtzeitig",
+    "in_time_desc":                   "Beende eine Zeitattacke-Mission",
     
-    "destroyer":                      "Destroyer",
-    "destroyer_desc":                 "Complete kill mission",
+    "destroyer":                      "Zrerstörer",
+    "destroyer_desc":                 "Beeende eine Tötungs-Mission",
     
-    "siege_master":                   "Siege Master",
-    "siege_master_desc":              "Complete siege mission",
+    "siege_master":                   "Meister der Belagerung",
+    "siege_master_desc":              "Beende eine Belagerungs-Mission",
     
-    "new_beginning":                  "New Beginning",
-    "new_beginning_desc":             "Complete resurrection mission",
+    "new_beginning":                  "Ein Neuer Anfang",
+    "new_beginning_desc":             "Beende eine Wiederauferstehungs-Mission",
     
     "champion":                       "Champion",
-    "champion_desc":                  "Complete arena mission",
+    "champion_desc":                  "Beende eine Arena-Mission",
     
-    "colony_defender":                "Colony Defender",
-    "colony_defender_desc":           "Complete boss mission",
-    
-    
-    
-    "mass_elimination":               "Mass Elimination",
-    "mass_elimination_desc":          "Destroy over 100 minions during elimination mission",
-    
-    "quick_resurrection":             "Quick Resurrection",
-    "quick_resurrection_desc":        "Collect enough data before killing ten or more minions",
-    
-    "epic_reward":                    "Epic Reward",
-    "epic_reward_desc":               "Get five or more high grade parts from Techamer",
-    
-    "epic_retrieval":                 "Epic Retrieval",
-    "epic_retrieval_desc":            "Get five or more high grade parts from part case",
-    
-    "true_champion":                  "True Champion",
-    "true_champion_desc":             "Destroy 20 large minions during arena mission",
-    
-    "fanatic_of_destruction":         "Fanatic of Destruction",
-    "fanatic_of_destruction_desc":    "Complete kill mission after destroying 100 minions",
-    
-    "very_fast":                      "Very Fast",
-    "very_fast_desc":                 "Complete time attack mission in 35 seconds or less",
-    
-    "efficient":                      "Efficient",
-    "efficient_desc":                 "Complete siege mission with 100% accuracy and no leftover ammo",
+    "colony_defender":                "Verteidiger der Kolonie",
+    "colony_defender_desc":           "Beende eine Boss-Mission",
     
     
     
-    "mission_1":        "The Beginning",
-    "mission_1_desc":   "Complete Mission 1",
+    "mass_elimination":               "Massenvernichtung",
+    "mass_elimination_desc":          "Zerstöre mehr als 100 Lakaien während einer Eliminierungs-Mission",
     
-    "mission_2":        "To Negati",
-    "mission_2_desc":   "Complete Mission 2",
+    "quick_resurrection":             "Schnelle Auferstehung",
+    "quick_resurrection_desc":        "Sammle ausreichend Daten bevor du zehn oder mehr Lakaien zerstörst",
     
-    "mission_3":        "The Almadian Knowledge",
-    "mission_3_desc":   "Complete Mission 3",
+    "epic_reward":                    "Epische Belohnung",
+    "epic_reward_desc":               "Erhalte fünf oder mehr hochwertige Bauteile von Techamer",
     
-    "mission_4":        "The Core",
-    "mission_4_desc":   "Complete Mission 4",
+    "epic_retrieval":                 "Epische Bergung",
+    "epic_retrieval_desc":            "Erhalate fünf oder mehr hochwertige Bauteile aus Bauteil-Kisten",
     
-    "mission_5":        "The Eight Keys",
-    "mission_5_desc":   "Complete Mission 5",
+    "true_champion":                  "Wahrer Champion",
+    "true_champion_desc":             "Zerstöre 20 große Lakaien während einer Arena-Mission",
     
-    "mission_6":        "Wrath of the Machines",
-    "mission_6_desc":   "Complete Mission 6",
+    "fanatic_of_destruction":         "Zerstörungs-Fanatiker",
+    "fanatic_of_destruction_desc":    "Beende eine Tötungs-Mission, nachdem du 100 Lakaien zerstört hast",
     
-    "mission_7":        "Despair",
-    "mission_7_desc":   "Complete Mission 7",
+    "very_fast":                      "Flink",
+    "very_fast_desc":                 "Beende eine Zeitattacke-Mission in 35 Sekunden oder schneller",
     
-    "mission_8":        "The Forbidden Knowledge",
-    "mission_8_desc":   "Complete Mission 8",
-    
-    "mission_9":        "Path Beyond",
-    "mission_9_desc":   "Complete Mission 9",
-    
-    "mission_10":       "Beyond Light",
-    "mission_10_desc":  "Complete Mission 10",
-    
-    "mission_11":       "The Edge",
-    "mission_11_desc":  "Complete Mission 11",
-    
-    "mission_12":       "Destruction",
-    "mission_12_desc":  "Complete Mission 12",
-    
-    "mission_13":       "The Birth of Infinity",
-    "mission_13_desc":  "Complete Mission 13",
-    
-    "mission_14":       "The Eight Machines",
-    "mission_14_desc":  "Complete Mission 14",
+    "efficient":                      "Effizienz",
+    "efficient_desc":                 "Beende eine Belagerungs-Mission mit 100% Genauigkeit und ohne Restmunition",
     
     
     
-    "set_1":            "Etherion's Clash",
-    "set_1_desc":       "Complete a mission with Etherion's Clash set effect active",
+    "mission_1":        "Der Beginn",
+    "mission_1_desc":   "Beende Mission 1",
     
-    "set_2":            "Cor's Voidshape",
-    "set_2_desc":       "Complete a mission with Cor's Voidshape set effect active",
+    "mission_2":        "Nach Negati",
+    "mission_2_desc":   "Beende Mission 2",
     
-    "set_3":            "Ultranid's Torment",
-    "set_3_desc":       "Complete a mission with Ultranid's Torment set effect active",
+    "mission_3":        "Das Almadian Wissen",
+    "mission_3_desc":   "Beende Mission 3",
     
-    "set_4":            "Kithalia's Blight",
-    "set_4_desc":       "Complete a mission with Kithalia's Blight set effect active",
+    "mission_4":        "Der Kern",
+    "mission_4_desc":   "Beende Mission 4",
     
-    "set_5":            "Oesa's Radiance",
-    "set_5_desc":       "Complete a mission with Oesa's Radiance set effect active",
+    "mission_5":        "Die Acht Schlüssel",
+    "mission_5_desc":   "Beende Mission 5",
     
-    "set_6":            "Azimar's Killframe",
-    "set_6_desc":       "Complete a mission with Azimar's Killframe set effect active",
+    "mission_6":        "Der Zorn der Maschinen",
+    "mission_6_desc":   "Beende Mission 6",
     
-    "set_7":            "Lodeon's Ultimatum",
-    "set_7_desc":       "Complete a mission with Lodeon's Ultimatum set effect active",
+    "mission_7":        "Verzweiflung",
+    "mission_7_desc":   "Beende Mission 7",
+    
+    "mission_8":        "Das Verbotene Wissen",
+    "mission_8_desc":   "Beende Mission 8",
+    
+    "mission_9":        "Der Pfad hinüber",
+    "mission_9_desc":   "Beende Mission 9",
+    
+    "mission_10":       "Jenseits des Lichts",
+    "mission_10_desc":  "Beende Mission 10",
+    
+    "mission_11":       "Auf Messers Schneide",
+    "mission_11_desc":  "Beende Mission 11",
+    
+    "mission_12":       "Vernichtung",
+    "mission_12_desc":  "Beende Mission 12",
+    
+    "mission_13":       "Die Geburt der Unendlichkeit",
+    "mission_13_desc":  "Beende Mission 13",
+    
+    "mission_14":       "Die Acht Maschinen",
+    "mission_14_desc":  "Beende Mission 14",
+    
+    
+    
+    "set_1":            "Etherions Waffengang",
+    "set_1_desc":       "Beende eine Mission, bei der 'Etherions Waffengang' Set-Effekt aktiviert ist.",
+    
+    "set_2":            "Cors Leere Hülle",
+    "set_2_desc":       "Beende eine Mission, bei der 'Cors Leere Hülle' Set-Effekt aktiviert ist.",
+    
+    "set_3":            "Ultranids Pein",
+    "set_3_desc":       "Beende eine Mission, bei der 'Ultranids Pein' Set-Effekt aktiviert ist.",
+    
+    "set_4":            "Kithalias Pesthauch",
+    "set_4_desc":       "Beende eine Mission, bei der 'Kithalias Pesthauch' Set-Effekt aktiviert ist.",
+    
+    "set_5":            "Oesas Glanz",
+    "set_5_desc":       "Beende eine Mission, bei der 'Oesas Glanz' Set-Effekt aktiviert ist.",
+    
+    "set_6":            "Azimars Gestalt des Tötens",
+    "set_6_desc":       "Beende eine Mission, bei der 'Azimars Gestalt des Tötens' Set-Effekt aktiviert ist.",
+    
+    "set_7":            "Lodeons Ultimatum",
+    "set_7_desc":       "Beende eine Mission, bei der 'Lodeons Ultimatum' Set-Effekt aktiviert ist.",
     
     
     
@@ -684,50 +684,50 @@
     "???":                        "???",
     "n/a":                        "N/A",
     
-    "music_volume":               "Music volume",
-    "sound_volume":               "Sound volume",
+    "music_volume":               "Musik-Lautstärke",
+    "sound_volume":               "Sound-Lautstärke",
     
-    "customize_controls":         "Customize keyboard",
-    "customize_controls_desc":    "Change the way the game is controlled",
+    "customize_controls":         "Tastatur anpassen",
+    "customize_controls_desc":    "Ändere die Art, wie das Spiel gesteuert wird",
     
-    "customize_avatar":           "Customize avatar",
-    "customize_desc":             "Change character name and avatar",
+    "customize_avatar":           "Avatar anpassen",
+    "customize_desc":             "Ändere den Namen und das Aussehen deines Avatars",
     
-    "confirm":                    "Confirm",
-    "spaceship_name":             "Change spaceship name",
-    "rename_ship":                "Change",
+    "confirm":                    "Bestägigen",
+    "spaceship_name":             "Ändere den Namen deines Raumschiffs",
+    "rename_ship":                "Ändern",
     
     "version":                    "Version",
     
-    "spaceship":                  "Level $$ spaceship",
+    "spaceship":                  "Stufe $$ Raumschiff",
     
-    "remap_upper":                "Customize keyboard controls",
-    "remap_lower":                "Click on control buttons and then press keyboard keys",
+    "remap_upper":                "Passe Tastatureingaben an",
+    "remap_lower":                "Klicke die Eingabe-Knöpfe an und drücke dann eine Taste auf der Tastatur",
     
     "solo_version":               "Version",
-    "empty_save_slot":            "Save slot $$",
-    "saved":                      "Saved",
+    "empty_save_slot":            "Speicherplatz $$",
+    "saved":                      "Gespeichert",
     
-    "achievements_achieved":      "Achievements achieved",
-    "achieved":                   "Achieved",
-    "new":                        "New",
+    "achievements_achieved":      "Erhaltene Errungenschaften",
+    "achieved":                   "Erhalten",
+    "new":                        "Neu",
     
          "COMMENT 11": "Below: Spaceship stat summary strings",
     
-    "parts_placed":               "$$/$$ parts installed",
-    "weapons_placed":             "$$ / $$ weapons installed",
-    "relics_placed":              "$$ / $$ relics installed",
+    "parts_placed":               "$$/$$ Bauteile installiert",
+    "weapons_placed":             "$$ / $$ Waffen installiert",
+    "relics_placed":              "$$ / $$ Relikte installiert",
     
-    "damage":                     "+$$% weapon damage",
+    "damage":                     "+$$% Waffenschaden",
     
-    "armour":                     "$$ maximum armor",
-    "ether":                      "$$ maximum ether",
+    "armour":                     "$$ maximale Panzerung",
+    "ether":                      "$$ maximales Ether",
     
-    "initial_ether_stat":         "$$ initial ether",
+    "initial_ether_stat":         "$$ Anfangs-Ether",
     
-    "total_weapon_damage":        "$$ weapon damage",
-    "total_cooling_rate":         "$$ cooling rate",
-    "total_ether_efficiency":     "$$ ether efficiency",
+    "total_weapon_damage":        "$$ Waffenschaden",
+    "total_cooling_rate":         "$$ Abkühlrate",
+    "total_ether_efficiency":     "$$ Ether-Effizienz",
     
     "ability_cooldowns":          "Ability cooldowns are reduced by $$%",
     "ether_costs":                "Ability ether costs are reduced by $$%",
