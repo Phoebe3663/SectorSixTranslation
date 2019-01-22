@@ -252,7 +252,7 @@
     "savior_desc":                    "Абараніць зону",
     
     "ultimate_savior":                "Гранічны збавіцель",
-    "ultimate_savior_desc":           "Абараніць усе зоны,
+    "ultimate_savior_desc":           "Абараніць усе зоны",
     
     "registered":                     "Зарэгістраваны",
     "registered_desc":                "Назваць карабель",
@@ -300,7 +300,7 @@
     "instantaneous_improvement_desc": "Атрымаць частку, палепшаную шанцам паляпшэння",
   
     "cancel_the_funeral":             "Адмяніць пахаванне",
-    "cancel_the_funeral_desc":        "Завершыце місію з 1% броні ці менш і без сплаву",
+    "cancel_the_funeral_desc":        "Завершыць місію з 1% броні ці менш і без сплаву",
     
     "the_apocalypse_has_come":        "Апакаліпсіс надышоў",
     "the_apocalypse_has_come_desc":   "Актываваць здольнасць Канец эры",
@@ -317,193 +317,193 @@
     "deep_in_infinity":               "Глыбока ў бясконцасці",
     "deep_in_infinity_desc":          "Ачысціць дзесяць асобнікаў",
     
-    "swarmling_purge":                "Swarmling Purge",
-    "swarmling_purge_desc":           "Destroy 1000 swarmlings",
+    "swarmling_purge":                "Ачышчэнне роя",
+    "swarmling_purge_desc":           "Знішчыць 1000 раёў",
     
-    "ultimate_destroyer":             "Ultimate Destroyer",
-    "ultimate_destroyer_desc":        "Destroy 30 bosses",
+    "ultimate_destroyer":             "Поўны разбуральнік",
+    "ultimate_destroyer_desc":        "Знішчыць 30 босаў",
     
-    "paragon":                        "Paragon",
-    "paragon_desc":                   "Have 30 fractal or better parts installed",
+    "paragon":                        "Парагон",
+    "paragon_desc":                   "Мець 30 усталяваных частак - фрактальных або лепей",
     
-    "adamant":                        "Adamant",
-    "adamant_desc":                   "Have 1000000 or more maximum armor",
+    "adamant":                        "Непахісны",
+    "adamant_desc":                   "Мець 1000000 або больш моцную браню",
     
-    "apocalyptic":                    "Apocalyptic",
-    "apocalyptic_desc":               "Have 1000000 or more weapon damage",
+    "apocalyptic":                    "Апакаліптычны",
+    "apocalyptic_desc":               "Мець 1000000 урона або больш",
     
-    "amplification":                  "Amplification",
-    "amplification_desc":             "Use amplifier to upgrade part",
+    "amplification":                  "Узмацненне",
+    "amplification_desc":             "Выкарыстаць узмацняльнік для абнаўлення дэталі",
     
-    "masterpiece":                    "Masterpiece",
-    "masterpiece_desc":               "Install part with ten or more properties",
+    "masterpiece":                    "Шэдэўр",
+    "masterpiece_desc":               "Усталяваць дэталь з дзесяццю ці больш уласцівасцямі",
     
-    "conqueror_of_the_machines":      "Conqueror of the Machines",
-    "conqueror_of_the_machines_desc": "Destroy the Eight Machines without failures",
-    
-    
-    
-    "fractal":                "Fractal",
-    "fractal_desc":           "Install fractal part",
-    
-    "mythical":               "Mythical",
-    "mythical_desc":          "Install mythical part",
-    
-    "etalon":                 "Etalon",
-    "etalon_desc":            "Install etalon",
-    
-    "relic":                  "Relic",
-    "relic_desc":             "Install relic",
-    
-    "relic_carrier":          "Relic Carrier",
-    "relic_carrier_desc":     "Have 4 relics installed",
-    
-    "arcane_arsenal":         "Arcane Arsenal",
-    "arcane_arsenal_desc":    "Obtain all relics",
+    "conqueror_of_the_machines":      "Заваёўнік машын",
+    "conqueror_of_the_machines_desc": "Знішчыць восем машын без збояў",
     
     
     
-    "fighter":                  "Fighter",
-    "fighter_desc":             "Reach level 10",
+    "fractal":                "Фрактальны",
+    "fractal_desc":           "Усталяваць фрактальную частку",
     
-    "veteran":                  "Veteran",
-    "veteran_desc":             "Reach level 20",
+    "mythical":               "Міфічны",
+    "mythical_desc":          "Усталяваць міфічную частку",
     
-    "master":                   "Master",
-    "master_desc":              "Reach level 30",
+    "etalon":                 "Эталон",
+    "etalon_desc":            "Усталяваць эталон",
     
-    "hero":                     "Hero",
-    "hero_desc":                "Reach level 40",
+    "relic":                  "Рэліквія",
+    "relic_desc":             "Усталяваць рэліквію",
     
-    "legend":                   "Legend",
-    "legend_desc":              "Reach level 50",
+    "relic_carrier":          "Перавозчык рэліквій",
+    "relic_carrier_desc":     "Усталяваць 4 рэліквіі",
     
-    "legendary_fighter":        "Legendary Fighter",
-    "legendary_fighter_desc":   "Reach level 60",
+    "arcane_arsenal":         "Тайны арсенал",
+    "arcane_arsenal_desc":    "Атрымаць усе рэліквіі",
     
-    "legendary_master":         "Legendary Master",
-    "legendary_master_desc":    "Reach level 75",
     
-    "legendary_hero":           "Legendary Hero",
-    "legendary_hero_desc":      "Reach level 90",
+    
+    "fighter":                  "Баец",
+    "fighter_desc":             "Дасягнуць узроўню 10",
+    
+    "veteran":                  "Ветэран",
+    "veteran_desc":             "Дасягнуць узроўню 20",
+    
+    "master":                   "Майстар",
+    "master_desc":              "Дасягнуць узроўню 30",
+    
+    "hero":                     "Герой",
+    "hero_desc":                "Дасягнуць узроўню 40",
+    
+    "legend":                   "Легенда",
+    "legend_desc":              "Дасягнуць узроўню 50",
+    
+    "legendary_fighter":        "Легендарны баец",
+    "legendary_fighter_desc":   "Дасягнуць узроўню 60",
+    
+    "legendary_master":         "Легендарны майстар",
+    "legendary_master_desc":    "Дасягнуць узроўню 75",
+    
+    "legendary_hero":           "Легендарны герой",
+    "legendary_hero_desc":      "Дасягнуць узроўню 90",
   
     
     
-    "sacrifice":                      "Sacrifice",
-    "sacrifice_desc":                 "Trigger sacrificial alloy container ability",
+    "sacrifice":                      "Ахвяра",
+    "sacrifice_desc":                 "Магчымасць запуску кантэйнера з ахвярнага сплаву",
     
-    "into_eternity":                  "Into Eternity",
-    "into_eternity_desc":             "Trigger eternal alloy container ability",
+    "into_eternity":                  "У вечнасць",
+    "into_eternity_desc":             "Магчымасць запуску кантэйнера з вечнага сплаву",
     
-    "ancient_technology":             "Ancient Technology",
-    "ancient_technology_desc":        "Trigger ancient alloy container ability",
+    "ancient_technology":             "Старажытныя тэхналогіі",
+    "ancient_technology_desc":        "Магчымасць запуску кантэйнера са старажытнага сплаву",
     
-    "entropy":                        "Entropy",
-    "entropy_desc":                   "Trigger unstable alloy container ability",
+    "entropy":                        "Энтрапія",
+    "entropy_desc":                   "Магчымасць запуску кантэйнера з нестабільнага сплаву",
     
-    "untimely_disintegration":        "Untimely Disintegration",
-    "untimely_disintegration_desc":   "Trigger transient alloy container ability",
-    
-    
-    
-    "retrieval":                      "Retrieval",
-    "retrieval_desc":                 "Complete retrieval mission",
-    
-    "region_reclaimed":               "Area Reclaimed",
-    "region_reclaimed_desc":          "Complete elimination mission",
-    
-    "in_time":                        "In Time",
-    "in_time_desc":                   "Complete time attack mission",
-    
-    "destroyer":                      "Destroyer",
-    "destroyer_desc":                 "Complete kill mission",
-    
-    "siege_master":                   "Siege Master",
-    "siege_master_desc":              "Complete siege mission",
-    
-    "new_beginning":                  "New Beginning",
-    "new_beginning_desc":             "Complete resurrection mission",
-    
-    "champion":                       "Champion",
-    "champion_desc":                  "Complete arena mission",
-    
-    "colony_defender":                "Colony Defender",
-    "colony_defender_desc":           "Complete boss mission",
+    "untimely_disintegration":        "Несвоечасовы распад",
+    "untimely_disintegration_desc":   "Магчымасць запуску кантэйнера з пераходнага сплаву",
     
     
     
-    "mass_elimination":               "Mass Elimination",
-    "mass_elimination_desc":          "Destroy over 100 minions during elimination mission",
+    "retrieval":                      "Пошук",
+    "retrieval_desc":                 "Завяршыць місію пошуку",
     
-    "quick_resurrection":             "Quick Resurrection",
-    "quick_resurrection_desc":        "Collect enough data before killing ten or more minions",
+    "region_reclaimed":               "Меліяраваная плошча",
+    "region_reclaimed_desc":          "Завяршыць місію ліквідацыі",
     
-    "epic_reward":                    "Epic Reward",
-    "epic_reward_desc":               "Get five or more high grade parts from Techamer",
+    "in_time":                        "Своечасова",
+    "in_time_desc":                   "Завершыце місію часу",
     
-    "epic_retrieval":                 "Epic Retrieval",
-    "epic_retrieval_desc":            "Get five or more high grade parts from part case",
+    "destroyer":                      "Разбуральнік",
+    "destroyer_desc":                 "Завяршыць місію забойства",
     
-    "true_champion":                  "True Champion",
-    "true_champion_desc":             "Destroy 20 large minions during arena mission",
+    "siege_master":                   "Майстар аблогi",
+    "siege_master_desc":              "Завяршыць місію аблогi",
     
-    "fanatic_of_destruction":         "Fanatic of Destruction",
-    "fanatic_of_destruction_desc":    "Complete kill mission after destroying 100 minions",
+    "new_beginning":                  "Новы пачатак",
+    "new_beginning_desc":             "Завяршыць місію аднаўлення",
     
-    "very_fast":                      "Very Fast",
-    "very_fast_desc":                 "Complete time attack mission in 35 seconds or less",
+    "champion":                       "Чэмпіён",
+    "champion_desc":                  "Завяршыць місію арэны",
     
-    "efficient":                      "Efficient",
-    "efficient_desc":                 "Complete siege mission with 100% accuracy and no leftover ammo",
-    
-    
-    
-    "mission_1":        "The Beginning",
-    "mission_1_desc":   "Complete Mission 1",
-    
-    "mission_2":        "To Negati",
-    "mission_2_desc":   "Complete Mission 2",
-    
-    "mission_3":        "The Almadian Knowledge",
-    "mission_3_desc":   "Complete Mission 3",
-    
-    "mission_4":        "The Core",
-    "mission_4_desc":   "Complete Mission 4",
-    
-    "mission_5":        "The Eight Keys",
-    "mission_5_desc":   "Complete Mission 5",
-    
-    "mission_6":        "Wrath of the Machines",
-    "mission_6_desc":   "Complete Mission 6",
-    
-    "mission_7":        "Despair",
-    "mission_7_desc":   "Complete Mission 7",
-    
-    "mission_8":        "The Forbidden Knowledge",
-    "mission_8_desc":   "Complete Mission 8",
-    
-    "mission_9":        "Path Beyond",
-    "mission_9_desc":   "Complete Mission 9",
-    
-    "mission_10":       "Beyond Light",
-    "mission_10_desc":  "Complete Mission 10",
-    
-    "mission_11":       "The Edge",
-    "mission_11_desc":  "Complete Mission 11",
-    
-    "mission_12":       "Destruction",
-    "mission_12_desc":  "Complete Mission 12",
-    
-    "mission_13":       "The Birth of Infinity",
-    "mission_13_desc":  "Complete Mission 13",
-    
-    "mission_14":       "The Eight Machines",
-    "mission_14_desc":  "Complete Mission 14",
+    "colony_defender":                "Абаронца калоніі",
+    "colony_defender_desc":           "Завяршыць місію боса",
     
     
     
-    "set_1":            "Etherion's Clash",
-    "set_1_desc":       "Complete a mission with Etherion's Clash set effect active",
+    "mass_elimination":               "Vасавая ліквідацыя",
+    "mass_elimination_desc":          "Знішчыць больш за 100 мін'ёнаў падчас місіі ліквідацыі",
+    
+    "quick_resurrection":             "Хуткае аднаўленне",
+    "quick_resurrection_desc":        "Сабраць неабходныя дадзеныя, перш чым забіць дзесяць ці больш мін'ёнаў",
+    
+    "epic_reward":                    "Эпічная ўзнагарода",
+    "epic_reward_desc":               "Атрымаць пяць ці больш высакаякасных дэталяў ад Техамер",
+    
+    "epic_retrieval":                 "Эпічны пошук",
+    "epic_retrieval_desc":            "Атрымаць пяць ці больш высакаякасных дэталяў з футляру",
+    
+    "true_champion":                  "Сапраўдны чэмпіён",
+    "true_champion_desc":             "Знішчыць 20 буйных мін'ёнаў падчас місіі на арэне",
+    
+    "fanatic_of_destruction":         "Фанатык разбурэнні",
+    "fanatic_of_destruction_desc":    "Завяршыць місію забойства пасля знішчэння 100 мін'ёнаў",
+    
+    "very_fast":                      "Вельмі хутка",
+    "very_fast_desc":                 "Завяршыць місію часу за 35 секунд ці менш",
+    
+    "efficient":                      "Эфектыўна",
+    "efficient_desc":                 "Выканаць місію аблогi са 100% дакладнасцю і без боепрыпасаў",
+    
+    
+    
+    "mission_1":        "Пачатак",
+    "mission_1_desc":   "Завяршыць місію 1",
+    
+    "mission_2":        "Негацi",
+    "mission_2_desc":   "Завяршыць місію 2",
+    
+    "mission_3":        "Алмадыанскiя веды",
+    "mission_3_desc":   "Завяршыць місію 3",
+    
+    "mission_4":        "Ядро",
+    "mission_4_desc":   "Завяршыць місію 4",
+    
+    "mission_5":        "Восем ключоў",
+    "mission_5_desc":   "Завяршыць місію 5",
+    
+    "mission_6":        "Гнеў машын",
+    "mission_6_desc":   "Завяршыць місію 6",
+    
+    "mission_7":        "Адчай",
+    "mission_7_desc":   "Завяршыць місію 7",
+    
+    "mission_8":        "Забароненыя веды",
+    "mission_8_desc":   "Завяршыць місію 8",
+    
+    "mission_9":        "Iншы шлях",
+    "mission_9_desc":   "Завяршыць місію 9",
+    
+    "mission_10":       "Iншае святло",
+    "mission_10_desc":  "Завяршыць місію 10",
+    
+    "mission_11":       "Край",
+    "mission_11_desc":  "Завяршыць місію 11",
+    
+    "mission_12":       "Разбурэнне",
+    "mission_12_desc":  "Завяршыць місію 12",
+    
+    "mission_13":       "Нараджэнне бясконцасці",
+    "mission_13_desc":  "Завяршыць місію 13",
+    
+    "mission_14":       "Восем машын",
+    "mission_14_desc":  "Завяршыць місію 14",
+    
+    
+    
+    "set_1":            "Сутыкненне Этерiона",
+    "set_1_desc":       "Завяршыце місію з актыўным эфектам набору Сутыкненне Этерiона",
     
     "set_2":            "Cor's Voidshape",
     "set_2_desc":       "Complete a mission with Cor's Voidshape set effect active",
