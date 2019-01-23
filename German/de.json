@@ -5,7 +5,7 @@
           "COMMENT 8": "COMMENT lines does not need to be translated.",
           "COMMENT 9": "If you need help translating certain strings, contact developer. Email: zuurix@protonmail.com",
     
-   "sector_six":             "Sector Six",
+    "sector_six":             "Sector Sechs",
 	  
     "press_any_key":          "Drücke eine Taste",
     "to_continue":            "um fortzufahren",
@@ -112,7 +112,7 @@
     "button54_tooltip1":      "Ändert die Level-Begrenzung",
 
     "button55":               "Hervorheben",
-    "button56":               "Einsammelm",
+    "button56":               "Einsammeln",
     "button56_tooltip1":      "Sammle die Abgaben der gesicherten Regionen ein",
 
     "button57":               "Verlassen",
@@ -147,7 +147,7 @@
     
     "unfinished_parts":       "unvollendete Bauteile",
     "low_level_parts":        "Bauteile niedriger Stufe",
-    "generic_parts":          "typische Bauteile",
+    "generic_parts":          "standard Bauteile",
     "optimized_parts":        "optimerte Bauteile",
     "advanced_parts":         "erweiterte Bauteile",
     "extant_parts":           "fraktale Bauteile",
@@ -300,7 +300,7 @@
     "instantaneous_improvement_desc": "Erhalte eine Bauteil-Aufrüstung durch 'Bauteil-Aufrüst-Chance'",
   
     "cancel_the_funeral":             "Begräbnis verschoben",
-    "cancel_the_funeral_desc":        "Beende eine Mission mit 1% oder weniger Rüstung und ohne Legierung",
+    "cancel_the_funeral_desc":        "Beende eine Mission mit 1% oder weniger Panzerung und ohne Legierung",
     
     "the_apocalypse_has_come":        "Die Apokalypse ist gekommen",
     "the_apocalypse_has_come_desc":   "Aktiviere 'Eras Ende' Fähigkeit",
@@ -327,7 +327,7 @@
     "paragon_desc":                   "Rüste dein Raumschiff mit 30 fraktalen oder besseren Bauteilen aus",
     
     "adamant":                        "Adamant",
-    "adamant_desc":                   "Dein Raumschiff besitzt 1000000 oder mehr maximale Rüstung",
+    "adamant_desc":                   "Dein Raumschiff besitzt 1000000 oder mehr maximale Panzerung",
     
     "apocalyptic":                    "Apokalyptisch",
     "apocalyptic_desc":               "Dein Raumschiff verfügt über 1000000 oder mehr Waffenschaden",
@@ -526,162 +526,162 @@
     
     
     "error_error_error":              "Error Error Error",
-    "error_error_error_desc":         "Jam minion three times",
+    "error_error_error_desc":         "Blockiere einen Lakaien dreimal",
     
-    "a_million_lives_saved":          "A Million Lives Saved",
-    "a_million_lives_saved_desc":     "Destroy a siege unit before it releases its first sphere",
+    "a_million_lives_saved":          "Millonen Leben gerettet",
+    "a_million_lives_saved_desc":     "Zerstöre eine Belagerungs-Einheit, bevor sie erstmals eine Sphäre freisetzt",
     
     "passive_aggression":             "Passive Aggression",
-    "passive_aggression_desc":        "Destroy a minion without weapons on your spaceship",
+    "passive_aggression_desc":        "Zerstöre einen Lakaien ohne Waffen an Bord deines Raumschiffs",
     
-    "cache":                          "Cache",
-    "cache_desc":                     "Loot cache in Tarion",
+    "cache":                          "Vorratslager",
+    "cache_desc":                     "Plündere das Vorratslager in Tarion",
     
-    "mass_shatter":                   "Mass Shatter",
-    "mass_shatter_desc":              "Destroy three or more shields simultaneously with Shatter ability",
+    "mass_shatter":                   "Massive Erschütterung",
+    "mass_shatter_desc":              "Zerstöre gleichzeitig drei oder mehr Schilde mit der 'Zertrümmern-Fähigkeit'",
     
-    "mass_ionize":                    "Mass Ionize",
-    "mass_ionize_desc":               "Destroy three or more minions simultaneously with Ionize ability",
+    "mass_ionize":                    "Massive Ionisierung",
+    "mass_ionize_desc":               "Zerstöre gleichzeitig drei oder mehr Lakaien mit der 'Ionisierungs-Fähigkeit'",
     
-    "mass_detonate":                  "Mass Detonate",
-    "mass_detonate_desc":             "Detonate 40 or more mines simultaneously with Detonate ability",
+    "mass_detonate":                  "Massive Detonation",
+    "mass_detonate_desc":             "Löse gleichzeitig 40 oder mehr Minen mit der 'Detonations-Fähigkeit aus'",
     
-    "symbol_of_life":                 "Symbol of Life",
-    "symbol_of_life_desc":            "Find a life rune in Bloom",
+    "symbol_of_life":                 "Symbol des Lebens",
+    "symbol_of_life_desc":            "Finde eine Rune des Lebens in Bloom",
     
     "materialist":                    "Materialist",
-    "materialist_desc":               "Claim generic weapons as a mission reward five times in a row",
+    "materialist_desc":               "Beanspruche fünfmal hintereinander eine generische Waffe als Missions-Belohnung",
     
-    "imprisoned_power":               "Imprisoned Power",
-    "imprisoned_power_desc":          "Have a stack of 10 or more amplifiers",
+    "imprisoned_power":               "Gefangene Kraft",
+    "imprisoned_power_desc":          "Besitze einen Stapel von 10 oder mehr Verstärkern",
     
-    "seven_missiles":                 "Seven Missiles",
-    "seven_missiles_desc":            "Fire seven or more missiles with Swarm Control ability",
+    "seven_missiles":                 "Sieben Raketen",
+    "seven_missiles_desc":            "Feuere sieben oder mehr Raketen mit der 'Schwarm-Kontrolle-Fähigkeit' ab",
     
-    "ancient_tool":                   "Ancient Tool",
-    "ancient_tool_desc":              "Use reliquary item",
-    
-    
-    
-    "slayer_of_the_light_eater":      "Slayer of the Light Eater",
-    "slayer_of_the_shadow_maker":     "Slayer of the Shadow Maker",
-    "slayer_of_the_planet_killer":    "Slayer of the Planet Killer",
-    "slayer_of_the_swarm_former":     "Slayer of the Swarm Former",
-    "slayer_of_the_void_shaper":      "Slayer of the Void Shaper",
-    "slayer_of_the_shield_breaker":   "Slayer of the Shield Breaker",
-    "slayer_of_the_fear_bringer":     "Slayer of the Fear Bringer",
-    "slayer_of_the_plague_carrier":   "Slayer of the Plague Carrier",
-    
-    "slayer_of_the_light_eater_desc":      "Destroy Light Eater Eashor",
-    "slayer_of_the_shadow_maker_desc":     "Destroy Shadow Maker Numinir",
-    "slayer_of_the_planet_killer_desc":    "Destroy Planet Killer Astrail",
-    "slayer_of_the_swarm_former_desc":     "Destroy Swarm Former Hivind",
-    "slayer_of_the_void_shaper_desc":      "Destroy Void Shaper Tenerata",
-    "slayer_of_the_shield_breaker_desc":   "Destroy Shield Breaker Ligwitch",
-    "slayer_of_the_fear_bringer_desc":     "Destroy Fear Bringer Ourend",
-    "slayer_of_the_plague_carrier_desc":   "Destroy Plague Carrier Malasmar",
+    "ancient_tool":                   "Antikes Werkzeug",
+    "ancient_tool_desc":              "Benutze einen Relikt-Gegenstand",
     
     
     
-    "deep_path_escalation":             "Deep Path Escalation",
-    "deep_path_escalation_desc":        "Complete a mission in Deep Path",
+    "slayer_of_the_light_eater":      "Bezwinger des Lichtverschlingers",
+    "slayer_of_the_shadow_maker":     "Bezwinger des Schattenmachers",
+    "slayer_of_the_planet_killer":    "Bezwinger des Planetenvernichters",
+    "slayer_of_the_swarm_former":     "Bezwinger des Schwarmtformer",
+    "slayer_of_the_void_shaper":      "Bezwinger der Formgeberin der Leere",
+    "slayer_of_the_shield_breaker":   "Bezwinger der Schildbrecherin",
+    "slayer_of_the_fear_bringer":     "Bezwinger des Boten der Angst",
+    "slayer_of_the_plague_carrier":   "Bezwinger des Träger der Seuche",
     
-    "negati_escalation":                "Negati Escalation",
-    "negati_escalation_desc":           "Complete a mission in Negati",
-    
-    "labyrinth_escalation":             "Labyrinth Escalation",
-    "labyrinth_escalation_desc":        "Complete a mission in Labyrinth",
-    
-    "the_core_escalation":              "Through Chaos",
-    "the_core_escalation_desc":         "Complete a mission in the Core",
-    
-    "aspil_escalation":                 "Aspil Escalation",
-    "aspil_escalation_desc":            "Complete a mission in Aspil",
-    
-    "pylon_escalation":                 "Pylon Escalation",
-    "pylon_escalation_desc":            "Complete a mission in Pylon",
-    
-    "niss_escalation":                  "Niss Escalation",
-    "niss_escalation_desc":             "Complete a mission in Niss",
-    
-    "archmist_escalation":              "Archmist Escalation",
-    "archmist_escalation_desc":         "Complete a mission in Archmist",
-    
-    "sailemar_escalation":              "Sailemar Escalation",
-    "sailemar_escalation_desc":         "Complete a mission in Sailemar",
-    
-    "ityl_escalation":                  "Ityl Escalation",
-    "ityl_escalation_desc":             "Complete a mission in Ityl",
-    
-    "paradise_escalation":              "Paradise Escalation",
-    "paradise_escalation_desc":         "Complete a mission in Paradise",
-    
-    "tarion_escalation":                "Tarion Escalation",
-    "tarion_escalation_desc":           "Complete a mission in Tarion",
-    
-    "tridenkor_escalation":             "Tridenkor Escalation",
-    "tridenkor_escalation_desc":        "Complete a mission in Tridenkor",
-    
-    "colowis_escalation":               "Colowis Escalation",
-    "colowis_escalation_desc":          "Complete a mission in Colowis",
-    
-    "mzenim_escalation":                "Mzenim Escalation",
-    "mzenim_escalation_desc":           "Complete a mission in Mzenim",
-    
-    "silaar_escalation":                "Silaar Escalation",
-    "silaar_escalation_desc":           "Complete a mission in Silaar",
-    
-    "high_path_escalation":             "High Path Escalation",
-    "high_path_escalation_desc":        "Complete a mission in High Path",
-    
-    "scrambler_belt_escalation":        "Scrambler Belt Escalation",
-    "scrambler_belt_escalation_desc":   "Complete a mission in Scrabler Belt",
-    
-    "eolutch_escalation":               "Eolutch Escalation",
-    "eolutch_escalation_desc":          "Complete a mission in Eolutch",
-    
-    "charred_link_escalation":          "Charred Link Escalation",
-    "charred_link_escalation_desc":     "Complete a mission in Charred Link",
-    
-    "pulsar_vector_escalation":         "Pulsar Vector Escalation",
-    "pulsar_vector_escalation_desc":    "Complete a mission in Pulsar Vector",
-    
-    "bloom_escalation":                 "Bloom Escalation",
-    "bloom_escalation_desc":            "Complete a mission in Bloom",
-    
-    "lumer_pass_escalation":            "Lumer Pass Escalation",
-    "lumer_pass_escalation_desc":       "Complete a mission in Lumer Pass",
-    
-    "wacar_escalation":                 "Wacar Escalation",
-    "wacar_escalation_desc":            "Complete a mission in Wacar",
-    
-    "venerion_escalation":              "Venerion Escalation",
-    "venerion_escalation_desc":         "Complete a mission in Venerion",
-    
-    "phasse_escalation":                "Phasse Escalation",
-    "phasse_escalation_desc":           "Complete a mission in Phasse",
-    
-    "nebula_escalation":                "Nebula Escalation",
-    "nebula_escalation_desc":           "Complete a mission in Nebula",
-    
-    "spiral_escalation":                "Spiral Escalation",
-    "spiral_escalation_desc":           "Complete a mission in Spiral",
-    
-    "rift_escalation":                  "Through Rift",
-    "rift_escalation_desc":             "Complete a mission in Rift",
-    
-    "broken_infinity_escalation":       "Through Broken Infinity",
-    "broken_infinity_escalation_desc":  "Complete a mission in Broken Infinity",
-    
-    "in_war_path":                      "In War Path",
-    "in_war_path_desc":                 "Complete a mission in War Path",
-    
-    "in_white_grid":                    "In White Grid",
-    "in_white_grid_desc":               "Complete a mission in White Grid",
+    "slayer_of_the_light_eater_desc":      "Zerstöre Eashor, Verschlinger des Lichts",
+    "slayer_of_the_shadow_maker_desc":     "Zerstöre Numinir, den Schattenmacher",
+    "slayer_of_the_planet_killer_desc":    "Zerstöre Astrail, den Planetenvernichter",
+    "slayer_of_the_swarm_former_desc":     "Zerstöre Hivind, den Schwarmformer",
+    "slayer_of_the_void_shaper_desc":      "Zerstöre Tenerata, Formgeberin der Leere",
+    "slayer_of_the_shield_breaker_desc":   "Zerstöre Ligwitch, die Schildbrecherin",
+    "slayer_of_the_fear_bringer_desc":     "Zerstöre Ourend, Bote der Angst",
+    "slayer_of_the_plague_carrier_desc":   "Zerstöre Malasmar, Träger der Seuche",
     
     
     
-    "???":                        "???",
+    "deep_path_escalation":             "Tiefer Pfad Eskalation",
+    "deep_path_escalation_desc":        "Beende eine Mission in 'Tiefer Pfad'",
+    
+    "negati_escalation":                "Negati Eskalation",
+    "negati_escalation_desc":           "Beende eine Mission in 'Negati'",
+    
+    "labyrinth_escalation":             "Labyrinth Eskalation",
+    "labyrinth_escalation_desc":        "Beende eine Mission in 'Labyrinth'",
+    
+    "the_core_escalation":              "Durch das Chaos",
+    "the_core_escalation_desc":         "Beende eine Mission in 'Der Kern'",
+    
+    "aspil_escalation":                 "Aspil Eskalation",
+    "aspil_escalation_desc":            "Beende eine Mission in 'Aspil'",
+    
+    "pylon_escalation":                 "Pylon Eskalation",
+    "pylon_escalation_desc":            "Beende eine Mission in 'Pylon'",
+    
+    "niss_escalation":                  "Niss Eskalation",
+    "niss_escalation_desc":             "Beende eine Mission in 'Niss'",
+    
+    "archmist_escalation":              "Archmist Eskalation",
+    "archmist_escalation_desc":         "Beende eine Mission in 'Archmist'",
+    
+    "sailemar_escalation":              "Sailemar Eskalation",
+    "sailemar_escalation_desc":         "Beende eine Mission in 'Sailemar'",
+    
+    "ityl_escalation":                  "Ityl Eskalation",
+    "ityl_escalation_desc":             "Beende eine Mission in 'Ityl'",
+    
+    "paradise_escalation":              "Paradies Eskalation",
+    "paradise_escalation_desc":         "Beende eine Mission in 'Paradies'",
+    
+    "tarion_escalation":                "Tarion Eskalation",
+    "tarion_escalation_desc":           "Beende eine Mission in 'Tarion'",
+    
+    "tridenkor_escalation":             "Tridenkor Eskalation",
+    "tridenkor_escalation_desc":        "Beende eine Mission in 'Tridenkor'",
+    
+    "colowis_escalation":               "Colowis Eskalation",
+    "colowis_escalation_desc":          "Beende eine Mission in 'Colowis'",
+    
+    "mzenim_escalation":                "Mzenim Eskalation",
+    "mzenim_escalation_desc":           "Beende eine Mission in 'Mzenim'",
+    
+    "silaar_escalation":                "Silaar Eskalation",
+    "silaar_escalation_desc":           "Beende eine Mission in 'Silaar'",
+    
+    "high_path_escalation":             "Hoher Pfad Eskalation",
+    "high_path_escalation_desc":        "Beende eine Mission in 'Hoher Pfad'",
+    
+    "scrambler_belt_escalation":        "Scrambler Belt Eskalation",
+    "scrambler_belt_escalation_desc":   "Beende eine Mission in 'Scrabler Belt'",
+    
+    "eolutch_escalation":               "Eolutch Eskalation",
+    "eolutch_escalation_desc":          "Beende eine Mission in 'Eolutch'",
+    
+    "charred_link_escalation":          "Charred Link Eskalation",
+    "charred_link_escalation_desc":     "Beende eine Mission in 'Charred Link'",
+    
+    "pulsar_vector_escalation":         "Pulsar Vector Eskalation",
+    "pulsar_vector_escalation_desc":    "Beende eine Mission in 'Pulsar Vector'",
+    
+    "bloom_escalation":                 "Bloom Eskalation",
+    "bloom_escalation_desc":            "Beende eine Mission in 'Bloom'",
+    
+    "lumer_pass_escalation":            "Lumer Pass Eskalation",
+    "lumer_pass_escalation_desc":       "Beende eine Mission in 'Lumer Pass'",
+    
+    "wacar_escalation":                 "Wacar Eskalation",
+    "wacar_escalation_desc":            "Beende eine Mission in 'Wacar'",
+    
+    "venerion_escalation":              "Venerion Eskalation",
+    "venerion_escalation_desc":         "Beende eine Mission in 'Venerion'",
+    
+    "phasse_escalation":                "Phasse Eskalation",
+    "phasse_escalation_desc":           "Beende eine Mission in 'Phasse'",
+    
+    "nebula_escalation":                "Nebula Eskalation",
+    "nebula_escalation_desc":           "Beende eine Mission in 'Nebula'",
+    
+    "spiral_escalation":                "Spirale Eskalation",
+    "spiral_escalation_desc":           "Beende eine Mission in 'Spirale'",
+    
+    "rift_escalation":                  "Durch Rift",
+    "rift_escalation_desc":             "Beende eine Mission in 'Rift'",
+    
+    "broken_infinity_escalation":       "Durch Zerbrochene Unendlichkeit",
+    "broken_infinity_escalation_desc":  "Beende eine Mission in 'Zerbrochene Unendlichkeit'",
+    
+    "in_war_path":                      "In Pfad des Krieges",
+    "in_war_path_desc":                 "Beende eine Mission in 'Pfad des Krieges'",
+    
+    "in_white_grid":                    "In Weißes Gitter",
+    "in_white_grid_desc":               "Beende eine Mission in 'Weißes Gitter'",
+    
+    
+    
+       "???":                        "???",
     "n/a":                        "N/A",
     
     "music_volume":               "Musik-Lautstärke",
@@ -691,10 +691,10 @@
     "customize_controls_desc":    "Ändere die Art, wie das Spiel gesteuert wird",
     
     "customize_avatar":           "Avatar anpassen",
-    "customize_desc":             "Ändere den Namen und das Aussehen deines Avatars",
+    "customize_desc":             "Ändere Namen und Aussehen deines Avatars",
     
     "confirm":                    "Bestägigen",
-    "spaceship_name":             "Ändere den Namen deines Raumschiffs",
+    "spaceship_name":             "Benenne dein Raumschiff um",
     "rename_ship":                "Ändern",
     
     "version":                    "Version",
@@ -726,308 +726,308 @@
     "initial_ether_stat":         "$$ Anfangs-Ether",
     
     "total_weapon_damage":        "$$ Waffenschaden",
-    "total_cooling_rate":         "$$ Abkühlrate",
+    "total_cooling_rate":         "$$ Abklingzeit",
     "total_ether_efficiency":     "$$ Ether-Effizienz",
     
-    "ability_cooldowns":          "Ability cooldowns are reduced by $$%",
-    "ether_costs":                "Ability ether costs are reduced by $$%",
+    "ability_cooldowns":          "Fähigkeiten-Abklingzeit-Modifizierer: $$%",
+    "ether_costs":                "Fähigkeiten-Etherkosten-Modifizierer: $$%",
     
-    "reflect_chance":             "$$% chance to deflect enemy projectiles",
+    "reflect_chance":             "$$% Chance feindliche Projektile zu reflektieren",
     
-    "damage_reduction":           "Taken damage is reduced by $$%",
+    "damage_reduction":           "Erhaltener Schaden rediziert um $$%",
     
-    "upgrade_chance_stat":        "$$% chance to upgrade dropped part",
+    "upgrade_chance_stat":        "$$% Chance auf Verbesserung abgeworfener Bauteile",
     
-    "cooldown_reduction":         "Phase charge speed: $$",
-    "phase_break_damage":         "Phase damage: $$%",
+    "cooldown_reduction":         "Phase-Aufladungsgeschwindigkeit: $$",
+    "phase_break_damage":         "Phase-Schaden: $$%",
     
-    "white_wave_chance":          "$$% chance to cause stunning wave",
-    "red_wave_chance":            "$$% chance to cause damaging wave",
-    "black_wave_chance":          "$$% chance to cause shredding wave",
+    "white_wave_chance":          "$$% Chance Betäubungswelle zu erzeugen",
+    "red_wave_chance":            "$$% Chance Schadenswelle zu erzeugen",
+    "black_wave_chance":          "$$% Chance Schredderwelle zu erzeugen",
     
-    "relays_installed":           "$$ physical relays installed",
-    "pylons_installed":           "$$ physical pylons installed",
-    "nodes_installed":            "$$ physical nodes installed",
+    "relays_installed":           "$$ physische Relais installiert",
+    "pylons_installed":           "$$ physische Pylone installiert",
+    "nodes_installed":            "$$ physische Knoten installiert",
     
-    "v_relays_installed":         "$$ relays installed",
-    "v_pylons_installed":         "$$ pylons installed",
-    "v_nodes_installed":          "$$ nodes installed",
+    "v_relays_installed":         "$$ Relais installiert",
+    "v_pylons_installed":         "$$ Pylone installiert",
+    "v_nodes_installed":          "$$ Knoten installiert",
     
-    "parts_installed":            "$$ physical parts installed",
-    "v_parts_installed":          "$$ parts installed",
+    "parts_installed":            "$$ physische Bauteile installiert",
+    "v_parts_installed":          "$$ Bauteile installiert",
     
-    "engines_installed":          "$$ engines installed",
+    "engines_installed":          "$$ Antriebe installiert",
     
-    "slots_filled":               "$$/$$ slots filled",
-    "slot_pages":                 "$$ slot pages",
-    "slot_page":                  "$$ slot page",
+    "slots_filled":               "$$/$$ Slots gefüllt",
+    "slot_pages":                 "$$ Slot Seite",
+    "slot_page":                  "$$ Slot Seiten",
     
-    "imperfections":              "Imperfections detected",
-    "imperfection":               "Imperfection detected",
+    "imperfections":              "Mängel festgestellt",
+    "imperfection":               "Mängel festgestellt",
     
-    "engines_and_weapons":        "Too many weapons, no engines",
-    "no_engines":                 "No engines",
-    "too_many_weapons":           "Too many weapons",
+    "engines_and_weapons":        "Zu viele Waffen, kein Antrieb",
+    "no_engines":                 "Kein Antrieb",
+    "too_many_weapons":           "Zu viele Waffen",
     
-    "lack_of_weapons":            "Lack of weapons detected",
-    "add_more_weapons":           "Consider installing more weapons",
+    "lack_of_weapons":            "Fehlen von Waffen festgestellt",
+    "add_more_weapons":           "Erwäge mehr Waffen zu installieren",
     
-    "no_damage":                  "Your abilities deal no damage",
-    "add_more_relays":            "Install relays to increase damage",
+    "no_damage":                  "Dein Fähigkeiten fügen keinen Schaden zu",
+    "add_more_relays":            "Installiere Relais, um den Schaden zu erhöhen",
     
-    "process1":                   "Allocating memory...",
-    "process2":                   "Adapting module software...",
-    "process3":                   "Preparing processes...",
-    "process4":                   "Realigning resources...",
-    "process5":                   "Checking compability...",
-    "process6":                   "Scanning for malware...",
-    "process7":                   "Attaching...",
-    "process8":                   "Checking integrity...",
-    "process9":                   "Applying assets...",
-    "process10":                  "Preparing for fusion...",
-    "process11":                  "Fusing links...",
-    "process12":                  "Creating backup...",
-    "process13":                  "Checking for updates...",
-    "process14":                  "Downloading updates...",
-    "process15":                  "Calculating mass...",
-    "process16":                  "Adjusting total mass...",
-    "process17":                  "Starting loops...",
-    "process18":                  "Setting default parameters...",
-    "process19":                  "Checking system condition...",
-    "process20":                  "Transfering data...",
-    "process21":                  "Optimizing module resources...",
+    "process1":                   "Verteile Speicher...",
+    "process2":                   "Passe Software-Module an...",
+    "process3":                   "Bereite Prozesse vor...",
+    "process4":                   "Ordne Prozesse ein...",
+    "process5":                   "Prüfe Kompatiblität...",
+    "process6":                   "Suche nach Schadsoftware...",
+    "process7":                   "Hänge an...",
+    "process8":                   "Prüfe Integrität...",
+    "process9":                   "Überwache Sicherheit...",
+    "process10":                  "Bereite Fusion vor...",
+    "process11":                  "Erzeuge Verbindung...",
+    "process12":                  "Lege Sicherung an...",
+    "process13":                  "Überprüfe auf Updates...",
+    "process14":                  "Lade Updates herunter...",
+    "process15":                  "Kalkuliere Masse...",
+    "process16":                  "Passe Gesamtmasse an...",
+    "process17":                  "Starte Schleife...",
+    "process18":                  "Stelle Standard-Parameter ein...",
+    "process19":                  "Überprüfe System-Zustand...",
+    "process20":                  "Übertrage Daten...",
+    "process21":                  "OptimiereModul-Ressourcen...",
     
-    "detaching":                  "Detaching...",
+    "detaching":                  "Löse los...",
     
-    "installing":                 "Installing $$%",
-    "uninstalling":               "Uninstalling $$%",
+    "installing":                 "Installiere $$%",
+    "uninstalling":               "Deinstalliere $$%",
     
-    "container_alloy":            "$$/$$ alloy",
-    "container_alloy_wide":       "$$ / $$ alloy",
-    "refill_cost":                "Refill cost: $$ alloy",
+    "container_alloy":            "$$/$$ Legierung",
+    "container_alloy_wide":       "$$ / $$ Legierung",
+    "refill_cost":                "Auffüllkosten: $$ Legierung",
     
-    "no_container":               "No container",
-    "no_alloy":                   "0 / 0 alloy",
+    "no_container":               "Kein Behälter",
+    "no_alloy":                   "0 / 0 Legierung",
     
-    "case":                       "Case",
-    "forge":                      "Forge",
+    "case":                       "Kiste",
+    "forge":                      "Esse",
     "tank":                       "Tank",
-    "vat":                        "Vat",
-    "vault":                      "Vault",
-    "well":                       "Well",
-    "flask":                      "Flask",
-    "urn":                        "Urn",
-    "phial":                      "Phial",
-    "shell":                      "Shell",
-    "bin":                        "Bin",
-    "bowl":                       "Bowl",
-    "cell":                       "Cell",
+    "vat":                        "Fass",
+    "vault":                      "Gruft",
+    "well":                       "Quell",
+    "flask":                      "Dose",
+    "urn":                        "Urne",
+    "phial":                      "Glas",
+    "shell":                      "Hülle",
+    "bin":                        "Eimer",
+    "bowl":                       "Bowle",
+    "cell":                       "Zelle",
     
-    "amphora":                    "Amphora",
+    "amphora":                    "Amphore",
     
           "COMMENT 6": "case-cell strings: They must be shorter than 5 characters",
     
-    "container_property1":        "Increased capacity",
-    "container_property2":        "Doubled capacity",
-    "container_property3":        "Generates $$ ether on kill",
-    "container_property4":        "Automatic",
-    "container_property5":        "Indestructible",
-    "container_property6":        "Gains 65 alloy every 50 kills",
-    "container_property7":        "Generates $$ armor on kill",
-    "container_property8":        "Gains 10 alloy every 15 kills",
-    "container_property9":        "Sacrificial",
-    "container_property10":       "Eternal",
-    "container_property11":       "Ancient",
+    "container_property1":        "Erhöhte Kapazität",
+    "container_property2":        "Doppelte Kapazität",
+    "container_property3":        "Generiert $$ Ether bei Tötung",
+    "container_property4":        "Automatisch",
+    "container_property5":        "Unzerstörbar",
+    "container_property6":        "Erhält 65 Legierung alle 50 Tötungen",
+    "container_property7":        "Generiert $$ Panzerung bei Tötung",
+    "container_property8":        "Erhält 10 Legierung alle 15 Tötungen",
+    "container_property9":        "Opfernd",
+    "container_property10":       "Ewig",
+    "container_property11":       "Antik",
     
-    "container_flaw1":            "Can only be used if ether is over 50%",
-    "container_flaw2":            "Can only be used if ether is below 50%",
-    "container_flaw3":            "Reduced capacity",
-    "container_flaw4":            "Corrupted",
-    "container_flaw5":            "Loses 20 alloy after every mission",
-    "container_flaw6":            "Unstable",
-    "container_flaw7":            "Transient",
+    "container_flaw1":            "Kann nur bei mehr als 50% Ether benutzt werden",
+    "container_flaw2":            "Kann nur bei weniger als 50% Ether benutzt werden",
+    "container_flaw3":            "Reduzierte Kapazität",
+    "container_flaw4":            "Beschädigt",
+    "container_flaw5":            "Verliert 20 Legierung nach jeder Mission",
+    "container_flaw6":            "Instabil",
+    "container_flaw7":            "Flüchtig",
     
-    "container_property_name1":   "Large $$",
-    "container_property_name2":   "Reserve $$",
-    "container_property_name3":   "Lumer $$",
-    "container_property_name4":   "Automatic $$",
-    "container_property_name5":   "Rigid $$",
-    "container_property_name6":   "Endurance $$",
-    "container_property_name7":   "Teranide $$",
-    "container_property_name8":   "Raid $$",
-    "container_property_name9":   "Sacrificial $$",
-    "container_property_name10":  "Eternal $$",
-    "container_property_name11":  "Ancient $$",
+    "container_property_name1":   "$$, groß",
+    "container_property_name2":   "Reserve-$$",
+    "container_property_name3":   "Lumere-$$",
+    "container_property_name4":   "Automatik-$$",
+    "container_property_name5":   "$$, starr",
+    "container_property_name6":   "$$, ausdauernd",
+    "container_property_name7":   "Teranid-$$",
+    "container_property_name8":   "Überfall-$$",
+    "container_property_name9":   "Opfer-$$",
+    "container_property_name10":  "$$, ewig",
+    "container_property_name11":  "$$, antik",
     
-    "container_flaw_name1":       "Etched $$",
-    "container_flaw_name2":       "Damaged $$",
-    "container_flaw_name3":       "Small $$",
-    "container_flaw_name4":       "Corrupted $$",
-    "container_flaw_name5":       "Leaking $$",
-    "container_flaw_name6":       "Unstable $$",
-    "container_flaw_name7":       "Transient $$",
+    "container_flaw_name1":       "$$, geätzt",
+    "container_flaw_name2":       "$$, beschädigt",
+    "container_flaw_name3":       "$$, klein",
+    "container_flaw_name4":       "$$, fehlerhaft",
+    "container_flaw_name5":       "$$, undicht",
+    "container_flaw_name6":       "$$, instabil",
+    "container_flaw_name7":       "$$, flüchtig",
     
-    "ability_name1":              "Missile Strike",
-    "ability_desc1":              "Releases missiles#Missiles deal $$% weapon damage#Adds cooldown to other attack abilities",
-    "ability_next1":              "Missiles deal $$% weapon damage",
+    "ability_name1":              "Schlag",
+    "ability_desc1":              "Gibt Geschosse aus den Waffen ab#Addiert Abklingzeit zu anderen Angriffs-Fähigkeiten#Grundschaden: $$% Waffenschaden",
+    "ability_next1":              "Grundschaden: $$% Waffenschaden",
     
-    "ability_name2":              "Piercing Laser",
-    "ability_desc2":              "Projects piercing laser#Laser deals $$% weapon damage#Laser lasts 5 seconds",
-    "ability_next2":              "Laser deals $$% weapon damage",
+    "ability_name2":              "Durchbohrender Laser",
+    "ability_desc2":              "Projiziert einen durchbohrenden Laser#Laser fügt $$% Waffenschaden zu#Laser dauert 5 Sekunden an",
+    "ability_next2":              "Laser fügt $$% Waffenschaden zu",
     
-    "ability_name3":              "Heat Shield",
-    "ability_desc3":              "Creates shield that lasts 3 seconds#Deals $$% weapon damage to all minions#Shares cooldown with other shielding abilities",
-    "ability_next3":              "Deals $$% weapon damage to all minions",
+    "ability_name3":              "Hitze-Schild",
+    "ability_desc3":              "Erzeugt ein 3 Sekunden anhaltenden Schild#Fügt allen Lakaien $$% Waffenschaden zu#Teilt Abklingzeit mit anderen Schild-Fähigkeiten",
+    "ability_next3":              "Fügt allen Lakaien $$% Waffenschaden zu",
     
-    "ability_name4":              "Shatter",
-    "ability_desc4":              "Deals $$% weapon damage to all minions#Deals 300% weapon damage to shielded minions#Destroys all shields",
-    "ability_next4":              "Deals $$% weapon damage to all minions",
+    "ability_name4":              "Schock",
+    "ability_desc4":              "Teilt $$% Waffenschaden an alle Lakaien aus#Teilt 300% Waffenschaden an schildgeschützte Lakaien aus#Zerstört alle Schilde",
+    "ability_next4":              "Teilt $$% Waffenschaden an alle Lakaien aus",
     
-    "ability_name5":              "Death From Above",
-    "ability_desc5":              "Launches ballistic missiles#Missiles deal $$% weapon damage",
-    "ability_next5":              "Missiles deal $$% weapon damage",
+    "ability_name5":              "Tod Von Oben",
+    "ability_desc5":              "Startet eine ballistische Raketen#Raketen fügen $$% Waffenschaden zu",
+    "ability_next5":              "Raketen fügen $$% Waffenschaden zu",
     
-    "ability_name6":              "Shards of Chaos",
-    "ability_desc6":              "Fires five shards of chaos#Shards deal $$% weapon damage",
-    "ability_next6":              "Each shard deals $$% weapon damage",
+    "ability_name6":              "Scherben des Chaos",
+    "ability_desc6":              "Feuert 5 Scherben des Chaos ab#Scherben fügen $$% Waffenschaden zu",
+    "ability_next6":              "Jede Scherbe fügt $$% Waffenschaden zu",
     
-    "ability_name7":              "Sustained Barrage",
-    "ability_desc7":              "Fires 1 seeking missile per $$ ether#Missiles deal $$% weapon damage#Consumes all ether",
-    "ability_next7":              "Missiles deal $$% weapon damage",
+    "ability_name7":              "Trommelfeuer",
+    "ability_desc7":              "Feuert ein Suchrakete pro $$ Ether ab#Raketen fügen $$% Waffenschaden zu#Verbraucht sämtliches Ether",
+    "ability_next7":              "Raketen fügen $$% Waffenschaden zu",
     
-    "ability_name8":              "Overload",
-    "ability_desc8":              "Sets all ability cooldowns to 0 seconds#Removes $$% armor",
-    "ability_next8":              "Removes $$% armor",
+    "ability_name8":              "Überlastung",
+    "ability_desc8":              "Setzt sämtliche Abklingzeiten auf 0 Sekunden#Entfernt $$% Panzerung",
+    "ability_next8":              "Entfernt $$% Panzerung",
     
-    "ability_name9":              "Era's End",
-    "ability_desc9":              "Unleashes apocalyptic laser#Laser deals $$% weapon damage#Laser lasts 15 seconds#15 second offensive ability cooldown",
-    "ability_next9":              "Laser deals $$% weapon damage",
+    "ability_name9":              "Eras Ende",
+    "ability_desc9":              "Entfesselt eine apokalyptische Laser#Laser fügt $$% Waffenschaden zu#Laser dauert 15 Sekunden an#15 Sekunden Abklingzeit für Offensiv-Fähigkeiten",
+    "ability_next9":              "Laser fügt $$% Waffenschaden zu",
     
-    "ability_name10":             "Rapid Fire Mode",
-    "ability_desc10":             "Reduces Missile Strike ability cooldown#Effect lasts $$ seconds",
-    "ability_next10":             "Effect lasts $$ seconds",
+    "ability_name10":             "Schnellfeuer-Modus",
+    "ability_desc10":             "Reduziert Abklingzeit für Schlag-Fähigkeit# Der Effekt dauert $$ Sekunden an",
+    "ability_next10":             "Der Effekt dauert $$ Sekunden an",
     
-    "ability_name11":             "Breach",
-    "ability_desc11":             "When minion shield is destroyed:#Deals $$% weapon damage to all minions",
-    "ability_next11":             "When minion shield is destroyed:#Deals $$% weapon damage to all minions",
+    "ability_name11":             "Durchbruch",
+    "ability_desc11":             "Wenn das Scild eines Lakaien zerstört wird:#Teilt $$% Waffnschaden an alle Lakaien aus",
+    "ability_next11":             "Wenn das Scild eines Lakaien zerstört wird:#Teilt $$% Waffnschaden an alle Lakaien aus",
     
     "ability_name12":             "Aggression",
-    "ability_desc12":             "+$$% weapon damage#+$$% maximum ether#+$$% chance to cause damaging wave",
-    "ability_next12":             "+$$% weapon damage#+$$% maximum ether#+$$% chance to cause damaging wave",
+    "ability_desc12":             "+$$% Waffenschaden#+$$% maximales Ether#+$$% Chance, eine Beschädigungswelle auszulösen",
+    "ability_next12":             "+$$% Waffenschaden#+$$% maximales Ether#+$$% Chance, eine Beschädigungswelle auszulösen",
     
-    "ability_name13":             "Concentrated Fire",
-    "ability_desc13":             "Releases missiles#Missiles deal $$% weapon damage#Continuous use reduces cooldown#After 50 uses ability needs reloading#Reloading takes 1 second#Adds cooldown to other attack abilities",
-    "ability_next13":             "Missiles deal $$% weapon damage",
+    "ability_name13":             "Geschosshagel",
+    "ability_desc13":             "Gibt Geschosse aus den Waffen ab#Stete Nutzung reduziert Abklingzeit#Nachladen nach 50x nutzen#Addiert Abklingzeit zu anderen Angriffs-Fähigkeiten#Grundschaden: $$% Waffenschaden",
+    "ability_next13":             "Grundschaden: $$% Waffenschaden",
     
-    "ability_name14":             "Resurrect Armor",
-    "ability_desc14":             "Repairs $$% armor",
-    "ability_next14":             "Repairs $$% armor",
+    "ability_name14":             "Panzerung wiederherstellen",
+    "ability_desc14":             "Repariert $$% Panzerung",
+    "ability_next14":             "Repariert $$% Panzerung",
     
-    "ability_name15":             "Searing Beam",
-    "ability_desc15":             "Projects piercing beam that lashes minions#Beam deals $$% weapon damage",
-    "ability_next15":             "Beam deals $$% weapon damage",
+    "ability_name15":             "Sengender Strahl",
+    "ability_desc15":             "Projiziert einen durchbohrenden Strahl, der Lakaien geißelt#Strahl fügt $$% Waffenschaden zu",
+    "ability_next15":             "Strahl fügt $$% Waffenschaden zu",
     
-    "ability_name16":             "Swarm Control",
-    "ability_desc16":             "Releases missile for every minion in range#Missiles deal $$% weapon damage#Missiles bypasses armor and shields",
-    "ability_next16":             "Missiles deal $$% weapon damage",
+    "ability_name16":             "Schwarmkontrolle",
+    "ability_desc16":             "Startet eine Rakete für jeden Lakaien in Reichweite#Raketen fügen $$% Waffenschaden zu#Raketen umgehen Panzerung und Schilde",
+    "ability_next16":             "Raketen fügen $$% Waffenschaden zu",
     
-    "ability_name17":             "Super Shield",
-    "ability_desc17":             "Creates shield that lasts 8 seconds#Shield boosts armor generation by $$%#Shares cooldown with shield abilities",
-    "ability_next17":             "Shield boosts armor generation by $$%",
+    "ability_name17":             "Superschild",
+    "ability_desc17":             "Erzeugt ein 8 Sekunden andauerndes Schild#Schild steigert die Regeneration der Panzerung um $$%#Teilt Abklingzeit mit anderen Schild-Fähigkeiten",
+    "ability_next17":             "Schild steigert die Regeneration der Panzerung um $$%",
     
-    "ability_name18":             "Dimensional Fracture",
-    "ability_desc18":             "Weakens dimensional structure#Activate this ability again to cause fracture#Fracture destroys minion shields#Fracture deals $$% weapon damage#Fracture has $$% chance to stun minions",
-    "ability_next18":             "Fracture deals $$% weapon damage#Fracture has $$% chance to stun minions",
+    "ability_name18":             "Dimensionsbruch",
+    "ability_desc18":             "Schwächt die Dimensions-Struktur#Aktiviere diese Fähigkeit erneut, um einen Bruch herbeizuführen#Der Bruch zerstört die Schilde der Lakaien#Bruch fügt $$% Waffenschaden zu#Bruch hat eine $$% Chance, Lakaien zubetäuben",
+    "ability_next18":             "Bruch fügt $$% Waffenschaden zu#Bruch hat eine $$% Chance, Lakaien zubetäuben",
     
-    "ability_name19":             "Nuke",
-    "ability_desc19":             "Releases powerful missile#Missile deals $$% weapon damage",
-    "ability_next19":             "Missile deals $$% weapon damage",
+    "ability_name19":             "Sprengkopf",
+    "ability_desc19":             "Startet ein mächtige Rakete#Rakete fügt $$% Waffenschaden zu",
+    "ability_next19":             "Rakete fügt $$% Waffenschaden zu",
     
-    "ability_name20":             "Black Rain",
-    "ability_desc20":             "Causes black rain#Rain deals $$% weapon damage#WARNING:#Rain also deals damage to your spaceship#Rain lasts 7 seconds",
-    "ability_next20":             "Rain deals $$% weapon damage",
+    "ability_name20":             "Schwarzer Regen",
+    "ability_desc20":             "Verursacht schwarzen Regen#Regen fügt $$% Waffenschaden zu#WARNUNG:#Regen fügt auch deinem Raumschiff Schaden zu#Regen dauert 7 Sekunden an",
+    "ability_next20":             "Regen fügt $$% Waffenschaden zu",
     
-    "ability_name21":             "Guardian of a Thousand Worlds",
-    "ability_desc21":             "Transforms ship into the legendary Guardian#Repairs 100% armor#Guardian is invincible#Guardian's attack deals $$% damage#Effect lasts 20 seconds",
-    "ability_next21":             "Guardian's attack deals $$% damage",
+    "ability_name21":             "Wächter von tausend Welten",
+    "ability_desc21":             "Transformiert das Schiff in einen legendären Wächter#Repariert 100% Panzerung#Der Wächter ist unverwundbar#Angriff des Wächters fügt $$% Schaden zu#Der Effekt dauert 20 Sekunden an",
+    "ability_next21":             "Angriff des Wächters fügt $$% Schaden zu",
     
-    "ability_name22":             "Creation of Energy",
-    "ability_desc22":             "Creates $$ ether#Effect strength is based on ether generation",
-    "ability_next22":             "Creates $$ ether",
+    "ability_name22":             "Energie-Erschaffung",
+    "ability_desc22":             "Erzeugt $$ Ether#Die Stärke des Effekts basiert auf der Generierung von Ether",
+    "ability_next22":             "Erzeugt $$ Ether",
     
-    "ability_name23":             "Phase Recognition System",
-    "ability_desc23":             "+$$% phase damage#Increases phase charge speed by $$",
-    "ability_next23":             "+$$% phase damage#Increases phase charge speed by $$",
+    "ability_name23":             "Phase-Erfassungssystem",
+    "ability_desc23":             "+$$% Phaseschaden#Erhöht die Phase-Aufladunggeschwindigkeit um $$",
+    "ability_next23":             "+$$% Phaseschaden#Erhöht die Phase-Aufladunggeschwindigkeit um $$",
     
-    "ability_name24":             "Defense And Retaliation",
-    "ability_desc24":             "+$$% maximum armor#+$$% phase damage#Reduces taken damage by $$%",
-    "ability_next24":             "+$$% maximum armor#+$$% phase damage#Reduces taken damage by $$%",
+    "ability_name24":             "Verteidigung und Gegenschlag",
+    "ability_desc24":             "+$$% maximale Panzerung#+$$% Phaseschaden#Reduziert erhaltenen Schaden um $$%",
+    "ability_next24":             "+$$% maximale Panzerung#+$$% Phaseschaden#Reduziert erhaltenen Schaden um $$%",
     
-    "ability_name37":             "Spread Mines",
-    "ability_desc37":             "Releases mines#Mines deal $$% weapon damage#Mines need to be detonated to deal damage#Adds cooldown to other attack abilities",
-    "ability_next37":             "Mines deal $$% weapon damage",
+    "ability_name37":             "Entladen",
+    "ability_desc37":             "Setzt Minen aus den Waffen ab#Minen müssen gezündet werden, um Schaden anzurichten#Addiert Abklingzeit zu anderen Angriffs-Fähigkeiten#Grundschaden: $$% Waffenschaden",
+    "ability_next37":             "Grundschaden: $$% Waffenschaden",
     
-    "ability_name38":             "Detonate",
-    "ability_desc38":             "Detonates mines#Mines deal $$% more damage",
-    "ability_next38":             "Mines deal $$% more damage",
+    "ability_name38":             "Zündung",
+    "ability_desc38":             "Zündet Minen#Minen fügen $$% mehr Schaden zu",
+    "ability_next38":             "Minen fügen $$% mehr Schaden zu",
     
-    "ability_name39":             "Assemble Obelisk",
-    "ability_desc39":             "Assembles obelisk#Obelisk fires missiles at minions in range#Obelisk missiles deal $$% weapon damage#Obelisk lasts $$ seconds",
-    "ability_next39":             "Obelisk missiles deal $$% weapon damage#Obelisk lasts $$ seconds",
+    "ability_name39":             "Errichte Obelisk",
+    "ability_desc39":             "Errichtet einen Obelisken#Obelisk feuert Raketen auf Lakaien in Reichweite#Obelisk-Raketen fügen $$% Waffenschaden zu#Obelisk besteht $$ Sekunden",
+    "ability_next39":             "Obelisk-Raketen fügen $$% Waffenschaden zu#Obelisk besteht $$ Sekunden",
     
-    "ability_name40":             "Nine Bladed Mines",
-    "ability_desc40":             "Releases nine bladed mines#Mines deal $$% weapon damage#Mines destroy minion shields#Sets attack ability cooldowns to 5 seconds",
-    "ability_next40":             "Mines deal $$% weapon damage",
+    "ability_name40":             "Neun Klingen Minen",
+    "ability_desc40":             "Setzt neunklingige Minen ab#Minen fügen $$% Waffenschaden zu#Minen zerstören Schilde der Lakaien#Setzt die Abklingzeit von Angriffsfertigkeiten auf 5 Sekunden",
+    "ability_next40":             "Minen fügen $$% Waffenschaden zu",
     
-    "ability_name41":             "Power Shield",
-    "ability_desc41":             "Creates shield that lasts 6 seconds#Shield boosts ether generation by $$%#Shares cooldown with shield abilities",
-    "ability_next41":             "Shield boosts ether generation by $$%",
+    "ability_name41":             "Kraftschild",
+    "ability_desc41":             "Erzeuigt ein 6 Sekunden andauerndes Schild#Schild steigert die Generierung von Ether um $$%#Teilt Abklingzeit mit anderen Schild-Fähigkeiten",
+    "ability_next41":             "Schild steigert die Generierung von Ether um $$%",
     
-    "ability_name42":             "Bladed Mine",
-    "ability_desc42":             "Releases bladed mine#Mine deals $$% weapon damage#Mine destroys minion shields",
-    "ability_next42":             "Mine deals $$% weapon damage",
+    "ability_name42":             "Klingen-Mine",
+    "ability_desc42":             "Setzt Klingen-Minen ab#Mine fügt $$% Waffenschaden zu#Mine zerstört Schilde der Lakaien",
+    "ability_next42":             "Mine fügt $$% Waffenschaden zu",
     
-    "ability_name43":             "Attract Mines",
-    "ability_desc43":             "Attracts mines#Mines deal $$% weapon damage#Mines need to be detonated to deal damage",
-    "ability_next43":             "Mines deal $$% weapon damage",
+    "ability_name43":             "Minenanziehung",
+    "ability_desc43":             "Zieht Minen an#Minen fügen $$% Waffenschaden zu#Minen müssen gezündet werden",
+    "ability_next43":             "Minen fügen $$% Waffenschaden zu",
     
-    "ability_name44":             "EMP Grenade",
-    "ability_desc44":             "Launches grenade that causes EMP#EMP stuns all minions for 5 seconds#EMP deals $$% weapon damage to all minions",
-    "ability_next44":             "EMP deals $$% weapon damage to all minions",
+    "ability_name44":             "EMP Granate",
+    "ability_desc44":             "Starte eine Granate, die einen EMP erzeugt#EMP betäubt alle Lakaien für 5 Sekundne#EMP fügt allen Lakaien $$% Waffenschaden zu",
+    "ability_next44":             "EMP fügt allen Lakaien $$% Waffenschaden zu",
     
-    "ability_name45":             "Awakening of Inner Power",
-    "ability_desc45":             "Unleashes power stored within nodes#Removes $$% of armor from ALL minions#Damage is based on amount of nodes installed#Can only be used once per mission",
-    "ability_next45":             "Removes $$% of armor from ALL minions",
+    "ability_name45":             "Erwachen der Inneren Stärke",
+    "ability_desc45":             "Setzt die in Knoten gespeicherte Kraft frei#Entfernt $$% der Panzerung bei ALLEN Lakaien#Schaden hängt von der Anzahl installierter Knoten ab#Kann nur einmal pro Mission benutzt werden",
+    "ability_next45":             "Entfernt $$% der Panzerung  bei ALLEN Lakaien",
     
-    "ability_name46":             "Ionize",
-    "ability_desc46":             "Adds $$ alloy to alloy container#Destroys minions with less than 15% armor#Adds 2 extra alloy for every ionized enemy",
-    "ability_next46":             "Adds $$ alloy to alloy container",
+    "ability_name46":             "Ionisierung",
+    "ability_desc46":             "Fügt $$ Legierung dem Legierungsbehälter hinzu#Zerdstört Lakaien mit weniger als 15% Panzerung#Fügt für jeden ionisierten Lakaien 2 extra Legierung hinzu",
+    "ability_next46":             "Fügt $$ Legierung dem Legierungsbehälter hinzu",
     
-    "ability_name47":             "Channel",
-    "ability_desc47":             "Reduces ability ether cost by $$ for 3 seconds#Effect strength is based on ether generation",
-    "ability_next47":             "Reduces ability ether cost by $$ for 3 seconds",
+    "ability_name47":             "Kanalisierung",
+    "ability_desc47":             "Reduziert den Etherverbrauch von Fähigkeiten für 3 Sekunden um $$#Effektstärke basiert auf der Generierung von Ether",
+    "ability_next47":             "Reduziert den Etherverbrauch von Fähigkeiten für 3 Sekunden um $$",
     
-    "ability_name48":             "System Capacity",
-    "ability_desc48":             "+$$% maximum armor#+$$% weapon damage#+$$% chance to deflect enemy projectiles",
-    "ability_next48":             "+$$% maximum armor#+$$% weapon damage#+$$% chance to deflect enemy projectiles",
+    "ability_name48":             "System Kapazität",
+    "ability_desc48":             "+$$% maximale Panzerung#+$$% Waffenschaden#+$$% Chance feindliche Geschosse abzulenken",
+    "ability_next48":             "+$$% maximale Panzerung#+$$% Waffenschaden#+$$% Chance feindliche Geschosse abzulenken",
     
           "COMMENT 7": "ability_desc strings: Different description lines are separated by #. Try to keep same amount and length of lines. Contact developer for help. Context: https://imgur.com/DTo1mSC",
     
-    "passive_effect_line":        "Passive effect",
+     "passive_effect_line":        "Passive Effekte",
     
-    "passive_effect1":            "+$$% weapon damage",
-    "passive_effect2":            "+$$% maximum armor",
-    "passive_effect4":            "+$$% weapon damage#+$$% maximum armor",
+    "passive_effect1":            "+$$% Waffenschaden",
+    "passive_effect2":            "+$$% Maximale Panzerung",
+    "passive_effect4":            "+$$% Waffenschaden#+$$% Maximale Panzerung",
     
-    "generic_ability":            "Level $$ ability",
-    "attack_ability":             "Level $$ attack ability",
-    "damage_ability":             "Level $$ damage ability",
-    "repair_ability":             "Level $$ repair ability",
-    "shield_ability":             "Level $$ shield ability",
-    "shield_removal_ability":     "Level $$ shield removal ability",
-    "special_ability":            "Level $$ special ability",
-    "attribute_ability":          "Level $$ attribute ability",
-    "passive_ability":            "Level $$ passive ability",
+    "generic_ability":            "Level $$ Fähigkeit",
+    "attack_ability":             "Level $$ Angriffs-Fähigkeit",
+    "damage_ability":             "Level $$ Schadens-Fähigkeit",
+    "repair_ability":             "Level $$ Reperatur-Fähigkeit",
+    "shield_ability":             "Level $$ Schild-Fähigkeit",
+    "shield_removal_ability":     "Level $$ Schildentfernungs-Fähigkeit",
+    "special_ability":            "Level $$ Spezial-Fähigkeit",
+    "attribute_ability":          "Level $$ Attribut-Fähigkeit",
+    "passive_ability":            "Level $$ Passive Fähigkeit",
 
     "deselect_ability_pad":       "Press A to deselect ability",
     "deselect_ability_mouse":     "Click to deselect ability",
@@ -3894,26 +3894,26 @@
     "access_unlocked1":           "Advanced access",
     "access_unlocked2":           "Advanced features unlocked",
     
-    "new_ability_unlocked":       "New ability unlocked",
+     "new_ability_unlocked":       "Neue Fähigkeit freigeschaltet",
     
-    "new_abilities_unlocked" :    "New abilities unlocked",
+    "new_abilities_unlocked" :    "Neue Fähigkeiten freigeschaltet",
     "new_abilities_unlocked1":    "$$, $$",
     "new_abilities_unlocked2":    "$$, $$, $$",
 
     "max":                        "Max",
 
-    "resume":                     "Resume",
-    "exit_game":                  "Exit game",
-    "main_menu":                  "Main menu",
-    "end_mission":                "End mission",
+    "resume":                     "Fortsetzen",
+    "exit_game":                  "Spiel verlassen",
+    "main_menu":                  "Hauptmenü",
+    "end_mission":                "Mission abbrechen",
     
-    "paused":                     "Paused",
-    "pause_info":                 "Press resume to continue fighting",
+    "paused":                     "Pause",
+    "pause_info":                 "Drücke 'fortsetzen', um weiter zu kämpfen",
     
-    "epilepsy_warning":           "Epilepsy warning! Game contains flashing graphical effects",
-    "save_warning":               "Pre-release beta: Progress will be saved",
+    "epilepsy_warning":           "Epilepsie Warnung! Dieses Spiel erzeugt flackernde grafische Effekte",
+    "save_warning":               "Pre-release beta: Fortschritt wird gespeichert",
     
-    "error":                      "Error",
+    "error":                      "Fehler",
     
     "engine_error":               "You cannot use this item on engines",
     "modify_error":               "You cannot modify installed parts",
