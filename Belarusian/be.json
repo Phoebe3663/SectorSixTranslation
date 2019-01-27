@@ -503,142 +503,142 @@
     
     
     "set_1":            "Сутыкненне Этерiона",
-    "set_1_desc":       "Завяршыце місію з актыўным эфектам набору Сутыкненне Этерiона",
+    "set_1_desc":       "Завяршыць місію з актыўным эфектам набору Сутыкненне Этерiона",
     
-    "set_2":            "Cor's Voidshape",
-    "set_2_desc":       "Complete a mission with Cor's Voidshape set effect active",
+    "set_2":            "Пустата Корса",
+    "set_2_desc":       "Завяршыць місію з актыўным эфектам набору Пустата Корса",
     
-    "set_3":            "Ultranid's Torment",
-    "set_3_desc":       "Complete a mission with Ultranid's Torment set effect active",
+    "set_3":            "Пакуты Ультранiда",
+    "set_3_desc":       "Завяршыць місію з актыўным эфектам набору Пакуты Ультранiда",
     
-    "set_4":            "Kithalia's Blight",
-    "set_4_desc":       "Complete a mission with Kithalia's Blight set effect active",
+    "set_4":            "Уплыў Кiталii",
+    "set_4_desc":       "Завяршыць місію з актыўным эфектам набору Ўплыў Кiталii",
     
-    "set_5":            "Oesa's Radiance",
-    "set_5_desc":       "Complete a mission with Oesa's Radiance set effect active",
+    "set_5":            "Ззянне Аэсы",
+    "set_5_desc":       "Завяршыць місію з актыўным эфектам набору Ззянне Аэсы",
     
-    "set_6":            "Azimar's Killframe",
-    "set_6_desc":       "Complete a mission with Azimar's Killframe set effect active",
+    "set_6":            "Забойны Азiмар",
+    "set_6_desc":       "Завяршыць місію з актыўным эфектам набору Забойны Азiмар",
     
-    "set_7":            "Lodeon's Ultimatum",
-    "set_7_desc":       "Complete a mission with Lodeon's Ultimatum set effect active",
-    
-    
-    
-    "error_error_error":              "Error Error Error",
-    "error_error_error_desc":         "Jam minion three times",
-    
-    "a_million_lives_saved":          "A Million Lives Saved",
-    "a_million_lives_saved_desc":     "Destroy a siege unit before it releases its first sphere",
-    
-    "passive_aggression":             "Passive Aggression",
-    "passive_aggression_desc":        "Destroy a minion without weapons on your spaceship",
-    
-    "cache":                          "Cache",
-    "cache_desc":                     "Loot cache in Tarion",
-    
-    "mass_shatter":                   "Mass Shatter",
-    "mass_shatter_desc":              "Destroy three or more shields simultaneously with Shatter ability",
-    
-    "mass_ionize":                    "Mass Ionize",
-    "mass_ionize_desc":               "Destroy three or more minions simultaneously with Ionize ability",
-    
-    "mass_detonate":                  "Mass Detonate",
-    "mass_detonate_desc":             "Detonate 40 or more mines simultaneously with Detonate ability",
-    
-    "symbol_of_life":                 "Symbol of Life",
-    "symbol_of_life_desc":            "Find a life rune in Bloom",
-    
-    "materialist":                    "Materialist",
-    "materialist_desc":               "Claim generic weapons as a mission reward five times in a row",
-    
-    "imprisoned_power":               "Imprisoned Power",
-    "imprisoned_power_desc":          "Have a stack of 10 or more amplifiers",
-    
-    "seven_missiles":                 "Seven Missiles",
-    "seven_missiles_desc":            "Fire seven or more missiles with Swarm Control ability",
-    
-    "ancient_tool":                   "Ancient Tool",
-    "ancient_tool_desc":              "Use reliquary item",
+    "set_7":            "Ультыматум Ладэона",
+    "set_7_desc":       "Завяршыць місію з актыўным эфектам набору Ўльтыматум Ладэона",
     
     
     
-    "slayer_of_the_light_eater":      "Slayer of the Light Eater",
-    "slayer_of_the_shadow_maker":     "Slayer of the Shadow Maker",
-    "slayer_of_the_planet_killer":    "Slayer of the Planet Killer",
-    "slayer_of_the_swarm_former":     "Slayer of the Swarm Former",
-    "slayer_of_the_void_shaper":      "Slayer of the Void Shaper",
-    "slayer_of_the_shield_breaker":   "Slayer of the Shield Breaker",
-    "slayer_of_the_fear_bringer":     "Slayer of the Fear Bringer",
-    "slayer_of_the_plague_carrier":   "Slayer of the Plague Carrier",
+    "error_error_error":              "Памылка Памылка Памылка",
+    "error_error_error_desc":         "Заклінаваць мін'ёна тройчы",
     
-    "slayer_of_the_light_eater_desc":      "Destroy Light Eater Eashor",
-    "slayer_of_the_shadow_maker_desc":     "Destroy Shadow Maker Numinir",
-    "slayer_of_the_planet_killer_desc":    "Destroy Planet Killer Astrail",
-    "slayer_of_the_swarm_former_desc":     "Destroy Swarm Former Hivind",
-    "slayer_of_the_void_shaper_desc":      "Destroy Void Shaper Tenerata",
-    "slayer_of_the_shield_breaker_desc":   "Destroy Shield Breaker Ligwitch",
-    "slayer_of_the_fear_bringer_desc":     "Destroy Fear Bringer Ourend",
-    "slayer_of_the_plague_carrier_desc":   "Destroy Plague Carrier Malasmar",
+    "a_million_lives_saved":          "Мільён выратаваных жыццяў",
+    "a_million_lives_saved_desc":     "Знішчыць асадную адзінку, перш чым яна выпусціць першую сферу",
+    
+    "passive_aggression":             "Пасіўная агрэсія",
+    "passive_aggression_desc":        "Знішчыць мін'ёна без зброі на сваiм караблі",
+    
+    "cache":                          "Тайнiк",
+    "cache_desc":                     "Выкарыстаць тайнiк у Тарыёне",
+    
+    "mass_shatter":                   "Мас-разбурэнне",
+    "mass_shatter_desc":              "Знішчыць тры ці больш шчытоў за раз з дапамогай здольнасці Разбурэнне",
+    
+    "mass_ionize":                    "Мас-іянізацыя",
+    "mass_ionize_desc":               "Знішчыць тры ці больш шчытоў за раз з дапамогай здольнасці Iянiзацыя",
+    
+    "mass_detonate":                  "Мас-выбух",
+    "mass_detonate_desc":             "Падарваць 40 або больш мін за раз са здольнасцю Выбух",
+    
+    "symbol_of_life":                 "Сімвал жыцця",
+    "symbol_of_life_desc":            "Знайсці руну жыцця ў Блюм",
+    
+    "materialist":                    "Матэрыяліст",
+    "materialist_desc":               "Атрымаць звычайную зброю пяць разоў запар за місію ў якасці ўзнагароды",
+    
+    "imprisoned_power":               "Зняволеная сіла",
+    "imprisoned_power_desc":          "Мець пак з 10 або больш узмацняльнікаў",
+    
+    "seven_missiles":                 "См ракет",
+    "seven_missiles_desc":            "Выпусціць сем ці больш ракет з дапамогай здольнасці Кантроль Роя",
+    
+    "ancient_tool":                   "Старажытны інструмент",
+    "ancient_tool_desc":              "Выкарыстаць прадмет рэлікварыя",
     
     
     
-    "deep_path_escalation":             "Deep Path Escalation",
-    "deep_path_escalation_desc":        "Complete a mission in Deep Path",
+    "slayer_of_the_light_eater":      "Забойца пажыральніка святла",
+    "slayer_of_the_shadow_maker":     "Забойца стваральніка ценяў",
+    "slayer_of_the_planet_killer":    "Забойца знішчальніка планет",
+    "slayer_of_the_swarm_former":     "Забойца першага роя",
+    "slayer_of_the_void_shaper":      "Забойца стваральніцу пустаты",
+    "slayer_of_the_shield_breaker":   "Забойца разбуральніка шчытоў",
+    "slayer_of_the_fear_bringer":     "Забойца нясучага страх",
+    "slayer_of_the_plague_carrier":   "Забойца чуманосца",
     
-    "negati_escalation":                "Negati Escalation",
-    "negati_escalation_desc":           "Complete a mission in Negati",
+    "slayer_of_the_light_eater_desc":      "Iшар. Знішчыць пажыральніка святла",
+    "slayer_of_the_shadow_maker_desc":     "Нумiнiр. Знішчыць стваральніка ценяў",
+    "slayer_of_the_planet_killer_desc":    "Эстрэйл. Знішчыць знішчальніка планет",
+    "slayer_of_the_swarm_former_desc":     "Гiвiнд. Знішчыць першы рой",
+    "slayer_of_the_void_shaper_desc":      "Тэнерата. Знішчыць стваральніцу пустаты",
+    "slayer_of_the_shield_breaker_desc":   "Лiгвiтч. Знішчыць разбуральніка шчытоў",
+    "slayer_of_the_fear_bringer_desc":     "Оурэнд. Знішчыць нясучага страх",
+    "slayer_of_the_plague_carrier_desc":   "Маласмар. Знішчыць чуманосца",
     
-    "labyrinth_escalation":             "Labyrinth Escalation",
-    "labyrinth_escalation_desc":        "Complete a mission in Labyrinth",
     
-    "the_core_escalation":              "Through Chaos",
-    "the_core_escalation_desc":         "Complete a mission in the Core",
     
-    "aspil_escalation":                 "Aspil Escalation",
-    "aspil_escalation_desc":            "Complete a mission in Aspil",
+    "deep_path_escalation":             "Эскалацыя Глыбокага Шляху",
+    "deep_path_escalation_desc":        "Завяршыць місію Глубокi Шлях",
     
-    "pylon_escalation":                 "Pylon Escalation",
-    "pylon_escalation_desc":            "Complete a mission in Pylon",
+    "negati_escalation":                "Эскалацыя Негацi",
+    "negati_escalation_desc":           "Завяршыць місію Негацi",
     
-    "niss_escalation":                  "Niss Escalation",
-    "niss_escalation_desc":             "Complete a mission in Niss",
+    "labyrinth_escalation":             "Эскалацыя Лабірынта",
+    "labyrinth_escalation_desc":        "Завяршыць місію Лабiрынт",
     
-    "archmist_escalation":              "Archmist Escalation",
-    "archmist_escalation_desc":         "Complete a mission in Archmist",
+    "the_core_escalation":              "Праз хаос",
+    "the_core_escalation_desc":         "Завяршыць місію Ядро",
     
-    "sailemar_escalation":              "Sailemar Escalation",
-    "sailemar_escalation_desc":         "Complete a mission in Sailemar",
+    "aspil_escalation":                 "Эскалацыя Эспiль",
+    "aspil_escalation_desc":            "Завяршыць місію Эспiль",
     
-    "ityl_escalation":                  "Ityl Escalation",
-    "ityl_escalation_desc":             "Complete a mission in Ityl",
+    "pylon_escalation":                 "Эскалацыя Пiлон",
+    "pylon_escalation_desc":            "Завяршыць місію Пiлон",
     
-    "paradise_escalation":              "Paradise Escalation",
-    "paradise_escalation_desc":         "Complete a mission in Paradise",
+    "niss_escalation":                  "Эскалацыя Нiсс",
+    "niss_escalation_desc":             "Завяршыць місію Нiсс",
     
-    "tarion_escalation":                "Tarion Escalation",
-    "tarion_escalation_desc":           "Complete a mission in Tarion",
+    "archmist_escalation":              "Эскалацыя Архмiст",
+    "archmist_escalation_desc":         "Завяршыць місію Архмiст",
     
-    "tridenkor_escalation":             "Tridenkor Escalation",
-    "tridenkor_escalation_desc":        "Complete a mission in Tridenkor",
+    "sailemar_escalation":              "Эскалацыя Сайлемар",
+    "sailemar_escalation_desc":         "Завяршыць місію Сайлемар",
     
-    "colowis_escalation":               "Colowis Escalation",
-    "colowis_escalation_desc":          "Complete a mission in Colowis",
+    "ityl_escalation":                  "Эскалацыя Айтыль",
+    "ityl_escalation_desc":             "Завяршыць місію Айтыль",
     
-    "mzenim_escalation":                "Mzenim Escalation",
-    "mzenim_escalation_desc":           "Complete a mission in Mzenim",
+    "paradise_escalation":              "Эскалацыя Парадайс",
+    "paradise_escalation_desc":         "Завяршыць місію Парадайс",
     
-    "silaar_escalation":                "Silaar Escalation",
-    "silaar_escalation_desc":           "Complete a mission in Silaar",
+    "tarion_escalation":                "Эскалацыя Тарыён",
+    "tarion_escalation_desc":           "Завяршыць місію Тарыён",
     
-    "high_path_escalation":             "High Path Escalation",
-    "high_path_escalation_desc":        "Complete a mission in High Path",
+    "tridenkor_escalation":             "Эскалацыя Трiдэнкор",
+    "tridenkor_escalation_desc":        "Завяршыць місію Трiдэнкор",
     
-    "scrambler_belt_escalation":        "Scrambler Belt Escalation",
-    "scrambler_belt_escalation_desc":   "Complete a mission in Scrabler Belt",
+    "colowis_escalation":               "Эскалацыя Калаўiс",
+    "colowis_escalation_desc":          "Завяршыць місію Калаўiс",
     
-    "eolutch_escalation":               "Eolutch Escalation",
-    "eolutch_escalation_desc":          "Complete a mission in Eolutch",
+    "mzenim_escalation":                "Эскалацыя Мзенiм",
+    "mzenim_escalation_desc":           "Завяршыць місію Мзенiм",
+    
+    "silaar_escalation":                "Эскалацыя Сiлаар",
+    "silaar_escalation_desc":           "Завяршыць місію Сiлаар",
+    
+    "high_path_escalation":             "Эскалацыя Высокага Шляху",
+    "high_path_escalation_desc":        "Завяршыць місію Высокi Шлях",
+    
+    "scrambler_belt_escalation":        "Эскалацыя Пояса Шыфратара",
+    "scrambler_belt_escalation_desc":   "Завяршыць місію Пояс Шыфратара",
+    
+    "eolutch_escalation":               "Эскалацыя Эолатч",
+    "eolutch_escalation_desc":          "Завяршыць місію Эолатч",
     
     "charred_link_escalation":          "Charred Link Escalation",
     "charred_link_escalation_desc":     "Complete a mission in Charred Link",
