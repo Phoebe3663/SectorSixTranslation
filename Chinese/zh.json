@@ -4075,6 +4075,152 @@
     "part_upgraded":              "Part upgraded",
     
     "instance_areas_secured":     "$$ / $$ areas secured",
-    "average_difficulty":         "Average difficulty: $$"
+    "average_difficulty":         "Average difficulty: $$",
+	  
+"xp_removed_info1": 	"Region level too low",
+"xp_removed_info2": 	"Fight in higher level region to gain XP",
+	
+"disconnect_confirm":	"Disconnect from the vendor?",
+	
+"connected_to_vendor":	"Connected to $$ vendor",
+"connection_established":	"Quantum delivery system status: OK",
+	
+"disconnected_from_vendor":	"Disconnected",
+"disconnected_desc":	"Quantum delivery system status: NO TARGET",
+	
+"confirm_irreversible_action":	"Confirm irreversible action",
+"confirm_action":	"Confirm action",
+"disconnect_confirm_desc":	"You will not be able to connect to this vendor again until you complete a mission",
+	
+"vendor_closed":	"Closed",
+	
+"connected_error":	"Vendor is closed",
+"connected_error_desc":	"Return after a successful mission",
+	
+"in_inventory":	"in inventory",
+	
+"drop_sell":	"Drop item here to sell it",
+"drop_buy":	"Drop item here to buy it", 
+	
+"connect_pad":	"Press A to connect",
+"connect_click":	"Click to connect",
+	
+"activity_name5":	"Absolute Deterioration",
+"activity_id5":	"Activity",
+"activity_desc5":	"In a warped dimension formed of decaying instances, incarnated nightmares guard the treasures of fallen worlds.",
+"activity_reward5":	"Decayed fragments",
+	
+"activity_objective5":	"Fight in absolute deterioration",
+	
+"deterioration_mission":	"Absolute deterioration",
+"deterioration_mission1":	"Enter absolute deterioration to fight waves of minions",
+"deterioration_mission2":	"Survive as long as you can",
+	
+"absolute_deterioration_abbreviation":	"AD",
+	
+"region_name31":	"Accumulation Layer",
+	
+"area_name177":	"Absolute Deterioration",
+	
+"info_wave":	"Waves survived: $$",
+"info_end_mission":	"Press $$ to extract",
+"info_time_limit":	"Time remaining: $$",
+	
+"ad_reward":	"Wave $$ reward",
+	
+"sprite_name234":	"Stolen, Hidden, Forgotten, Lost",
+"124_relic_1":	"Increases relic limit by 2",
+"relic_source_124":	"Activity reward",
+	
+"sprite_name235":	"Physical Linking System",
+"125_relic_1":	"+1% weapon damage per three projectiles",
+"relic_source_125":	"Activity reward",
+	
+"sprite_name236":	"Radiance And Blight, Aberrant Alliance",
+"126_relic_1":	"Allows to have both Oesa's and Kithalia's sets active",
+"relic_source_126":	"Activity reward",
+	
+"sprite_name237":	"Flame Tower, Redirection Hub",
+"127_relic_1":	"If deflect chance is higher than 45%:",
+"127_relic_2":	"Deflected projectiles seek enemies",
+"127_relic_3":	"Deflected projectiles deal 100% weapon damage",
+"127_relic_4":	"Reduces projectile deflect chance by 45%",
+"relic_source_127":	"Activity reward",
+	
+"sprite_name238":	"Frailsphere, Pearl of Deterioration",
+"128_relic_1":	"Halves maximum armor",
+"128_relic_2":	"Halves phase charge speed",
+"128_relic_3":	"Once per mission, when armor drops to 0%:",
+"128_relic_4":	"Restores armor to 50%",
+"relic_source_128":	"Activity reward",
+	
+"sprite_name239":	"Horrorcradle, Darkspindle",
+"129_relic_1":	"+$$% to core attributes",
+"129_relic_2":	"Effect strength is based on absolute deterioration progress",
+"129_relic_3":	"Highest number of waves survived in deterioration: $$",
+"relic_source_129":	"Activity reward",
+	
+"item_name54":	"Decayed Fragment",
+"item_desc54":	"Thousand decayed fragments fuse into deterioration relic",
+	
+"decayed_fragment_fusion":	"Decayed fragment fusion",
+	
+"region_reward41":	"Deterioration relic",
+"region_reward42":	"Decayed fragments",
+	
+"relic_limit_error":	"This relic cannot be uninstalled until you have $$ or less relics installed",
+	
+"deterioration_survived":	"You have survived $$ waves",
+	
+"new_deterioration_wave":	"Stronger minions have entered deterioration",
+	
+"requires_difficulty_level":	"Max difficulty#to start",
+	
+"all":	"all",
+"set_components":	"set components",
+"pw_maximum_armor":	"maximum armor",
+"pw_maximum_ether":	"maximum ether",
+"pw_weapon_damage":	"weapon damage",
+"pw_damage_reduction":	"damage reduction",
+"pw_deflect_chance":	"deflect chance",
+"pw_ether_generation":	"ether generation",
+"pw_armor_generation":	"armor generation",
+"pw_armor_boost":	"armor boost",
+"pw_ether_boost":	"ether boost",
+"pw_damage_boost":	"damage boost",
+"pw_phase_charge_speed":	"phase charge speed",
+"pw_phase_damage":	"phase damage",
+"pw_experience_boost":	"experience boost",
+"pw_upgrade_chance":	"upgrade chance",
+"pw_initial_ether":	"initial ether",
+"pw_wave_chances":	"wave chances",
+"pw_ability_boost":	"ability boost",
+"pw_other_properties":	"other properties",
+	
+"sell_parts_with":	"Sell parts with#",
+"dismantle_parts_with":	"Dismantle parts with#",
+"uninstall_parts_with":	"Uninstall parts with#",
+	
+"select_parts_with":	"Select parts with ",
+"select_item_type":	"Select ",
+"select_item_description":	"Select to interact",
+	
+"select_items_pad":	"Press A to select",
+"select_items_mouse":	"Click to select",
+	
+"locked_item_error":	"This item is locked",
+	
+"button72":	"Select items",
+	
+"name21":	"ZeroAfflex from Steam",
+"name22":	"Karodde from Steam",
+"name23":	"Ayalan from Steam",
+"name24":	"Winterchild from Steam",
+	
+"toggle_map_key":	"Toggle map key",
+"jump_to_region":	"Jump to region",
+	
+"tip13":	"Corrupted containers give no alloy when dismantled.",
+"tip27":	"You can lock items by moving cursor over them and pressing $$. Locked items cannot be sold or dismantled."
   }
 }
