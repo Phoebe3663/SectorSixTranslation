@@ -4269,6 +4269,358 @@
 "jump_to_region":	"Jump to region",
 	
 "tip13":	"Corrupted containers give no alloy when dismantled.",
-"tip27":	"You can lock items by moving cursor over them and pressing $$. Locked items cannot be sold or dismantled."
+"tip27":	"You can lock items by moving cursor over them and pressing $$. Locked items cannot be sold or dismantled.",
+	  
+"restart_game":	"Restart required: Restart game now?",
+"save_warning":	"Unsaved progress will be lost if you will choose to restart",
+"infinity":	"Infinity",
+"flow_stagnation_warning":	"Ability ether costs will be doubled by Flow Stagnation modifier",
+"item_name_separator":	" ",
+"sort":	"Sort#selected items",
+"new_items":	"new items",
+ "sprite_name61": 	"Relay",
+ "sprite_name62": 	"Pylon",
+ "sprite_name63": 	"Node",
+ "sprite_name64": 	"Station",
+ "sprite_name65": 	"Deflector",
+ "sprite_name66": 	"Inhibitor",
+ "sprite_name67": 	"Antenna",
+ "101_relic_1": 	"Increases experience boost cap to 300%",
+"tip28":	"Experience boost is capped at 200%.",
+	
+ "altered": 	"Altered: +$$ level to part property scaling",
+"altered_plural":	"Altered: +$$ levels to part property scaling",
+"ascension_requirement":	"Ascension level $$ required to install",
+	
+ "sprite_name68": 	"Junction",
+ "sprite_name69": 	"Acumulator",
+ "sprite_name70": 	"Housing",
+ "sprite_name71": 	"Core",
+ "sprite_name72": 	"Resonator",
+ "sprite_name73": 	"Chamber",
+ "sprite_name74": 	"Lantern",
+ "sprite_name75": 	"Tower",
+ "sprite_name76": 	"Attachment",
+ "sprite_name77": 	"Synchronizer",
+ "sprite_name78": 	"Segment",
+ "sprite_name79": 	"Transistor",
+ "sprite_name80": 	"Hub",
+ "sprite_name81": 	"Pinnacle",
+ "sprite_name82": 	"Platform",
+ "sprite_name83": 	"Reactor",
+ "sprite_name84": 	"Battery",
+ "sprite_name85": 	"Fuse",
+ "sprite_name86": 	"Front",
+ "sprite_name87": 	"Junction",
+ "sprite_name88": 	"Shield",
+ "sprite_name89": 	"Boiler",
+ "sprite_name90": 	"Railing",
+ "sprite_name91": 	"Emitter",
+ "sprite_name92": 	"Ion Emitter",
+ "sprite_name93": 	"Engine",
+ "sprite_name94": 	"Engine",
+ "sprite_name95": 	"Engine",
+ "sprite_name96": 	"Pylon",
+ "sprite_name97": 	"Pylon",
+ "sprite_name98": 	"Pylon",
+ "sprite_name99": 	"Pylon",
+ "sprite_name100": 	"Pylon",
+ "sprite_name101": 	"Relay",
+ "sprite_name102": 	"Relay",
+ "sprite_name103": 	"Relay",
+ "sprite_name104": 	"Relay",
+ "sprite_name105": 	"Relay",
+ "sprite_name106": 	"Node",
+ "sprite_name107": 	"Node",
+ "sprite_name108": 	"Node",
+ "sprite_name109": 	"Node",
+ "sprite_name110": 	"Node",
+	
+ "ascension_level_error": 	"You cannot install this part because your Ascension level is not high enough",
+	
+"activity_name6":	"The Signal",
+"activity_id6":	"Activity",
+"activity_desc6":	"Someone from outside Sector Six is trying to establish connection with you. The signal is strongest in High Path.",
+"activity_reward6":	"+1 Ascension Reactor amplifier slot",
+	
+"the_signal_abbreviation":	"TS",
+	
+"the_signal_goal1":	"Unlock achievements $$ / $$",
+"the_signal_goal2":	"Increase Ascension level $$ / $$",
+"the_signal_goal3":	"Install altered part $$ / $$",
+	
+"activity_objective6_a":	"Complete goals $$ / $$",
+"activity_objective6_b":	"Go to High Path",
+	
+"activity_name7":	"Final Ascension",
+"activity_id7":	"Activity",
+"activity_reward7":	"+1 Ascension Reactor amplifier slot",
+"activity_reward7_b":	"Relic",
+	
+"activity_objective7":	"Gain experience $$ / $$",
+"activity_objective7_b":	"Reach level 90",
+	
+"final_ascension_abbreviation":	"FA",
+	
+"the_signal_goal4":	"Clear altered instance $$ / $$",
+	
+"ascension_level":	"Ascension level $$",
+"ascension_required":	"Experience required to level up: $$",
+	
+"level_up":	"Level up",
+	
+"ascension_points":	"Ascension points",
+	
+"base_ability":	"Base ability: Ether cost and cooldown of this ability are not affected by  any modifiers",
+	
+ "topic_name1": 	"Part rotating",
+ "topic_desc1": 	"Some of the parts can be rotated by moving the cursor over them and pressing $$.",
+	
+ "topic_name2": 	"Part locking",
+ "topic_desc2": 	"You can lock items by moving the cursor over them and pressing $$. Locked items cannot be sorted, dismantled, and sold.",
+	
+ "topic_name3": 	"Part dismantling",
+ "topic_desc3": 	"Need alloy? Dismantle parts by moving the cursor over unwanted items in inventory and pressing X.",
+	
+ "topic_name4": 	"Part grades",
+ "topic_desc4": 	"Spaceship parts come in 7 grades: Generic parts, optimized parts, advanced parts, fractal parts, mythical parts, etalon parts, and relic parts. The higher grade part is, the more rare and powerful it is.",
+	
+ "topic_name5": 	"Grade 1 parts",
+ "topic_desc5": 	"Grade 1 - Generic parts: 2 properties, no amplifier slots. Color code: White.",
+	
+ "topic_name6": 	"Grade 2 parts",
+ "topic_desc6": 	"Grade 2 - Optimized parts: 2 properties, 1 amplifier slot. Color code: Yellow.",
+	
+ "topic_name7": 	"Grade 3 parts",
+ "topic_desc7": 	"Grade 3 - Advanced parts: 3 properties, 1 amplifier slot. Color code: Electric blue.",
+	
+ "topic_name8": 	"Grade 4 parts",
+ "topic_desc8": 	"Grade 4 - Fractal parts: 4 properties, 1 amplifier slot, can be set components. Color code: Blue.",
+	
+ "topic_name9": 	"Grade 5 parts",
+ "topic_desc9": 	"Grade 5 - Mythical parts: 5 properties, 2 amplifier slots, can be set components, can have wave chance properties. Color code: Purple.",
+	
+ "topic_name10": 	"Grade 6 parts",
+ "topic_desc10": 	"Grade 6 - Etalon parts: 6 properties, 2 amplifier slots, can be set components, can have wave chance properties, can boost ability levels. Color code: Red.",
+	
+ "topic_name11": 	"Grade 7 parts",
+ "topic_desc11": 	"Grade 7 - Relic  parts: Unique properties, cannot have scaling properties, can have wave chance properties, can boost ability levels. Color code: Orange.",
+	
+ "topic_name12": 	"Maximum armor",
+ "topic_desc12": 	"Maximum armor property:  Increases maximum armor by X. Armor is spaceship's health: It decreases when the spaceship takes damage and 0 armor means that the spaceship is destroyed. Scaling: 250 per part level. Cap: None.",
+	
+ "topic_name13": 	"Weapon damage",
+ "topic_desc13": 	"Weapon damage property:  +X weapon damage. Weapon damage determines how much damage the spaceship does. It is used by abilities and various effects. Only weapons can have this property. Scaling: 100 per part level. Cap: None.",
+	
+ "topic_name14": 	"Maximum ether",
+ "topic_desc14": 	"Maximum ether property:  Increases maximum ether by X. Maximum ether determines how much ether the spaceship can have. Ether is consumed to activate abilities. Scaling: 50 + 10% per part level. Cap: None.",
+	
+ "topic_name15": 	"Initial ether",
+ "topic_desc15": 	"Initial ether property:  X initial ether. Initial ether determines how much ether the spaceship will have at the start of the mission. Ether is consumed to activate abilities. Scaling: 50 + 10% per part level. Cap: None.",
+	
+ "topic_name16": 	"Ether generation",
+ "topic_desc16": 	"Ether generation property:  Generates X ether on kill. Ether generation determines how much ether the spaceship will generate whenever it destroys an enemy. Ether is consumed to activate abilities. Scaling: 10 + 10% per part level. Cap: None.",
+	
+ "topic_name17": 	"Armor generation",
+ "topic_desc17": 	"Armor generation property:  Generates X armor on kill. Armor generation determines how much armor the spaceship will generate whenever it destroys an enemy. Armor is spaceship's health: It decreases when spaceship takes damage and 0 armor means that spaceship is destroyed. Scaling: 25 per part level. Cap: None.",
+	
+ "topic_name18": 	"Experience boost",
+ "topic_desc18": 	"Experience boost property:  +X% experience. Experience boost increases the amount of experience the spaceship gains by destroying enemies. Experience is required to level up. Scaling: None. Cap: 200%.",
+	
+ "topic_name19": 	"Deflect chance",
+ "topic_desc19": 	"Deflect chance property: +X% chance to deflect enemy projectiles. Increases chance to deflect enemy projectiles when they hit the spaceship, which prevents it from taking damage. Scaling: None. Cap: 80%.",
+	
+ "topic_name20": 	"Damage reduction",
+ "topic_desc20": 	"Damage reduction chance property: Reduces taken damage by X%. Scaling: None. Cap: 80%.",
+	
+ "topic_name21": 	"Phase charge speed",
+ "topic_desc21": 	"Phase charge speed property: Increases phase charge speed by X. Entering phase increases weapon damage based on phase damage property. The spaceship will enter phase after taking a certain amount of damage. This property decreases the amount of damage the spaceship needs to take to enter phase. Scaling: None. Cap: None.",
+	
+ "topic_name22": 	"Phase damage",
+ "topic_desc22": 	"Phase damage property: +X% phase damage. Entering phase increases weapon damage based on phase damage property. Scaling: None. Cap: None.",
+	
+ "topic_name23": 	"Stunning wave chance",
+ "topic_desc23": 	"Stunning wave chance property: +X% chance to cause stunning wave. Increases chance to cause a stunning wave whenever the spaceship destroys an enemy. It stuns all minions in range for 3 seconds. Scaling: None. Cap: 100%.",
+	
+ "topic_name24": 	"Damaging wave chance",
+ "topic_desc24": 	"Damaging wave chance property: +X% chance to cause damaging wave. Increases chance to cause a damaging wave whenever the spaceship destroys an enemy. It deals 100% of weapon damage over 10 seconds to all minions in range. Scaling: None. Cap: 100%.",
+	
+ "topic_name25": 	"Shredding wave chance",
+ "topic_desc25": 	"Shredding wave chance property: +X% chance to cause shredding wave. Increases chance to cause a shredding wave whenever the spaceship destroys an enemy. It removes 20% of armor from all minions in range. Scaling: None. Cap: 100%.",
+	
+ "topic_name26": 	"Upgrade chance",
+ "topic_desc26": 	"Upgrade chance property: +X% chance to upgrade dropped part. Increases chance to upgrade part dropped by a destroyed enemy to a higher grade. Does not apply to purchases and mission rewards. Scaling: None. Cap: 100%.",
+	
+ "topic_name27": 	"Core attributes",
+ "topic_desc27": 	"Core attributes are maximum armor, maximum ether, and weapon damage.",
+	
+ "topic_name28": 	"Ability ether cost",
+ "topic_desc28": 	"Ability ether cost is determined by ability's type, base ether cost, and ether cost modifier. Ether cost modifier is affected by Flow Stagnation difficulty modifier, allocated ability points, and certain relics. Allocated ability points increase ability ether cost modifier by 10% per point. Attack, shield, and shield removal abilities are not affected by ether cost modifier.",
+	
+ "topic_name29": 	"Ability cooldown",
+ "topic_desc29": 	"Ability cooldown is determined by ability's type, base cooldown, and cooldown modifier. Cooldown modifier is affected by certain relics. Attack, shield, and shield removal abilities are not affected by cooldown modifier.",
+	
+ "topic_name30": 	"Compressed parts",
+ "topic_desc30": 	"Compressed parts are parts with doubled properties that require twice as many part and weapon slots to be installed. They can be created by dragging and dropping compression modules on parts. Dropping a compression module on an already compressed part doubles its properties and slot requirements again, creating a super compressed part. Compressed parts are used to reduce the spaceship size.",
+	
+ "topic_name31": 	"Altered parts",
+ "topic_desc31": 	"When a part becomes altered, it receives one additional scaling property. Altered part properties scale based on part's level and alteration level. Highest level altered parts require Ascension level to be installed. The chance to get altered parts increases from 0% to 10% after the story is completed.",
+	
+ "topic_name32": 	"Amplifier slots",
+ "topic_desc32": 	"Some parts have amplifier slots: They can be upgraded by dragging and dropping amplifiers on them.",
+	
+ "topic_name33": 	"Crafting items",
+ "topic_desc33": 	"Crafting items are amplifiers, cathodes, anodes, and compression modules. They can be bought from vendors or rewarded for increasing difficulty, completing missions, and securing regions",
+	
+ "topic_name34": 	"Vendors",
+ "topic_desc34": 	"Some secured regions have vendors: Connect to them to buy and sell items.",
+	
+ "topic_name35": 	"Alloy containers",
+ "topic_desc35": 	"Alloy containers are special items that can be installed by dragging and dropping them into container slot. Alloy containers hold alloy - a resource obtained by dismantling items. Use alloy from installed alloy container to repair the spaceship during a mission by holding $$. One alloy repairs 1% of armor.",
+	
+ "topic_name36": 	"Eternal containers",
+ "topic_desc36": 	"Eternal alloy containers are indestructible and gain alloy after a failed mission.",
+	
+ "topic_name37": 	"Unstable containers",
+ "topic_desc37": 	"Unstable alloy containers lose alloy when you activate repairing abilities.",
+	
+ "topic_name38": 	"Sacrificial containers",
+ "topic_desc38": 	"Sacrificial alloy containers destroy themselves to save the spaceship when its armor drops to 0.",
+	
+ "topic_name39": 	"Ancient containers",
+ "topic_desc39": 	"Ancient alloy containers gain alloy when the spaceship passes dust cloud.",
+	
+ "topic_name40": 	"Transient containers",
+ "topic_desc40": 	"Transient alloy containers disintegrate at the end of a mission.",
+	
+ "topic_name41": 	"Corrupted containers",
+ "topic_desc41": 	"Corrupted containers give no alloy when dismantled.",
+	
+ "topic_name42": 	"Bulwark blocks",
+ "topic_desc42": 	"In siege missions, bulwark blocks with white symbols destroy nearby blocks, blocks with orange symbols destroy nearby blocks diagonally, and blocks with blue symbols contain loot. Loot blocks only spawn loot if they are destroyed with siege cannon missiles.",
+	
+"select_topic_pad":	"Press A to select topic",
+"select_topic_mouse":	"Click to select topic",
+	
+"color_code":	"Color code",
+	
+"learn_pad":	"Press A to learn more about this property",
+"learn_mouse":	"Click to to learn more about this property",
+	
+ "instance_region_level": 	"Level $$ instance",
+	
+ "compressed_weapon": 	"Compressed: Uses 2 part and weapon slots",
+ "super_compressed_weapon": 	"Super compressed: Uses 4 part and weapon slots",
+	
+ "alter_instance1": 	"Alter instance",
+ "alter_instance2": 	"Increase difficulty and rewards",
+	
+ "alter_multiplier": 	"Enemy power multiplier: $$",
+ "alter_chance": 	"+$$% altered part drop chance",
+	
+ "alter_severity": 	"Severity",
+	
+ "dialog1086": 	"It seems like the signal is coming from Sector Five.",
+ "dialog1087": 	"No, not Sector Five, Sector Zero.",
+ "dialog1088": 	"From Almadi?",
+ "dialog1089": 	"Yes. I'll amplify it.",
+ "dialog1090": 	"Connection established.",
+ "dialog1091": 	"Entity Eweri, status.",
+ "dialog1092": 	"Active.",
+ "dialog1093": 	"Good chaos! How did that happen?",
+ "dialog1094": 	"I was activated in Paralisk by $$ to fight the Shatterer Machines.",
+ "dialog1095": 	"$$?",
+ "dialog1096": 	"That's me. With Eweri's help, I have defeated the Machines.",
+ "dialog1097": 	"Good, very good.",
+ "dialog1098": 	"Why did you contact me?",
+ "dialog1099": 	"I need you in Almadi, Eweri. One of the naonic entities has been affected by the Decay.",
+ "dialog1100": 	"The Decay?",
+ "dialog1101": 	"...",
+ "dialog1102": 	"Forbidden knowledge laws have stopped being enforced for several hundred cycles now.",
+ "dialog1103": 	"Great.",
+ "dialog1104": 	"So what is going on?",
+ "dialog1105": 	"Bad chaos.",
+ "dialog1106": 	"It started after the Isolation was declared.",
+ "dialog1107": 	"You remember Almadi as a united super civilization working to fix the Universe.",
+ "dialog1108": 	"That Almadi is gone. After the Decay Crisis and the Shatterer War, Almadi had to change.",
+ "dialog1109": 	"It didn't change to the better. Now my Sector is a battlefield of conflicting ideologies, a graveyard of worlds, a space of chaos. As a former leader of Almadi, I made it my responsibility to repair as much damage as possible.",
+ "dialog1110": 	"I have found the Alliance of Almadi. The Alliance have worked to reunite Almadi for thousands of cycles and considering the circumstances, we have achieved a lot.",
+ "dialog1111": 	"I hoped that someday Almadi would become what it used to be and resume its fight against chaos.",
+ "dialog1112": 	"My hope was never as faint as it is now.",
+ "dialog1113": 	"The Alliance's enemies have defeated us in every front.",
+ "dialog1114": 	"The Conglomerate of Light have destroyed our greatest world, Red Grid is under siege by the Opposition forces, Primitivists have taken over Aco Verund...",
+ "dialog1115": 	"But worst of all, Swarms of Decay have stolen Entity Taumavul, and have decayed him via information. He has activated himself and now he is a threat to the entire Universe.",
+ "dialog1116": 	"His intellect has been tainted with greed. He wants everything and he will never stop.",
+ "dialog1117": 	"Simulations predict that Taumavul will activate his Time Engine and trap everything in stagnated time to protect what he owns from entropy. You must help us.",
+ "dialog1118": 	"The end of the Universe... Alright, we will be there.",
+ "dialog1119": 	"You should stay in your Sector, $$. Almadi is not Sector Six, our spaceships are different, I don't think you'd be able to control them.",
+ "dialog1120": 	"No, you want $$ as well. $$ is a vanadian.",
+ "dialog1121": 	"Good chaos!",
+ "dialog1122": 	"Vanadian?",
+ "dialog1123": 	"Your condition, $$. You don't know how special you are.",
+ "dialog1124": 	"Well, in any case, I want to fight.",
+ "dialog1125": 	"Of course you do.",
+ "dialog1126": 	"My hope is resurrected. If there's someone who can save Almadi, it's you two. Naonic entity and vanadian, fighting together... Looks like I haven't run out of luck yet.",
+ "dialog1127": 	"Give me a moment.",
+ "dialog1128": 	"Permission to access Sector Zero granted.",
+ "dialog1129": 	"I'll be waiting.",
+ "dialog1130": 	"To be continued.",
+	
+ "monagon_veli": 	"Monagon Veli",
+ 	
+ "the_signal": 	"The Signal",
+ "the_signal1": 	"Someone is trying to establish connection with you",
+ "the_signal2": 	"The signal is strongest in this area",
+ 	
+ "to_be_continued": 	"To be continued",
+ 	
+"sprite_name240":	"Ascension Reactor",
+"relic_source_130":	"Activity reward",
+	
+"sprite_name241":	"Scepter and Needles",
+"131_relic_1":	"Triples armor generation",
+"131_relic_2":	"Adds initial ether to maximum ether",
+"relic_source_131":	"Drops",
+	
+"sprite_name242":	"Lantern of Chances, Auxiliary Core",
+"132_relic_1":	"When armor drops to 0%, if ether is above 50%:",
+"132_relic_2":	"Sets armor to 1%",
+"132_relic_3":	"Consumes all ether",
+"relic_source_132":	"Drops",
+	
+ "region_reward43": 	"+1 Ascension Reactor amplifier slot",
+	
+"auto_sell": 	"Auto sell",
+"auto_sell_ttip1": 	"Click to customize automatic selling",
+"auto_sell_ttip2": 	"While auto sell is enabled, dropped parts of chosen grade range will be turned into units",
+	
+ "optimized_parts_range": 	"grade 1-2 parts",
+ "advanced_parts_range": 	"grade 1-3 parts",
+ "extant_parts_range": 	"grade 1-4 parts",
+ "mythical_parts_range": 	"grade 1-5 parts",
+	
+ "alloy_cost": 	"Alloy cost: $$",
+	
+"altered_instance":	"Level $$ altered instance",
+	
+ "110_relic_2": 	"Increases double drop chance by 25%",
+	
+ "topic_name43": 	"Relay attacks",
+ "topic_desc43": 	"Relays + Strike ability: Each relay releases a missile.#Relays + Flurry ability: Releases 2 missiles from the left side of the screen.#Relays + Unload ability: Each relay releases a mine. Mines pierce enemies and shields.#Mine damage is halved.",
+	
+ "topic_name44": 	"Pylon attacks",
+ "topic_desc44": 	"Pylons + Strike ability: Each pylon releases 4 missiles. Missile damage is halved.#Pylons + Flurry ability: Each pylon releases a missile.#Pylons + Unload ability: Each pylon releases release an immobile mine.#Mines seek enemies when detonated.",
+	
+ "topic_name45": 	"Node attacks",
+ "topic_desc45": 	"Nodes + Strike ability: Creates wave that deals damage to all enemies in range. Wave damage is halved.#Nodes + Flurry ability: Each node creates a mine at the bottom or top of the screen.#Nodes + Unload ability: Each node releases release a mine.",
+	
+ "topic_name46": 	"Part sets",
+ "topic_desc46": 	"There are 7 part sets, each has a unique effect. Installing 6 parts of the same set - set components - will allow activating that set's effect. Only grade 4-6 parts can be set components. Set components are not stronger than regular parts and installing more than 6 set components does not affect set's effect in any way.",
+	
+ "topic_name47": 	"Physical parts",
+ "topic_desc47": 	"Compressed and super compressed parts require multiple part slots, but increase physical part count only by 1 when installed. Certain effects are based on the number of physical parts installed.",
+	
+ "topic_name48": 	"Engines",
+ "topic_desc48": 	"Engines are spaceship parts with properties identical to non-weapon parts - sections - and with unique engine skins. If the spaceship has less than 1 engine installed, its movement speed will be reduced by 50%. Other than that, engines do not have unique effects - having more than 1 of them will not make spaceship faster."
   }
 }
