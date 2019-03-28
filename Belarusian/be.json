@@ -963,15 +963,15 @@
     "ability_desc24":             "+$$% да максімуму брані#+$$% да фазавага ўрону#Памяншае атрымоўваны ўрон на $$%",
     "ability_next24":             "+$$% да максімуму брані#+$$% да фазавага ўрону#Памяншае атрымоўваны ўрон на $$%",
     
-    "ability_name37":             "Разгружаць",
+    "ability_name37":             "Разгрузка",
     "ability_desc37":             "Выпускае міны#Міны павінны быць падарваныя для нанясення ўрону#Дадае час аднаўлення для іншых здольнасцяў атакі#Базавы ўрон: $$% урону зброяй",
     "ability_next37":             "Базавы ўрон: $$% урону зброяй",
     
-    "ability_name38":             "Дэтанаваць",
+    "ability_name38":             "Дэтанаванне",
     "ability_desc38":             "Дэтануе міны#Мiны наносяць на $$% больш урону",
     "ability_next38":             "Мiны наносяць на $$% больш урону",
     
-    "ability_name39":             "Сабраць абеліск",
+    "ability_name39":             "Збор абеліску",
     "ability_desc39":             "Збірае абеліск#Абеліск страляе ракетамі па міньёнам у радыусе дзеяння#Ракеты абелiска наносяць $$% урону зброяй#Абелiск на $$ секунд",
     "ability_next39":             "Ракеты абелiска наносяць $$% урону зброяй#Абелiск на $$ секунд",
     
@@ -999,7 +999,7 @@
     "ability_desc45":             "Вызваляе энергію ў вузлах#Выдаляе $$% брані са ЎСІХ міньёнаў#Урон заснаваны на колькасці вузлоў#Можа быць выкарыстаны толькі адзін раз на місію",
     "ability_next45":             "Выдаляе $$% брані са ЎСІХ міньёнаў",
     
-    "ability_name46":             "Iянізаваць",
+    "ability_name46":             "Iянізацыя",
     "ability_desc46":             "Дадае $$ сплаў у кантэйнер для сплаву#Знішчае мін'ёнаў з бранёй менш за 15%#2 дадатковых сплаву для кожнага іянізаванага ворага",
     "ability_next46":             "Дадае $$ сплаў у кантэйнер для сплаву",
     
@@ -1824,134 +1824,134 @@
     "ether_efficiency":           "+$$ да эфектыўнасці эфіру",
     
     "armour_boost":               "+$$% да максімуму броні",
-    "ether_boost":                "+$$% maximum ether",
+    "ether_boost":                "+$$% да максімуму эфіру",
     
-    "damage_reduction_boost":     "Reduces taken damage by $$%",
-    "reflect_chance_boost":       "+$$% chance to deflect enemy projectiles",
+    "damage_reduction_boost":     "Памяншае атрымоўваны ўрон на $$%",
+    "reflect_chance_boost":       "+$$% да шанцу адбiць варожыя снарады",
     
-    "increases_maximum_armour":   "Increases maximum armor by $$",
-    "increases_maximum_ether":    "Increases maximum ether by $$",
+    "increases_maximum_armour":   "Павялічвае максімум бранi на $$",
+    "increases_maximum_ether":    "Павялічвае максімум эфіру на $$",
     
-    "initial_ether":              "+$$ initial ether",
+    "initial_ether":              "+$$ да пачатковага эфіру",
     
-    "ether_on_kill":              "Generates $$ ether on kill",
-    "armour_on_kill":             "Generates $$ armor on kill",
+    "ether_on_kill":              "Генеруе $$ эфір пры забойстве",
+    "armour_on_kill":             "Генеруе $$ браню пры забойстве",
     
-    "experience":                 "+$$% experience",
+    "experience":                 "+$$% да вопыту",
     
-    "upgrade_chance":             "+$$% chance to upgrade dropped part",
+    "upgrade_chance":             "+$$% да шанцу абнавіць упаўшую частку",
 
-    "white_wave_boost":           "+$$% chance to cause stunning wave",
-    "red_wave_boost":             "+$$% chance to cause damaging wave",
-    "black_wave_boost":           "+$$% chance to cause shredding wave",
+    "white_wave_boost":           "+$$% да шанцу выклікаць ашаламляльную хвалю",
+    "red_wave_boost":             "+$$% да шанцу выклікаць разбуральную хвалю",
+    "black_wave_boost":           "+$$% да шанцу выклікаць рэжучую хвалю",
     
-    "phase_break_cooldown":       "Increases phase charge speed by $$",
-    "phase_break_damage_boost":   "+$$% phase damage",
+    "phase_break_cooldown":       "Павялічвае хуткасць фазавай зарадкі на $$",
+    "phase_break_damage_boost":   "+$$% да фазавага ўрону",
     
-    "physical_armor_boost":       "+$$% maximum armor per 10 physical parts installed",
-    "physical_ether_boost":       "+$$% maximum ether per 10 physical parts installed",
-    "physical_damage_boost":      "+$$% weapon damage per 10 physical parts installed",
-    "physical_cooling_boost":     "+$$% cooling rate per 10 physical parts installed",
-    "physical_efficiency_boost":  "+$$% ether efficiency per 10 physical parts installed",
+    "physical_armor_boost":       "+$$% да максімуму брані на 10 усталяваных фізічных частках",
+    "physical_ether_boost":       "++$$% да максімуму эфіру на 10 усталяваных фізічных частках",
+    "physical_damage_boost":      "+$$% да ўрону зброяй на 10 усталяваных фізічных частках",
+    "physical_cooling_boost":     "+$$% да хуткасці ахладжэння на 10 усталяваных фізічных частках",
+    "physical_efficiency_boost":  "+$$% да эфектыўнасці эфіру на 10 усталяваных фізічных частках",
     
-    "weapon_damage_boost":        "+$$% weapon damage",
-    "cooling_rate_boost":         "+$$% cooling rate",
-    "ether_efficiency_boost":     "+$$% ether efficiency",
+    "weapon_damage_boost":        "+$$% да ўрону зброяй",
+    "cooling_rate_boost":         "+$$% да хуткасці ахладжэння",
+    "ether_efficiency_boost":     "+$$% да эфектыўнасці эфіру",
     
-    "emp_grenade_boost1":         "+$$ levels to EMP Grenade ability",
-    "emp_grenade_boost2":         "+$$ level to EMP Grenade ability",
+    "emp_grenade_boost1":         "+$$ да ўзроўняў здольнасці ЭМI гранаты",
+    "emp_grenade_boost2":         "+$$ да ўзроўню здольнасці ЭМI гранаты",
     
-    "shards_of_chaos_boost1":     "+$$ levels to Shards of Chaos ability",
-    "shards_of_chaos_boost2":     "+$$ level to Shards of Chaos ability",
+    "shards_of_chaos_boost1":     "+$$ да ўзроўняў здольнасці Аскепкі хаосу",
+    "shards_of_chaos_boost2":     "+$$ да ўзроўню здольнасці Аскепкі хаосу",
     
-    "resurrect_armour_boost1":    "+$$ levels to Resurrect Armor ability",
-    "resurrect_armour_boost2":    "+$$ level to Resurrect Armor ability",
+    "resurrect_armour_boost1":    "+$$ да ўзроўняў здольнасці Аднаўленне бранi",
+    "resurrect_armour_boost2":    "+$$ да ўзроўню здольнасці Аднаўленне бранi",
     
-    "assemble_obelisk_boost1":    "+$$ levels to Assemble Obelisk ability",
-    "assemble_obelisk_boost2":    "+$$ level to Assemble Obelisk ability",
+    "assemble_obelisk_boost1":    "+$$ да ўзроўняў здольнасці Збор абеліска",
+    "assemble_obelisk_boost2":    "+$$ да ўзроўню здольнасці Збор абеліска",
     
-    "ionize_boost1":              "+$$ levels to Ionize ability",
-    "ionize_boost2":              "+$$ level to Ionize ability",
+    "ionize_boost1":              "+$$ да ўзроўняў здольнасці Iянiзацыя",
+    "ionize_boost2":              "+$$ да ўзроўню здольнасці Iянiзацыя",
     
-    "channel_boost1":             "+$$ levels to Channel ability",
-    "channel_boost2":             "+$$ level to Channel ability",
+    "channel_boost1":             "+$$ да ўзроўняў здольнасці Канал",
+    "channel_boost2":             "+$$ да ўзроўню здольнасці Канал",
     
-    "attract_mines_boost1":       "+$$ levels to Attract Mines ability",
-    "attract_mines_boost2":       "+$$ level to Attract Mines ability",
+    "attract_mines_boost1":       "+$$ да ўзроўняў здольнасці Міны прыцягнення",
+    "attract_mines_boost2":       "+$$ да ўзроўню здольнасці Міны прыцягнення",
     
-    "bladed_mine_boost1":         "+$$ levels to Bladed Mine ability",
-    "bladed_mine_boost2":         "+$$ level to Bladed Mine ability",
+    "bladed_mine_boost1":         "+$$ да ўзроўняў здольнасці Халодных мiн",
+    "bladed_mine_boost2":         "+$$ да ўзроўню здольнасці Халодных мiн",",
     
-    "heavy_shield_boost1":        "+$$ levels to Power Shield ability",
-    "heavy_shield_boost2":        "+$$ level to Power Shield ability",
+    "heavy_shield_boost1":        "+$$ да ўзроўняў здольнасці Сілавы шчыт",
+    "heavy_shield_boost2":        "+$$ да ўзроўню здольнасці Сілавы шчыт",
     
-    "nine_bladed_mines_boost1":   "+$$ levels to Nine Bladed Mines ability",
-    "nine_bladed_mines_boost2":   "+$$ level to Nine Bladed Mines ability",
+    "nine_bladed_mines_boost1":   "+$$ да ўзроўняў здольнасці Дзевяць халодных мiн",
+    "nine_bladed_mines_boost2":   "+$$ да ўзроўню здольнасці Дзевяць халодных мiн",
     
-    "detonate_boost1":            "+$$ levels to Detonate ability",
-    "detonate_boost2":            "+$$ level to Detonate ability",
+    "detonate_boost1":            "+$$ да ўзроўняў здольнасці Дэтанаванне",
+    "detonate_boost2":            "+$$ да ўзроўню здольнасці Дэтанаванне",
     
-    "capacity_boost1":            "+$$ levels to System Capacity ability",
-    "capacity_boost2":            "+$$ level to System Capacity ability",
+    "capacity_boost1":            "+$$ да ўзроўняў здольнасці Ёмістасць сістэмы",
+    "capacity_boost2":            "+$$ да ўзроўню здольнасці Ёмістасць сістэмы",
     
-    "swarm_control_boost1":       "+$$ levels to Swarm Control ability",
-    "swarm_control_boost2":       "+$$ level to Swarm Control ability",
+    "swarm_control_boost1":       "+$$ да ўзроўняў здольнасці Кантроль рою",
+    "swarm_control_boost2":       "+$$ да ўзроўню здольнасці Кантроль рою",
     
-    "resistance_boost1":          "+$$ levels to Defense And Retaliation ability",
-    "resistance_boost2":          "+$$ level to Defense And Retaliation ability",
+    "resistance_boost1":          "+$$ да ўзроўняў здольнасці Абарона і адплата",
+    "resistance_boost2":          "+$$ да ўзроўню здольнасці Абарона і адплата",
     
-    "phase_recognition_system_boost1": "+$$ levels to Phase Recognition System ability",
-    "phase_recognition_system_boost2": "+$$ level to Phase Recognition System ability",
+    "phase_recognition_system_boost1": "+$$ да ўзроўняў здольнасці Сістэма распазнання фаз",
+    "phase_recognition_system_boost2": "+$$ да ўзроўню здольнасці Сістэма распазнання фаз",
     
-    "black_rain_boost1":          "+$$ levels to Black Rain ability",
-    "black_rain_boost2":          "+$$ level to Black Rain ability",
+    "black_rain_boost1":          "+$$ да ўзроўняў здольнасці Чорны дождж",
+    "black_rain_boost2":          "+$$ да ўзроўню здольнасці Чорны дождж",
     
-    "unstable_shield_boost1":     "+$$ levels to Heat Shield ability",
-    "unstable_shield_boost2":     "+$$ level to Heat Shield ability",
+    "unstable_shield_boost1":     "+$$ да ўзроўняў здольнасці Цеплавой экран",
+    "unstable_shield_boost2":     "+$$ да ўзроўню здольнасці Цеплавой экран",
     
-    "shatter_boost1":             "+$$ levels to Shatter ability",
-    "shatter_boost2":             "+$$ level to Shatter ability",
+    "shatter_boost1":             "+$$ да ўзроўняў здольнасці Раздрабніцель",
+    "shatter_boost2":             "+$$ да ўзроўню здольнасці Раздрабніцель",
     
-    "overload_boost1":            "+$$ levels to Overload ability",
-    "overload_boost2":            "+$$ level to Overload ability",
+    "overload_boost1":            "+$$ да ўзроўняў здольнасці Перагрузка",
+    "overload_boost2":            "+$$ да ўзроўню здольнасці Перагрузка",
     
-    "rapid_fire_mode_boost1":     "+$$ levels to Rapid Fire Mode ability",
-    "rapid_fire_mode_boost2":     "+$$ level to Rapid Fire Mode ability",
+    "rapid_fire_mode_boost1":     "+$$ да ўзроўняў здольнасці Рэжым хуткага агню",
+    "rapid_fire_mode_boost2":     "+$$ да ўзроўню здольнасці Рэжым хуткага агню",
     
-    "aggression_boost1":          "+$$ levels to Aggression ability",
-    "aggression_boost2":          "+$$ level to Aggression ability",
+    "aggression_boost1":          "+$$ да ўзроўняў здольнасці Агрэсія",
+    "aggression_boost2":          "+$$ да ўзроўню здольнасці Агрэсія",
     
-    "drag_and_drop_to_use":       "Drag and drop on the part to use",
-    "drag_and_drop_to_upgrade":   "Drag and drop on the part to upgrade it",
+    "drag_and_drop_to_use":       "Перацягнуць на частку для выкарыстання",
+    "drag_and_drop_to_upgrade":   "Перацягнуць на частку для абнаўлення",
     
     
     
-    "item_name7":                 "Anode",
-    "item_desc7":                 "Transforms part into a different part",
+    "item_name7":                 "Анод",
+    "item_desc7":                 "Ператварае частку ў іншую частку",
     
-    "item_name8":                 "Cathode",
-    "item_desc8":                 "Extracts part skin",
+    "item_name8":                 "Катод",
+    "item_desc8":                 "Дастае абалонку часткі",
     
-    "item_name9":                 "Weapon Damage Amplifier",
-    "item_desc9":                 "Upgrades weapon damage",
+    "item_name9":                 "Узмацняльнік урону зброі",
+    "item_desc9":                 "Абнаўлення ўрону зброі",
     
-    "item_name10":                "Cooling Rate Amplifier",
-    "item_desc10":                "Upgrades cooling rate",
+    "item_name10":                "Узмацняльнік хуткасці ахладжэння",
+    "item_desc10":                "Абнаўлення хуткасцi ахладжэння",
     
-    "item_name11":                "Ether Efficiency Amplifier",
-    "item_desc11":                "Upgrades ether efficiency",
+    "item_name11":                "Узмацняльнік эфектыўнасці эфіру",
+    "item_desc11":                "Абнаўлення эфектыўнасцi эфіру",
     
-    "item_name12":                "Maximum Ether Amplifier",
-    "item_desc12":                "Upgrades maximum ether",
+    "item_name12":                "Узмацняльнік максімуму эфіру",
+    "item_desc12":                "Абнаўлення максімуму эфіру",
     
-    "item_name13":                "Maximum Armor Amplifier",
-    "item_desc13":                "Upgrades maximum armor",
+    "item_name13":                "Узмацняльнік максімуму брані",
+    "item_desc13":                "Абнаўлення максімуму брані",
     
-    "item_name14":                "Armor Generation Amplifier",
-    "item_desc14":                "Upgrades armor generation",
+    "item_name14":                "Узмацняльнік генерацыі брані",
+    "item_desc14":                "Абнаўлення генерацыі брані",
     
-    "item_name15":                "Deflect Chance Amplifier",
-    "item_desc15":                "Upgrades deflect chance",
+    "item_name15":                "Узмацняльнік шанцу адхілення",
+    "item_desc15":                "Абнаўлення шанцу адхілення",
     
     "item_name16":                "Taken Damage Reduction Amplifier",
     "item_desc16":                "Upgrades taken damage reduction",
