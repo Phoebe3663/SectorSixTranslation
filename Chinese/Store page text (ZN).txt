@@ -1,16 +1,18 @@
-Sector Six is a side-scrolling, sci-fi shooter with silhouette aesthetic, procedural loot, extensive customization, and story missions.
+Sector Six 是一款横版卷轴射击游戏，游戏场景均由剪影来呈现，这里有丰富的自定义配件和高自由度的自定义任务以及有趣的剧情模式
 
-Save the Universe
-Enter distant future and join the desperate fight to stop the Eight Machines from destroying everything. In your journey, you will interact with ancient structures and beings, break laws of physics, travel between Sectors, battle swarms of the Machine minions, collectors, despair, anomalies, defense systems - all to stop the terrible enemy.
+拯救世界
+进入遥远的未来，加入绝望的战斗，阻止 Eight Machines 摧毁一切。在你的旅程中，你将与古老的建筑和生物互动，打破物理定律，在各个区域之间穿梭，Minion、Collector、Despair、Anomalies、区域防御体系——这些可怕的敌人都会来阻止你继续前行。
 
-Build your spaceship
-Spaceship building allows you to build a unique ship from procedural parts, obtained by destroying minions of the Machines. Every part has various properties and can be placed anywhere on the building field, allowing you to customize performance, appearance, and size of your ship.
+建造自己的飞船
+你可以随意建造自己想要的飞船。所有的飞船部件都可以从敌人身上掉落，每个部件都拥有不同的属性，一些稀有的部件还会存在一些特有的属性，玩家可以把部件放在任何位置，甚至你可以用一些道具修改部件的外观，随着玩家等级的提高，可以安装的部件也会逐渐增加，用这些建造自己的“千年隼”吧！
 
-Become master of spaceship combat
-Test not just your spaceship, but also your skills as you dodge enemy projectiles and find the right timing to counterattack with your own. Each enemy brings new attacks, defenses, and strategies to defeat - it’s up to you to hone your combat skills and take them down.
+王牌飞行员
+在游戏中玩家需要切换安装的武器来击败敌人，有时还需要躲避敌人猛烈的攻击，使用组合技能或者强力武器来反击敌人。在游戏不断推进后，敌人的攻击方式和种类也会不断变得多样化，玩家需要熟悉各种武器技能和反击方式，最终成为王牌飞行员
 
-Part customization, part sets, and relics
-Combine, upgrade, and re-roll parts to create ones that are ideal for your dream spaceship. If that is not enough, collect set parts and relics to transform your destroyer of invaders into something even more powerful!
+部件定制、部件组和遗迹
+组合、升级、重载部件，建造出理想的飞船。如果这些依然不能满足你，你可以去完成区域任务或击败强大的BOSS收集一些强力部件和遗迹，来让你的飞船变得更加强力
 
-Modular difficulty system
-Make the game as hard as you want it to be! Modular difficulty system allows you to modify almost every element of the combat and offers rewards for increasing the difficulty.
+多样化的自定义任务
+你可以蹂躏敌人，也可以分分钟让杂兵变得比BOSS更加难以对付。在自定义任务中，你可以调整难度，像：增加敌人数量、强化敌人攻击、加固敌人的防御、多个BOSS、任务目标翻倍，甚至还有赌博模式。当然，在难度提升的同时，也会有着超出想象的丰厚奖励
+
+ICLiuLi 个人汉化
