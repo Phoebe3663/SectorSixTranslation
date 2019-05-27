@@ -103,18 +103,18 @@
 	
  "button55": 	"Filtre",
  "button56": 	"Collecter",
- "button56_tooltip1": 	"Collecter des contirbutions régionales sécurisées",
+ "button56_tooltip1": 	"Collecter des contributions régionales sécurisées",
 	
  "button57": 	"Déconnecter",
  	
- "button60": 	"Advanced access",
+ "button60": 	"Accès avancé",
  	
- "button60_tooltip1": 	"Unlocks advanced features",
- "button60_tooltip2": 	"Not recommended for new players",
- "button60_tooltip3": 	"Change your spaceship name to ADMIN to unlock this button",
+ "button60_tooltip1": 	"Débloque des fonctionnalités avancées",
+ "button60_tooltip2": 	"Non recommandé pour les nouveaux joueurs",
+ "button60_tooltip3": 	"Changez le nom de votre vaisseau en ADMIN pour débloquer ce boutton",
  	
- "button61": 	"Default settings",
- "button62": 	"Default controls",
+ "button61": 	"Réglages par défaut",
+ "button62": 	"Contrôles par défaut",
  	
  "button63": 	"Random name",
  "button64":	"Random avatar",
