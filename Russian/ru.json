@@ -245,14 +245,14 @@
     
           "COMMENT 5": "Above - Strings for key remapping interface",
     
-    "safe_and_sound":                 "Safe And Sound",
-    "safe_and_sound_desc":            "Enter secured area",
+    "safe_and_sound":                 "Целый и невредимый",
+    "safe_and_sound_desc":            "Войти в безопасную зону",
     
-    "savior":                         "Savior",
-    "savior_desc":                    "Secure an area",
+    "savior":                         "Спаситель",
+    "savior_desc":                    "Обезопасьте территорию",
     
-    "ultimate_savior":                "Ultimate Savior",
-    "ultimate_savior_desc":           "Secure all areas",
+    "ultimate_savior":                "Великий спаситель",
+    "ultimate_savior_desc":           "Обезопасьте все территории",
     
     "registered":                     "Регистрация",
     "registered_desc":                "Смените название вашего корабля",
@@ -290,56 +290,56 @@
     "unbreakable":                    "Неразрушимый",
     "unbreakable_desc":               "Выполните босс-миссию со сложность 10 и пустым контейнером для смеси",
     
-    "aesthetic_improvement":          "Aesthetic Improvement",
-    "aesthetic_improvement_desc":     "Change part skin",
+    "aesthetic_improvement":          "Эстетическое улучшение",
+    "aesthetic_improvement_desc":     "Изменить вид части",
     
-    "fragment_fusion_ach":            "Fragment Fusion",
-    "fragment_fusion_desc":           "Create relic by fusing relic fragments",
+    "fragment_fusion_ach":            "Слияние Фрагментов",
+    "fragment_fusion_desc":           "Создание реликвии путем слияния реликтовых фрагментов",
     
-    "instantaneous_improvement":      "Instantaneous Improvement",
-    "instantaneous_improvement_desc": "Get part upgraded by part upgrade chance",
+    "instantaneous_improvement":      "Мгновенное Улучшение",
+    "instantaneous_improvement_desc": "Получить часть с помощью шанса на улучшение части",
   
-    "cancel_the_funeral":             "Cancel the Funeral",
-    "cancel_the_funeral_desc":        "Finish mission with 1% or less armor and no alloy",
+    "cancel_the_funeral":             "Похороны отменяются",
+    "cancel_the_funeral_desc":        "Завершите миссию с 1% от брони и без смеси",
     
-    "the_apocalypse_has_come":        "The Apocalypse Has Come",
-    "the_apocalypse_has_come_desc":   "Activate Era's End ability",
+    "the_apocalypse_has_come":        "Апокалипсис настал",
+    "the_apocalypse_has_come_desc":   "Аквируете умение Конец Эры",
     
-    "guardians_wrath":                "Guardian's Wrath",
-    "guardians_wrath_desc":           "Activate Guardian of a Thousand Worlds ability",
+    "guardians_wrath":                "Гнев хранителя",
+    "guardians_wrath_desc":           "Активировать умение Хранитель тысячи миров",
     
-    "awakened_power":                 "Awakened Power",
-    "awakened_power_desc":            "Activate Awakening of Inner Power ability",
+    "awakened_power":                 "Пробуждённая сила",
+    "awakened_power_desc":            "Активируете умение Пробуждение внутренней силы",
     
-    "in_infinity":                    "In Infinity",
-    "in_infinity_desc":               "Clear instance",
+    "in_infinity":                    "В бесконечность",
+    "in_infinity_desc":               "Зачистите инстанцию",
     
-    "deep_in_infinity":               "Deep In Infinity",
+    "deep_in_infinity":               "Глубже в бесконечность",
     "deep_in_infinity_desc":          "Clear ten instances",
     
-    "swarmling_purge":                "Swarmling Purge",
-    "swarmling_purge_desc":           "Destroy 1000 swarmlings",
+    "swarmling_purge":                "Зачистка штипов",
+    "swarmling_purge_desc":           "Уничтожьте 1000 штипов",
     
-    "ultimate_destroyer":             "Ultimate Destroyer",
-    "ultimate_destroyer_desc":        "Destroy 30 bosses",
+    "ultimate_destroyer":             "Великий разрушитель",
+    "ultimate_destroyer_desc":        "Уничтожьте 30 боссов",
     
     "paragon":                        "Paragon",
     "paragon_desc":                   "Have 30 fractal or better parts installed",
     
-    "adamant":                        "Adamant",
-    "adamant_desc":                   "Have 1000000 or more maximum armor",
+    "adamant":                        "Адамант",
+    "adamant_desc":                   "Имейте больше 1000000 едениц брони",
     
-    "apocalyptic":                    "Apocalyptic",
-    "apocalyptic_desc":               "Have 1000000 or more weapon damage",
+    "apocalyptic":                    "Апокалиптический",
+    "apocalyptic_desc":               "Имейте больше 1000000 едениц урона",
     
     "amplification":                  "Amplification",
     "amplification_desc":             "Use amplifier to upgrade part",
     
-    "masterpiece":                    "Masterpiece",
-    "masterpiece_desc":               "Install part with ten or more properties",
+    "masterpiece":                    "Шедевр",
+    "masterpiece_desc":               "Установите деталь с десятью или более свойствами",
     
-    "conqueror_of_the_machines":      "Conqueror of the Machines",
-    "conqueror_of_the_machines_desc": "Destroy the Eight Machines without failures",
+    "conqueror_of_the_machines":      "Покоритель машин",
+    "conqueror_of_the_machines_desc": "Уничтожьте восемь машин без сбоев",
     
     
     
