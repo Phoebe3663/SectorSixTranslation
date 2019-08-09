@@ -343,49 +343,49 @@
     
     
     
-    "fractal":                "Fractal",
-    "fractal_desc":           "Install fractal part",
+    "fractal":                "Фрактальный",
+    "fractal_desc":           "Установка фрактальной части",
     
-    "mythical":               "Mythical",
-    "mythical_desc":          "Install mythical part",
+    "mythical":               "Мифический",
+    "mythical_desc":          "Установка мифической части",
     
-    "etalon":                 "Etalon",
-    "etalon_desc":            "Install etalon",
+    "etalon":                 "Эталон",
+    "etalon_desc":            "Установка эталонной части",
     
-    "relic":                  "Relic",
-    "relic_desc":             "Install relic",
+    "relic":                  "Реликвия",
+    "relic_desc":             "Установите реликвию",
     
-    "relic_carrier":          "Relic Carrier",
-    "relic_carrier_desc":     "Have 4 relics installed",
+    "relic_carrier":          "Перевозчик реликвий",
+    "relic_carrier_desc":     "Установлено 4 реликвии",
     
-    "arcane_arsenal":         "Arcane Arsenal",
-    "arcane_arsenal_desc":    "Obtain all relics",
+    "arcane_arsenal":         "Тайный арсенал",
+    "arcane_arsenal_desc":    "Получить все реликвии",
     
     
     
-    "fighter":                  "Fighter",
-    "fighter_desc":             "Reach level 10",
+    "fighter":                  "Боец",
+    "fighter_desc":             "Получить 10 уровень",
     
-    "veteran":                  "Veteran",
-    "veteran_desc":             "Reach level 20",
+    "veteran":                  "Ветеран",
+    "veteran_desc":             "Получить 20 уровень",
     
-    "master":                   "Master",
-    "master_desc":              "Reach level 30",
+    "master":                   "Мастер",
+    "master_desc":              "Получить 30 уровень",
     
-    "hero":                     "Hero",
-    "hero_desc":                "Reach level 40",
+    "hero":                     "Герой",
+    "hero_desc":                "Получить 40 уровень",
     
-    "legend":                   "Legend",
-    "legend_desc":              "Reach level 50",
+    "legend":                   "Легенда",
+    "legend_desc":              "Получить 50 уровень",
     
-    "legendary_fighter":        "Legendary Fighter",
-    "legendary_fighter_desc":   "Reach level 60",
+    "legendary_fighter":        "Легендарный боец",
+    "legendary_fighter_desc":   "Получить 60 уровень",
     
-    "legendary_master":         "Legendary Master",
-    "legendary_master_desc":    "Reach level 75",
+    "legendary_master":         "Легендарный мастер",
+    "legendary_master_desc":    "Получить 70 уровень",
     
-    "legendary_hero":           "Legendary Hero",
-    "legendary_hero_desc":      "Reach level 90",
+    "legendary_hero":           "Легендарный герой",
+    "legendary_hero_desc":      "Получить 90 уровень",
   
     
     
