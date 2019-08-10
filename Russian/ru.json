@@ -11,7 +11,7 @@
     "to_continue":            "Для продолжения",
     
     "button1":                "Карта",
-    "button2":                "готово",
+    "button2":                "Готово",
     "button3":                "Корабль",
     "button4":                "Достижения",
     "button5":                "Способности",
@@ -21,44 +21,44 @@
     
     "button7":                "Настройки",
     "button8":                "Полноэкранный режим",
-    "button8_tooltip1":       "вкл/выкл полноэкранный режим",
+    "button8_tooltip1":       "Вкл/выкл полноэкранный режим",
     "button9":                "Вертикальная синхрозиция",
-    "button9_tooltip1":       "вкл/выкл вертикальную синхронизацию",
-    "button9_tooltip2":       "Вертикальная Синхронизация предотвращает разрыв экрана",
+    "button9_tooltip1":       "Вкл/выкл вертикальную синхронизацию",
+    "button9_tooltip2":       "Вертикальная синхронизация предотвращает разрыв экрана",
     "button10":               "Сохранить",
     "button11":               "Выход",
     "button12":               "Текст урона",
-    "button12_tooltip1":      "влк/выкл текст, показывающий полученный, нанесённый урон",
-    "button12_tooltip2":      "НЕ РЕКОМЕНДОВАННо: отключите для лучшего ощущения",
+    "button12_tooltip1":      "Вкл/выкл текст, показывающий полученный, нанесённый урон",
+    "button12_tooltip2":      "НЕ РЕКОМЕНДОВАННО: отключите для лучшего ощущения",
     "button13":               "Колличество эффектов",
     "button13_tooltip1":      "Меняет колличество эффектов",
     "button13_tooltip2":      "Снижение колличества эффектов улучшает производительность",
     "button14":               "Продолжить",
     "button15":               "Эффект получения урона",
-    "button15_tooltip1":      "влк/выкл красную раму вокруг экрана при получении урона",
+    "button15_tooltip1":      "Вкл/выкл красную рамку вокруг экрана при получении урона",
     "button16":               "Титры",
-    "button17":               "назад",
+    "button17":               "Назад",
     "button18":               "Заправить",
     "button19":               "Список лидеров",
     "button20":               "Улучшить",
     "button21":               "Ухудшить",
-    "button22":               "начать",
+    "button22":               "Начать",
     
     "button23_a":             "Загрузить",
     "button23_b":             "Начать",
     
     "button24":               "Автосохранение",
-    "button24_tooltip1":      "Еслю включено: игра сохраняется автоматически в начале и в конце миссии",
+    "button24_tooltip1":      "Если включено: игра сохраняется автоматически в начале и в конце миссии",
     
     "button25":               "Изменить",
     "button26":               "Характеристики",
     "button27":               "Готово",
     "button28":               "Выйти из игры",
-    "button29":               "главное меню",
+    "button29":               "Главное меню",
     "button30":               "Подтвердить",
     
     "button31":               "Клавиша карты",
-    "button31_tooltip1":      "вкл/выкл описание иконок на карте",
+    "button31_tooltip1":      "Вкл/выкл описание иконок на карте",
     
     "button32":               "Начать миссию",
     "button32_b":             "Открыть карту",
@@ -71,30 +71,30 @@
     "button38":               "Изменить",
     
     "button39":               "Слияние текста",                   
-    "button39_tooltip1":      "Если включено: колличество урона будет сливаться", 
+    "button39_tooltip1":      "Если включено: колличество урона будет объединяться", 
     
     "button40":               "Продать всё",
 
     "button42":               "Скрыть цель",
     "button42_tooltip1":      "Если включено: вам нужно будет зажать кнопку что-бы видеть цель",
     
-    "button43":               "Получение Xp",
-    "button43_tooltip1":      "вкл/выкл получение XP",
+    "button43":               "Получение опыта",
+    "button43_tooltip1":      "вкл/выкл получение опыта",
 
-    "button44":               "New stock",
+    "button44":               "Новый запас",
     "button45":               "Просмотр наборов",
-    "button46":               "трясение экрана",
-    "button46_tooltip1":      "вкл/выкл трясение экрана",
+    "button46":               "Тряска экрана",
+    "button46_tooltip1":      "Вкл/выкл тряска экрана",
     
-    "button47":               "Предупреждение#оруж.",
-    "button47_tooltip1":      "вкл/выкл предупреждения оруж.",
-    "button47_tooltip2":      "Предупредление о несовершенствах оружия",
+    "button47":               "Предупреждение#оружие.",
+    "button47_tooltip1":      "Вкл/выкл предупреждения об оружиях.",
+    "button47_tooltip2":      "Предупреждение о несовершенставах оружия",
     
     "button48":               "Следы",
-    "button48_tooltip1":      "вкл/выкл эффекты следов",
-    "button48_tooltip2":      "отключение может повысить производительность",
+    "button48_tooltip1":      "Вкл/выкл эффекты следов",
+    "button48_tooltip2":      "Отключение может повысить производительность",
     "button49":               "Многослойный фон",
-    "button49_tooltip1":      "вкл/выкл дополнительные слои фона",
+    "button49_tooltip1":      "Вкл/выкл дополнительные слои фона",
     "button49_tooltip2":      "Отключение дополнительных свлоёв фона может повысить производительность",
 
     "button51_a":             "Новые миссии",
@@ -105,15 +105,15 @@
     
     "button52":               "Проверить",
     "button53":               "Обучение",
-    "button53_tooltip1":      "вкл/выкл обучение",
+    "button53_tooltip1":      "Вкл/выкл обучение",
     
-    "button54_1":             "No level cap",
+    "button54_1":             "Нет максимального уровня",
     "button54_2":             "Максимальный уровень",
     "button54_tooltip1":      "Изменения максимального уровня",
 
     "button55":               "Выделить",
     "button56":               "Собрать",
-    "button56_tooltip1":      "Collect secured region contributions",
+    "button56_tooltip1":      "Собрать пожертвования с безопасных территорий",
 
     "button57":               "Выйти",
     
@@ -128,7 +128,7 @@
     
     "button63":               "Любое псевдоним",
     "button64":               "Любой аватар",
-    "button65":               "переименовать аватара",
+    "button65":               "Переименовать аватара",
     
     "button66":               "Изменить",
     
@@ -147,39 +147,39 @@
     
     "unfinished_parts":       "Незаконченные детали",
     "low_level_parts":        "Детали низкого уровня",
-    "generic_parts":          "обычные детали",
+    "generic_parts":          "Обычные детали",
     "optimized_parts":        "Оптимизированные детали",
     "advanced_parts":         "Продвинутые детали",
-    "extant_parts":           "фрактальные детали",
+    "extant_parts":           "Фрактальные детали",
     "mythical_parts":         "Мифические детали",
-    "relays":                 "Реле",
+    "relays":                 "Релеквии",
     "pylons":                 "Пилоны",
     "nodes":                  "Вершины",
     "sections":               "Секции",
     "engines":                "Двигатели",
     "crafting_items":         "Предметы крафта",    
-    "alloy_containers":       "Контэйнеры со сплавом",
+    "alloy_containers":       "Сплав-контейнеры",
     "compressed_parts":       "Сжатые детали",
     "uncompressed_parts":     "Несжатые детали",
 	
-    "dismantle_all_items":    "Разобрать всё",
+    "dismantle_all_items":    "Разобрать#все предметы",
     "dismantle":              "разобрать#",
     
-    "unequip_all_items":      "Удалить всё",
+    "unequip_all_items":      "Удалить#все предметы",
     "unequip":                "Удалить#",
     
-    "sell_all_items":         "Продать всё",
-    "sell":                   "Продатьl#",
+    "sell_all_items":         "Продать#все предметы",
+    "sell":                   "Продать#",
     
     "deactivate":             "Отключить",
     "activate":               "Включить",
     
-    "cancel":                 "Отменаl",
+    "cancel":                 "Отмена",
     
     "generates_new_items":    "Создание новых предметов",
-    "new_stock_cost":         "Costs $$ units",
+    "new_stock_cost":         "Стоит $$ юнитов",
     
-    "machine_turn_counter":   "The Machines will move in $$ turns",
+    "machine_turn_counter":   "Машины будут двигаться в $$ повортах",
     
     "LS":                     "LS",
     "RS":                     "RS",
@@ -197,7 +197,7 @@
     
           "COMMENT 4": "Above - XBOX controller keys: Left stick (LS), Right stick (RS), Left bumper (LB), Right bumper (RB), Y, B, RT (Right trigger), LT (Left trigger), Start",
     
-    "RMB":                    "right mouse button",
+    "RMB":                    "Правая кнопка мыши",
   
     "ON":                     "ON",
     "OFF":                    "OFF",
@@ -216,7 +216,7 @@
     "use_ability_8":          "Использовать умение 8#",
     "use_ability_9":          "Использовать умение 9#",
     "use_alloy_container":    "Ремонт#",
-    "interact":               "Interact#",
+    "interact":               "Воздействовать#",
     "empower_engines":        "Показать цель#",
     
     "move":                   "Движение",
@@ -263,14 +263,14 @@
     "advanced_enemy":                 "Продвинутый Противник",
     "advanced_enemy_desc":            "Уничтожьте ветерана",
     
-    "extinction_event":               "Extinction Event",
-    "extinction_event_desc":          "Destroy apex",
+    "extinction_event":               "Вымирание",
+    "extinction_event_desc":          "Уничтожить апекс",
     
     "lucky":                          "Счастливчик",
     "lucky_desc":                     "Найдите часть для корабля после разрушения руин",
     
     "demolisher":                     "Разрушитель",
-    "demolisher_desc":                "Разрушите 500 руин",
+    "demolisher_desc":                "Разрушьте 500 руин",
     
     "fallen_city":                    "Падший город",
     "fallen_city_desc":               "Разрушьте 10 руин подряд",
@@ -282,7 +282,7 @@
     "legendary_hunter_desc":          "Уничтожьте 1000 модифицированных противников",
     
     "consumer":                       "Потребитель",
-    "consumer_desc":                  "Используйте 1000 кг смеси для ремонта корабля",
+    "consumer_desc":                  "Используйте 1000 едениц сплава для ремонта корабля",
     
     "obelisk_of_destruction":         "Обелиск Разрушения",
     "obelisk_of_destruction_desc":    "Уничтожьте 5 противников использую Обелиск",
@@ -291,13 +291,13 @@
     "unbreakable_desc":               "Выполните босс-миссию со сложность 10 и пустым контейнером для смеси",
     
     "aesthetic_improvement":          "Эстетическое улучшение",
-    "aesthetic_improvement_desc":     "Изменить вид части",
+    "aesthetic_improvement_desc":     "Измените вид части",
     
     "fragment_fusion_ach":            "Слияние Фрагментов",
-    "fragment_fusion_desc":           "Создание реликвии путем слияния реликтовых фрагментов",
+    "fragment_fusion_desc":           "Создайте реликвии путем слияния реликтовых фрагментов",
     
     "instantaneous_improvement":      "Мгновенное Улучшение",
-    "instantaneous_improvement_desc": "Получить часть с помощью шанса на улучшение части",
+    "instantaneous_improvement_desc": "Получите часть с помощью шанса на улучшение части",
   
     "cancel_the_funeral":             "Похороны отменяются",
     "cancel_the_funeral_desc":        "Завершите миссию с 1% от брони и без смеси",
@@ -306,7 +306,7 @@
     "the_apocalypse_has_come_desc":   "Аквируете умение Конец Эры",
     
     "guardians_wrath":                "Гнев хранителя",
-    "guardians_wrath_desc":           "Активировать умение Хранитель тысячи миров",
+    "guardians_wrath_desc":           "Активируете умение Хранитель тысячи миров",
     
     "awakened_power":                 "Пробуждённая сила",
     "awakened_power_desc":            "Активируете умение Пробуждение внутренней силы",
@@ -315,7 +315,7 @@
     "in_infinity_desc":               "Зачистите инстанцию",
     
     "deep_in_infinity":               "Глубже в бесконечность",
-    "deep_in_infinity_desc":          "Clear ten instances",
+    "deep_in_infinity_desc":          "Зачистите 10 инстанций",
     
     "swarmling_purge":                "Зачистка штипов",
     "swarmling_purge_desc":           "Уничтожьте 1000 штипов",
@@ -323,8 +323,8 @@
     "ultimate_destroyer":             "Великий разрушитель",
     "ultimate_destroyer_desc":        "Уничтожьте 30 боссов",
     
-    "paragon":                        "Paragon",
-    "paragon_desc":                   "Have 30 fractal or better parts installed",
+    "paragon":                        "Образец для подражания",
+    "paragon_desc":                   "Установите 30 фрактальных или лучших частей",
     
     "adamant":                        "Адамант",
     "adamant_desc":                   "Имейте больше 1000000 едениц брони",
@@ -332,8 +332,8 @@
     "apocalyptic":                    "Апокалиптический",
     "apocalyptic_desc":               "Имейте больше 1000000 едениц урона",
     
-    "amplification":                  "Amplification",
-    "amplification_desc":             "Use amplifier to upgrade part",
+    "amplification":                  "Усиление",
+    "amplification_desc":             "Используйте усилитель для обновления детали",
     
     "masterpiece":                    "Шедевр",
     "masterpiece_desc":               "Установите деталь с десятью или более свойствами",
@@ -389,46 +389,46 @@
   
     
     
-    "sacrifice":                      "Sacrifice",
-    "sacrifice_desc":                 "Trigger sacrificial alloy container ability",
+    "sacrifice":                      "Жертва",
+    "sacrifice_desc":                 "Используйте жертвенное умение сплав-контейнера",
     
-    "into_eternity":                  "Into Eternity",
-    "into_eternity_desc":             "Trigger eternal alloy container ability",
+    "into_eternity":                  "В вечность",
+    "into_eternity_desc":             "Используйте вечное умение сплав-контейнера",
     
-    "ancient_technology":             "Ancient Technology",
-    "ancient_technology_desc":        "Trigger ancient alloy container ability",
+    "ancient_technology":             "Древняя технология",
+    "ancient_technology_desc":        "Используйте древнее умение сплав-контейнера",
     
-    "entropy":                        "Entropy",
-    "entropy_desc":                   "Trigger unstable alloy container ability",
+    "entropy":                        "Энтропия",
+    "entropy_desc":                   "Используйте нестабильное умение сплав-контейнера",
     
-    "untimely_disintegration":        "Untimely Disintegration",
-    "untimely_disintegration_desc":   "Trigger transient alloy container ability",
+    "untimely_disintegration":        "Несвоевременный распад",
+    "untimely_disintegration_desc":   "Используйте переходное умение сплав-контейнера",
     
     
     
-    "retrieval":                      "Retrieval",
-    "retrieval_desc":                 "Complete retrieval mission",
+    "retrieval":                      "Поиск",
+    "retrieval_desc":                 "Выполните поисковую миссию",
     
-    "region_reclaimed":               "Area Reclaimed",
-    "region_reclaimed_desc":          "Complete elimination mission",
+    "region_reclaimed":               "Область восстановления",
+    "region_reclaimed_desc":          "Выполните ликвидационную миссию",
     
-    "in_time":                        "In Time",
-    "in_time_desc":                   "Complete time attack mission",
+    "in_time":                        "Вовремя",
+    "in_time_desc":                   "Выполните боевую миссию на время",
     
-    "destroyer":                      "Destroyer",
-    "destroyer_desc":                 "Complete kill mission",
+    "destroyer":                      "Разрушитель",
+    "destroyer_desc":                 "Выполните боевую миссию",
     
-    "siege_master":                   "Siege Master",
-    "siege_master_desc":              "Complete siege mission",
+    "siege_master":                   "Осадный мастер",
+    "siege_master_desc":              "Выполните осадную миссию",
     
-    "new_beginning":                  "New Beginning",
-    "new_beginning_desc":             "Complete resurrection mission",
+    "new_beginning":                  "Новое начало",
+    "new_beginning_desc":             "Выполните восстановительную миссию",
     
-    "champion":                       "Champion",
-    "champion_desc":                  "Complete arena mission",
+    "champion":                       "Чемпион",
+    "champion_desc":                  "Выполните миссию на арене",
     
-    "colony_defender":                "Colony Defender",
-    "colony_defender_desc":           "Complete boss mission",
+    "colony_defender":                "Защитник колонии",
+    "colony_defender_desc":           "Выпоолните босс-миссию",
     
     
     
