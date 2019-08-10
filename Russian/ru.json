@@ -432,73 +432,73 @@
     
     
     
-    "mass_elimination":               "Mass Elimination",
-    "mass_elimination_desc":          "Destroy over 100 minions during elimination mission",
+    "mass_elimination":               "Массовая Ликвидация",
+    "mass_elimination_desc":          "Уничтожьте более 100 противников во время ликвидационной миссии",
     
-    "quick_resurrection":             "Quick Resurrection",
-    "quick_resurrection_desc":        "Collect enough data before killing ten or more minions",
+    "quick_resurrection":             "Быстрое воскрешение",
+    "quick_resurrection_desc":        "Соберите достаточно данных, прежде чем убить десять или более протвников",
     
-    "epic_reward":                    "Epic Reward",
-    "epic_reward_desc":               "Get five or more high grade parts from Techamer",
+    "epic_reward":                    "Эпическая награда",
+    "epic_reward_desc":               "Получите пять или более высококачественных деталей от Техамера",
     
-    "epic_retrieval":                 "Epic Retrieval",
-    "epic_retrieval_desc":            "Get five or more high grade parts from part case",
+    "epic_retrieval":                 "Эпическая находка",
+    "epic_retrieval_desc":            "Получите пять или более высококачественных деталей из кейса",
     
-    "true_champion":                  "True Champion",
-    "true_champion_desc":             "Destroy 20 large minions during arena mission",
+    "true_champion":                  "Правильный чемпион",
+    "true_champion_desc":             "Уничтожьте 20 больших миньонов во время миссии на арене",
     
-    "fanatic_of_destruction":         "Fanatic of Destruction",
-    "fanatic_of_destruction_desc":    "Complete kill mission after destroying 100 minions",
+    "fanatic_of_destruction":         "Фанатик разрушений",
+    "fanatic_of_destruction_desc":    "Завершите миссию после уничтожения 100 противников",
     
-    "very_fast":                      "Very Fast",
-    "very_fast_desc":                 "Complete time attack mission in 35 seconds or less",
+    "very_fast":                      "Очень быстро",
+    "very_fast_desc":                 "Выполните временную миссию уложившись в 35 секунд или меньше",
     
-    "efficient":                      "Efficient",
-    "efficient_desc":                 "Complete siege mission with 100% accuracy and no leftover ammo",
+    "efficient":                      "Эффективный",
+    "efficient_desc":                 "Выполните осадную миссию со 100% точностью и без остатка боеприпасов",
     
     
     
-    "mission_1":        "The Beginning",
-    "mission_1_desc":   "Complete Mission 1",
+    "mission_1":        "Начало",
+    "mission_1_desc":   "Выполните миссию 1",
     
-    "mission_2":        "To Negati",
-    "mission_2_desc":   "Complete Mission 2",
+    "mission_2":        "К Негати",
+    "mission_2_desc":   "Выполните миссию 2",
     
-    "mission_3":        "The Almadian Knowledge",
-    "mission_3_desc":   "Complete Mission 3",
+    "mission_3":        "Библиотека Алмадина",
+    "mission_3_desc":   "Выполните миссию 3",
     
-    "mission_4":        "The Core",
-    "mission_4_desc":   "Complete Mission 4",
+    "mission_4":        "Ядро",
+    "mission_4_desc":   "Выполните миссию 4",
     
-    "mission_5":        "The Eight Keys",
-    "mission_5_desc":   "Complete Mission 5",
+    "mission_5":        "Восемь ключей",
+    "mission_5_desc":   "Выполните миссию 5",
     
-    "mission_6":        "Wrath of the Machines",
-    "mission_6_desc":   "Complete Mission 6",
+    "mission_6":        "Гнев машин",
+    "mission_6_desc":   "Выполните миссию 6",
     
-    "mission_7":        "Despair",
-    "mission_7_desc":   "Complete Mission 7",
+    "mission_7":        "Отчаяние",
+    "mission_7_desc":   "Выполните миссию 7",
     
-    "mission_8":        "The Forbidden Knowledge",
-    "mission_8_desc":   "Complete Mission 8",
+    "mission_8":        "Забытая библиотека",
+    "mission_8_desc":   "Выполните миссию 8",
     
-    "mission_9":        "Path Beyond",
-    "mission_9_desc":   "Complete Mission 9",
+    "mission_9":        "Путь за пределы",
+    "mission_9_desc":   "Выполните миссию 9",
     
-    "mission_10":       "Beyond Light",
-    "mission_10_desc":  "Complete Mission 10",
+    "mission_10":       "За пределами света",
+    "mission_10_desc":  "Выполните миссию 10",
     
-    "mission_11":       "The Edge",
-    "mission_11_desc":  "Complete Mission 11",
+    "mission_11":       "Край",
+    "mission_11_desc":  "Выполните миссию 11",
     
-    "mission_12":       "Destruction",
-    "mission_12_desc":  "Complete Mission 12",
+    "mission_12":       "Разрушение",
+    "mission_12_desc":  "Выполните миссию 12",
     
-    "mission_13":       "The Birth of Infinity",
-    "mission_13_desc":  "Complete Mission 13",
+    "mission_13":       "Рождение бесконечности",
+    "mission_13_desc":  "Выполните миссию 13",
     
-    "mission_14":       "The Eight Machines",
-    "mission_14_desc":  "Complete Mission 14",
+    "mission_14":       "Восемь машин",
+    "mission_14_desc":  "Выполните миссию 14",
     
     
     
@@ -525,41 +525,41 @@
     
     
     
-    "error_error_error":              "Error Error Error",
-    "error_error_error_desc":         "Jam minion three times",
+    "error_error_error":              "Ошибка, ещё ошибка, тоже ошибка...",
+    "error_error_error_desc":         "Оглушить противника 3 раза",
     
-    "a_million_lives_saved":          "A Million Lives Saved",
-    "a_million_lives_saved_desc":     "Destroy a siege unit before it releases its first sphere",
+    "a_million_lives_saved":          "Миллион жизней спасены",
+    "a_million_lives_saved_desc":     "Уничтожьте осадную машину прежде чем она создаст 1 сферу",
     
-    "passive_aggression":             "Passive Aggression",
-    "passive_aggression_desc":        "Destroy a minion without weapons on your spaceship",
+    "passive_aggression":             "Пассивная агрессия",
+    "passive_aggression_desc":        "Уничтожьте противника без оружия на своём корабле",
     
-    "cache":                          "Cache",
-    "cache_desc":                     "Loot cache in Tarion",
+    "cache":                          "Тайник",
+    "cache_desc":                     "Разграбьте тайник в Тарион",
     
-    "mass_shatter":                   "Mass Shatter",
-    "mass_shatter_desc":              "Destroy three or more shields simultaneously with Shatter ability",
+    "mass_shatter":                   "Массовое разрушение",
+    "mass_shatter_desc":              "Уничтожьте три или более щитов одновременно с разрушительным умением",
     
-    "mass_ionize":                    "Mass Ionize",
-    "mass_ionize_desc":               "Destroy three or more minions simultaneously with Ionize ability",
+    "mass_ionize":                    "Массовая ионизация",
+    "mass_ionize_desc":               "Уничтожьте трех или более миньонов одновременно с ионизирующим умением",
     
-    "mass_detonate":                  "Mass Detonate",
-    "mass_detonate_desc":             "Detonate 40 or more mines simultaneously with Detonate ability",
+    "mass_detonate":                  "Массовая детонация",
+    "mass_detonate_desc":             "Детонируйте 40 или больше мин одновременно с детонирующим умением",
     
-    "symbol_of_life":                 "Symbol of Life",
-    "symbol_of_life_desc":            "Find a life rune in Bloom",
+    "symbol_of_life":                 "Символ жизни",
+    "symbol_of_life_desc":            "Найдите руну жизни в Блуме",
     
-    "materialist":                    "Materialist",
-    "materialist_desc":               "Claim generic weapons as a mission reward five times in a row",
+    "materialist":                    "Материалист",
+    "materialist_desc":               "Претендовать на стандартное оружие в качестве награды миссии пять раз подряд",
     
-    "imprisoned_power":               "Imprisoned Power",
-    "imprisoned_power_desc":          "Have a stack of 10 or more amplifiers",
+    "imprisoned_power":               "Заключённая сила",
+    "imprisoned_power_desc":          "Иметь пачку из 10 или более усилителей",
     
-    "seven_missiles":                 "Seven Missiles",
-    "seven_missiles_desc":            "Fire seven or more missiles with Swarm Control ability",
+    "seven_missiles":                 "Семь ракет",
+    "seven_missiles_desc":            "Атакуйте семью или более ракетами с помощью умения Массовый контроль",
     
-    "ancient_tool":                   "Ancient Tool",
-    "ancient_tool_desc":              "Use reliquary item",
+    "ancient_tool":                   "Древний инструмент",
+    "ancient_tool_desc":              "Используйте реликвию",
     
     
     
