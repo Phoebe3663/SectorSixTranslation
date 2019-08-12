@@ -318,7 +318,7 @@
     "deep_in_infinity_desc":          "Зачистите 10 инстанций",
     
     "swarmling_purge":                "Зачистка штипов",
-    "swarmling_purge_desc":           "Уничтожьте 1000 штипов",
+    "swarmling_purge_desc":           "Уничтожьте 1000 Клигов",
     
     "ultimate_destroyer":             "Великий разрушитель",
     "ultimate_destroyer_desc":        "Уничтожьте 30 боссов",
@@ -563,61 +563,61 @@
     
     
     
-    "slayer_of_the_light_eater":      "Slayer of the Light Eater",
-    "slayer_of_the_shadow_maker":     "Slayer of the Shadow Maker",
-    "slayer_of_the_planet_killer":    "Slayer of the Planet Killer",
-    "slayer_of_the_swarm_former":     "Slayer of the Swarm Former",
-    "slayer_of_the_void_shaper":      "Slayer of the Void Shaper",
-    "slayer_of_the_shield_breaker":   "Slayer of the Shield Breaker",
-    "slayer_of_the_fear_bringer":     "Slayer of the Fear Bringer",
-    "slayer_of_the_plague_carrier":   "Slayer of the Plague Carrier",
+    "slayer_of_the_light_eater":      "Убийца Пожирателя Света",
+    "slayer_of_the_shadow_maker":     "Убийца Создателя Теней",
+    "slayer_of_the_planet_killer":    "Убийца Планетарного Киллера",
+    "slayer_of_the_swarm_former":     "Убийца Бертора",
+    "slayer_of_the_void_shaper":      "Убийца Формирователя Пустоты",
+    "slayer_of_the_shield_breaker":   "Убийца Щитового Разрушителя",
+    "slayer_of_the_fear_bringer":     "Убийца Несущего Страх",
+    "slayer_of_the_plague_carrier":   "Убийца Носителя Чумы",
     
-    "slayer_of_the_light_eater_desc":      "Destroy Light Eater Eashor",
-    "slayer_of_the_shadow_maker_desc":     "Destroy Shadow Maker Numinir",
-    "slayer_of_the_planet_killer_desc":    "Destroy Planet Killer Astrail",
-    "slayer_of_the_swarm_former_desc":     "Destroy Swarm Former Hivind",
-    "slayer_of_the_void_shaper_desc":      "Destroy Void Shaper Tenerata",
-    "slayer_of_the_shield_breaker_desc":   "Destroy Shield Breaker Ligwitch",
-    "slayer_of_the_fear_bringer_desc":     "Destroy Fear Bringer Ourend",
-    "slayer_of_the_plague_carrier_desc":   "Destroy Plague Carrier Malasmar",
+    "slayer_of_the_light_eater_desc":      "Уничтожьте Пожирателя Света Эшера",
+    "slayer_of_the_shadow_maker_desc":     "Уничтожьте Создателя Теней Нюминира",
+    "slayer_of_the_planet_killer_desc":    "Уничтожьте Планетарного Киллера Астраила",
+    "slayer_of_the_swarm_former_desc":     "Уничтожьте Бертора Хайвайнда",
+    "slayer_of_the_void_shaper_desc":      "Уничтожьте Формирователя Пустоты Тэнерата",
+    "slayer_of_the_shield_breaker_desc":   "Уничтожьте Щитового Разрушителя Лайгвайтча",
+    "slayer_of_the_fear_bringer_desc":     "Уничтожьте Несущего Страх Квайренда",
+    "slayer_of_the_plague_carrier_desc":   "Уничтожьте Носителя Чумы Маласмара",
     
     
     
-    "deep_path_escalation":             "Deep Path Escalation",
-    "deep_path_escalation_desc":        "Complete a mission in Deep Path",
+    "deep_path_escalation":             "Конфликт в Дип Пате",
+    "deep_path_escalation_desc":        "Выполните миссию в Дип Пате",
     
-    "negati_escalation":                "Negati Escalation",
-    "negati_escalation_desc":           "Complete a mission in Negati",
+    "negati_escalation":                "Конфликт в Нэгати",
+    "negati_escalation_desc":           "Выполните миссию в Нэгати",
     
-    "labyrinth_escalation":             "Labyrinth Escalation",
-    "labyrinth_escalation_desc":        "Complete a mission in Labyrinth",
+    "labyrinth_escalation":             "Конфликт в Лабиринте",
+    "labyrinth_escalation_desc":        "Выполните миссию в Лабиринте",
     
-    "the_core_escalation":              "Through Chaos",
-    "the_core_escalation_desc":         "Complete a mission in the Core",
+    "the_core_escalation":              "Через хаос",
+    "the_core_escalation_desc":         "Выполните миссию в Ядре",
     
-    "aspil_escalation":                 "Aspil Escalation",
-    "aspil_escalation_desc":            "Complete a mission in Aspil",
+    "aspil_escalation":                 "Конфликт в Аспиле",
+    "aspil_escalation_desc":            "Выполните миссию в Аспиле",
     
-    "pylon_escalation":                 "Pylon Escalation",
-    "pylon_escalation_desc":            "Complete a mission in Pylon",
+    "pylon_escalation":                 "Конфликт в Пилоне",
+    "pylon_escalation_desc":            "Выполните миссию в Пилоне",
     
-    "niss_escalation":                  "Niss Escalation",
-    "niss_escalation_desc":             "Complete a mission in Niss",
+    "niss_escalation":                  "Конфликт в Ниссе",
+    "niss_escalation_desc":             "Завершите миссию в Ниссе",
     
-    "archmist_escalation":              "Archmist Escalation",
-    "archmist_escalation_desc":         "Complete a mission in Archmist",
+    "archmist_escalation":              "Конфликт в Архимисте",
+    "archmist_escalation_desc":         "Выполните миссию в Архимисте",
     
-    "sailemar_escalation":              "Sailemar Escalation",
-    "sailemar_escalation_desc":         "Complete a mission in Sailemar",
+    "sailemar_escalation":              "Конфликт в Саилемаре",
+    "sailemar_escalation_desc":         "Выполните миссию в Саилимаре",
     
-    "ityl_escalation":                  "Ityl Escalation",
-    "ityl_escalation_desc":             "Complete a mission in Ityl",
+    "ityl_escalation":                  "Конфликт в Итиле",
+    "ityl_escalation_desc":             "Выполните миссию в Итиле",
     
-    "paradise_escalation":              "Paradise Escalation",
-    "paradise_escalation_desc":         "Complete a mission in Paradise",
+    "paradise_escalation":              "Конфликт в Раю :)",
+    "paradise_escalation_desc":         "Выполните миссию в Парадайзе",
     
-    "tarion_escalation":                "Tarion Escalation",
-    "tarion_escalation_desc":           "Complete a mission in Tarion",
+    "tarion_escalation":                "Конфликт в Тарионе",
+    "tarion_escalation_desc":           "Выполните миссию в Тарионе",
     
     "tridenkor_escalation":             "Tridenkor Escalation",
     "tridenkor_escalation_desc":        "Complete a mission in Tridenkor",
