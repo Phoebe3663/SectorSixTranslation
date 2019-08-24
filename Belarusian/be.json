@@ -4622,5 +4622,44 @@
 	
  "topic_name48": 	"Рухавікі",
  "topic_desc48": 	"Рухавікі - гэта часткі карабля, уласцівасці якіх ідэнтычныя часткам, не звязаным са зброяй - секцыі - і з унікальнымі абалонкамi рухавіка. Калі на караблі ўсталевана менш за 1 рухавік, хуткасць яго перамяшчэння будзе зніжана на 50%. Акрамя гэтага, рухавікі не маюць унікальных эфектаў - наяўнасць больш за 1 з іх не зробіць карабель хутчэй."
+  
+"you_received":	"You received:",
+"achievement_result":	"Achievement: ",
+"unregistered":	"Unregistered-",
+	
+"map_key_status_a1":	"Secured",
+"map_key_status_a2":	"Besieged",
+"map_key_status_a3":	"Occupied",
+"map_key_status_a4":	"Destroyed",
+	
+"map_key_status_b1":	"Area",
+"map_key_status_b2":	"Area",
+"map_key_status_b3":	"Area",
+"map_key_status_b4":	"Area",
+	
+"map_key_mission_a1":	"Area",
+"map_key_mission_a2":	"Mission",
+"map_key_mission_a3":	"Mission",
+"map_key_mission_a4":	"Area",
+	
+"map_key_mission_b1":	"Mission",
+"map_key_mission_b2":	"Type",
+"map_key_mission_b3":	"Reward",
+"map_key_mission_b4":	"Status",
+	
+"eashor":	"Light Eater Eashor",
+"astrail":	"Planet Killer Astrail",
+"numinir":	"Shadow Maker Numinir",
+"hivind":	"Swarm Former Hivind",
+"tenerata":	"Void Shaper Tenerata",
+"ligwitch":	"Shield Breaker Ligwitch",
+"malasmar":	"Plague Carrier Malasmar",
+"ourend":	"Fear Bringer Ourend",
+	
+"pt-br1":	"Digital Kaz Brazil",
+"pt-br2":	"Brazillian Portuguese localization",
+	
+"fr1":	"???",
+"fr2":	"French localization"
   }
 }
