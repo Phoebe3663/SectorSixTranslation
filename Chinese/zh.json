@@ -1,10 +1,10 @@
 ﻿{
   "language": "简体中文",
   "strings": {
-    "COMMENT 8": "COMMENT lines does not need to be translated. ",
-    "COMMENT 9": "If you need help translating certain strings, contact developer. Email: zuurix@protonmail.com",
+    "COMMENT 8": "注释行不需要翻译。",
+    "COMMENT 9": "如果需要帮助翻译某些字符串，请与开发人员联系。电子邮箱: zuurix@protonmail.com",
 
-    "sector_six": "Sector six",
+    "sector_six": "军情六部",
 
     "press_any_key": "按任意键",
     "to_continue": "继续",
@@ -18,7 +18,7 @@
     "button6": "任务",
     "button6_b": "活动",
 
-    "button7": "设置",
+   "button7": "设置",
     "button8": "全屏",
     "button8_tooltip1": "切换全屏/窗口模式",
     "button9": "垂直同步",
@@ -43,7 +43,7 @@
     "button21": "降级",
     "button22": "开始游戏",
 
-    "button23_a": "读取",
+   "button23_a": "读取",
     "button23_b": "创建",
 
     "button24": "自动存档",
@@ -99,8 +99,8 @@
     "button51_a": "新任务",
     "button51_a_tooltip1": "等待新任务",
 
-    "button51_b": "New instance",
-    "button51_b_tooltip1": "Form new instance",
+     "button51_b": "新实例",
+    "button51_b_tooltip1": "形成新实例",
 
     "button52": "检查",
     "button53": "教程",
@@ -131,7 +131,7 @@
 
     "button66": "修改",
 
-    "button67": "Form instance",
+    "button67": "形成实例",
 
     "button68": "图形设置",
     "button69": "音频设置",
@@ -205,15 +205,15 @@
     "move_down": "向下移动#",
     "move_left": "向左移动#",
     "move_right": "向右移动#",
-    "use_ability_1": "使用1技能#",
-    "use_ability_2": "使用2技能#",
-    "use_ability_3": "使用3技能#",
-    "use_ability_4": "使用4技能#",
-    "use_ability_5": "使用5技能#",
-    "use_ability_6": "使用6技能#",
-    "use_ability_7": "使用7技能#",
-    "use_ability_8": "使用8技能#",
-    "use_ability_9": "使用9技能#",
+    "use_ability_1": "使用技能1#",
+    "use_ability_2": "使用技能2#",
+    "use_ability_3": "使用技能3#",
+    "use_ability_4": "使用技能4#",
+    "use_ability_5": "使用技能5#",
+    "use_ability_6": "使用技能6#",
+    "use_ability_7": "使用技能7#",
+    "use_ability_8": "使用技能8#",
+    "use_ability_9": "使用技能9#",
     "use_alloy_container": "修理飞船#",
     "interact": "场景互动#",
     "empower_engines": "引擎过载#",
@@ -244,7 +244,7 @@
 
     "COMMENT 5": "Above - Strings for key remapping interface",
 
-    "safe_and_sound": "Safe And Sound",
+    "safe_and_sound": "安全可靠",
     "safe_and_sound_desc": "进入安全区域",
 
     "savior": "救世主",
@@ -265,7 +265,7 @@
     "extinction_event": "灭绝事件",
     "extinction_event_desc": "破坏顶点",
 
-    "lucky": "Lucky",
+    "lucky": "幸运的",
     "lucky_desc": "破坏建筑时获得零件",
 
     "demolisher": "拆迁办",
@@ -275,16 +275,16 @@
     "fallen_city_desc": "一个关卡内拆除十个建筑",
 
     "hunter": "我似鸽杀手",
-    "hunter_desc": "消灭100个改良Minion",
+    "hunter_desc": "消灭100个改良奴仆",
 
     "legendary_hunter": "我莫得感情",
-    "legendary_hunter_desc": "消灭1000个改良Minion",
+    "legendary_hunter_desc": "消灭1000个改良奴仆",
 
     "consumer": "韭菜",
     "consumer_desc": "花费1000合金修理飞船",
 
-    "obelisk_of_destruction": "Obelisk毁灭者",
-    "obelisk_of_destruction_desc": "消灭同一Obelisk的五个Minion",
+    "obelisk_of_destruction": "方尖碑毁灭者",
+    "obelisk_of_destruction_desc": "消灭同一方尖碑的五个奴仆",
 
     "unbreakable": "坚不可摧",
     "unbreakable_desc": "完成10级难度的BOSS任务且没有使用合金电容",
@@ -302,22 +302,22 @@
     "cancel_the_funeral_desc": "完成任务时仅剩不到1%的护甲且没有剩余合金",
 
     "the_apocalypse_has_come": "末日降临",
-    "the_apocalypse_has_come_desc": "触发 Era's End",
+    "the_apocalypse_has_come_desc": "触发时代的终结",
 
-    "guardians_wrath": "Guardian的愤怒",
-    "guardians_wrath_desc": "触发 Guardian of a Thousand Worlds",
+    "guardians_wrath": "守护者的愤怒",
+    "guardians_wrath_desc": "触发万国守护者",
 
     "awakened_power": "力量觉醒",
-    "awakened_power_desc": "触发 Awakening of Inner Power",
+    "awakened_power_desc": "触发内在力量的觉醒",
 
     "in_infinity": "无限大",
-    "in_infinity_desc": "清除Instance",
+    "in_infinity_desc": "清除实例",
 
     "deep_in_infinity": "无限深",
-    "deep_in_infinity_desc": "清除十个Instance",
+    "deep_in_infinity_desc": "清除十个实例",
 
-    "swarmling_purge": "Swarmling Purge",
-    "swarmling_purge_desc": "消灭1000个Swarmling",
+    "swarmling_purge": "群集清除",
+    "swarmling_purge_desc": "消灭1000个群集",
 
     "ultimate_destroyer": "无敌破坏王",
     "ultimate_destroyer_desc": "消灭30个BOSS",
@@ -432,22 +432,22 @@
 
 
     "mass_elimination": "屠杀",
-    "mass_elimination_desc": "在清除任务中消灭一百个Minion",
+    "mass_elimination_desc": "在清除任务中消灭一百个奴仆",
 
     "quick_resurrection": "复活节",
-    "quick_resurrection_desc": "杀掉十个Minion之前收集足够的数据",
+    "quick_resurrection_desc": "杀掉十个奴仆之前收集足够的数据",
 
     "epic_reward": "史诗奖励",
-    "epic_reward_desc": "从Techamer获得五个更高级的零件",
+    "epic_reward_desc": "从技术员获得五个更高级的零件",
 
     "epic_retrieval": "史诗回收",
     "epic_retrieval_desc": "从零件箱获得五个更高级的零件",
 
     "true_champion": "真正的角斗士",
-    "true_champion_desc": "在竞技场任务中消灭二十个Large Minion",
+    "true_champion_desc": "在竞技场任务中消灭二十个大型奴仆",
 
     "fanatic_of_destruction": "T-1000",
-    "fanatic_of_destruction_desc": "一局杀戮任务中消灭一百个Minion",
+    "fanatic_of_destruction_desc": "一局杀戮任务中消灭一百个奴仆",
 
     "very_fast": "你可真快",
     "very_fast_desc": "三十五秒内完成限时任务",
@@ -458,107 +458,107 @@
 
 
     "mission_1": "开幕式",
-    "mission_1_desc": "完成 Mission 1",
+    "mission_1_desc": "完成任务1",
 
     "mission_2": "叛军",
-    "mission_2_desc": "完成 Mission 2",
+    "mission_2_desc": "完成任务2",
 
     "mission_3": "The Almadian Knowledge",
-    "mission_3_desc": "完成 Mission 3",
+    "mission_3_desc": "完成任务3",
 
     "mission_4": "核心",
-    "mission_4_desc": "完成 Mission 4",
+    "mission_4_desc": "完成任务4",
 
     "mission_5": "八重密钥",
-    "mission_5_desc": "完成 Mission 5",
+    "mission_5_desc": "完成任务5",
 
     "mission_6": "机械之怒",
-    "mission_6_desc": "完成 Mission 6",
+    "mission_6_desc": "完成任务6",
 
     "mission_7": "绝望",
-    "mission_7_desc": "完成 Mission 7",
+    "mission_7_desc": "完成任务7",
 
     "mission_8": "禁书",
-    "mission_8_desc": "完成 Mission 8",
+    "mission_8_desc": "完成任务8",
 
     "mission_9": "光速",
-    "mission_9_desc": "完成 Mission 9",
+    "mission_9_desc": "完成任务9",
 
     "mission_10": "超膜",
-    "mission_10_desc": "完成 Mission 10",
+    "mission_10_desc": "完成任务10",
 
     "mission_11": "视域",
-    "mission_11_desc": "完成 Mission 11",
+    "mission_11_desc": "完成任务11",
 
     "mission_12": "毁灭",
-    "mission_12_desc": "完成 Mission 12",
+    "mission_12_desc": "完成任务12",
 
     "mission_13": "无限之始",
-    "mission_13_desc": "完成 Mission 13",
+    "mission_13_desc": "完成任务13",
 
     "mission_14": "八械",
-    "mission_14_desc": "完成 Mission 14",
+    "mission_14_desc": "完成任务14",
+
+
+    "set_1": "以太的碰撞",
+    "set_1_desc": "完成以太的碰撞任务",
+
+    "set_2": "科尔的空隙形状",
+    "set_2_desc": "完成科尔的空隙形状任务",
+
+    "set_3": "奥特奈德的折磨",
+    "set_3_desc": "完成奥特奈德的折磨任务",
+
+    "set_4": "基塔利亚的枯萎",
+    "set_4_desc": "完成基塔利亚的枯萎任务",
+
+    "set_5": "奥萨的光辉",
+    "set_5_desc": "完成奥萨的光辉任务",
+
+    "set_6": "阿齐马尔的杀手锏",
+    "set_6_desc": "完成阿齐马尔的杀手锏任务",
+
+    "set_7": "洛迪恩的最后通牒",
+    "set_7_desc": "完成洛迪恩的最后通牒任务",
 
 
 
-    "set_1": "Etherion's Clash",
-    "set_1_desc": "通过 Etherion's Clash 完成任务",
-
-    "set_2": "Cor's Voidshape",
-    "set_2_desc": "通过 Cor's Voidshape 完成任务",
-
-    "set_3": "Ultranid's Torment",
-    "set_3_desc": "通过 Ultranid's Torment 完成任务",
-
-    "set_4": "Kithalia's Blight",
-    "set_4_desc": "通过 Kithalia's Blight 完成任务",
-
-    "set_5": "Oesa's Radiance",
-    "set_5_desc": "通过 Oesa's Radiance 完成任务",
-
-    "set_6": "Azimar's Killframe",
-    "set_6_desc": "通过 Azimar's Killframe 完成任务",
-
-    "set_7": "Lodeon's Ultimatum",
-    "set_7_desc": "通过 Lodeon's Ultimatum 完成任务",
-
-
-
-    "error_error_error": "Error Error Error",
-    "error_error_error_desc": "卡住 Minion 三次",
+    "error_error_error": "错误错误错误",
+    "error_error_error_desc": "卡住奴仆三次",
 
     "a_million_lives_saved": "拯救百万人",
     "a_million_lives_saved_desc": "在攻城单位开火前消灭",
 
     "passive_aggression": "被动击杀",
-    "passive_aggression_desc": "击杀一个 Minion 且不使用飞船上的武器",
+    "passive_aggression_desc": "击杀一个奴仆且不使用飞船上的武器",
 
     "cache": "宝藏",
-    "cache_desc": "找到 Tarion 隐藏的宝藏",
+    "cache_desc": "找到塔隆隐藏的宝藏",
 
-    "mass_shatter": "Mass Shatter",
-    "mass_shatter_desc": "Destroy three or more shields simultaneously with Shatter ability",
+    "mass_shatter": "质量破碎",
+    "mass_shatter_desc": "使用粉碎能力同时摧毁三个或更多的盾牌",
 
-    "mass_ionize": "Mass Ionize",
-    "mass_ionize_desc": "Destroy three or more minions simultaneously with Ionize ability",
+    "mass_ionize": "质量电离",
+    "mass_ionize_desc": "使用电离能力同时消灭三个或更多奴仆",
 
-    "mass_detonate": "Mass Detonate",
-    "mass_detonate_desc": "Detonate 40 or more mines simultaneously with Detonate ability",
+    "mass_detonate": "质量引爆",
+    "mass_detonate_desc": "同时引爆40枚或更多地雷",
 
-    "symbol_of_life": "Symbol of Life",
-    "symbol_of_life_desc": "Find a life rune in Bloom",
+    "symbol_of_life": "生命的象征",
+    "symbol_of_life_desc": "在花朵中找到一个生命符文",
 
-    "materialist": "Materialist",
-    "materialist_desc": "Claim generic weapons as a mission reward five times in a row",
+    "materialist": "唯物主义者",
+    "materialist_desc": "连续5次领取普通武器任务奖励",
 
-    "imprisoned_power": "Imprisoned Power",
-    "imprisoned_power_desc": "Have a stack of 10 or more amplifiers",
+    "imprisoned_power": "被囚禁的权力",
+    "imprisoned_power_desc": "有10个或更多的放大器",
 
-    "seven_missiles": "Seven Missiles",
-    "seven_missiles_desc": "Fire seven or more missiles with Swarm Control ability",
+    "seven_missiles": "七枚导弹",
+    "seven_missiles_desc": "使用群体控制能力发射7枚或更多导弹",
 
-    "ancient_tool": "Ancient Tool",
-    "ancient_tool_desc": "Use reliquary item",
+    "ancient_tool": "古代工具",
+    "ancient_tool_desc": "使用圣物箱物品",
+
 
 
 
