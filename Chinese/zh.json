@@ -562,125 +562,125 @@
 
 
 
-    "slayer_of_the_light_eater": "Slayer of the Light Eater",
-    "slayer_of_the_shadow_maker": "Slayer of the Shadow Maker",
-    "slayer_of_the_planet_killer": "Slayer of the Planet Killer",
-    "slayer_of_the_swarm_former": "Slayer of the Swarm Former",
-    "slayer_of_the_void_shaper": "Slayer of the Void Shaper",
-    "slayer_of_the_shield_breaker": "Slayer of the Shield Breaker",
-    "slayer_of_the_fear_bringer": "Slayer of the Fear Bringer",
-    "slayer_of_the_plague_carrier": "Slayer of the Plague Carrier",
+    "slayer_of_the_light_eater": "光芒吞噬者的杀手",
+    "slayer_of_the_shadow_maker": "影子制造者的杀手",
+    "slayer_of_the_planet_killer": "星球破坏者的杀手",
+    "slayer_of_the_swarm_former": "蜂群构筑者的杀手",
+    "slayer_of_the_void_shaper": "虚空塑造者的杀手",
+    "slayer_of_the_shield_breaker": "盾牌破坏者的杀手",
+    "slayer_of_the_fear_bringer": "恐惧提供者的杀手",
+    "slayer_of_the_plague_carrier": "鼠疫携带者的杀手",
 
-    "slayer_of_the_light_eater_desc": "Destroy Light Eater Eashor",
-    "slayer_of_the_shadow_maker_desc": "Destroy Shadow Maker Numinir",
-    "slayer_of_the_planet_killer_desc": "Destroy Planet Killer Astrail",
-    "slayer_of_the_swarm_former_desc": "Destroy Swarm Former Hivind",
-    "slayer_of_the_void_shaper_desc": "Destroy Void Shaper Tenerata",
-    "slayer_of_the_shield_breaker_desc": "Destroy Shield Breaker Ligwitch",
-    "slayer_of_the_fear_bringer_desc": "Destroy Fear Bringer Ourend",
-    "slayer_of_the_plague_carrier_desc": "Destroy Plague Carrier Malasmar",
-
-
-
-    "deep_path_escalation": "Deep Path Escalation",
-    "deep_path_escalation_desc": "Complete a mission in Deep Path",
-
-    "negati_escalation": "Negati Escalation",
-    "negati_escalation_desc": "Complete a mission in Negati",
-
-    "labyrinth_escalation": "Labyrinth Escalation",
-    "labyrinth_escalation_desc": "Complete a mission in Labyrinth",
-
-    "the_core_escalation": "Through Chaos",
-    "the_core_escalation_desc": "Complete a mission in the Core",
-
-    "aspil_escalation": "Aspil Escalation",
-    "aspil_escalation_desc": "Complete a mission in Aspil",
-
-    "pylon_escalation": "Pylon Escalation",
-    "pylon_escalation_desc": "Complete a mission in Pylon",
-
-    "niss_escalation": "Niss Escalation",
-    "niss_escalation_desc": "Complete a mission in Niss",
-
-    "archmist_escalation": "Archmist Escalation",
-    "archmist_escalation_desc": "Complete a mission in Archmist",
-
-    "sailemar_escalation": "Sailemar Escalation",
-    "sailemar_escalation_desc": "Complete a mission in Sailemar",
-
-    "ityl_escalation": "Ityl Escalation",
-    "ityl_escalation_desc": "Complete a mission in Ityl",
-
-    "paradise_escalation": "Paradise Escalation",
-    "paradise_escalation_desc": "Complete a mission in Paradise",
-
-    "tarion_escalation": "Tarion Escalation",
-    "tarion_escalation_desc": "Complete a mission in Tarion",
-
-    "tridenkor_escalation": "Tridenkor Escalation",
-    "tridenkor_escalation_desc": "Complete a mission in Tridenkor",
-
-    "colowis_escalation": "Colowis Escalation",
-    "colowis_escalation_desc": "Complete a mission in Colowis",
-
-    "mzenim_escalation": "Mzenim Escalation",
-    "mzenim_escalation_desc": "Complete a mission in Mzenim",
-
-    "silaar_escalation": "Silaar Escalation",
-    "silaar_escalation_desc": "Complete a mission in Silaar",
-
-    "high_path_escalation": "High Path Escalation",
-    "high_path_escalation_desc": "Complete a mission in High Path",
-
-    "scrambler_belt_escalation": "Scrambler Belt Escalation",
-    "scrambler_belt_escalation_desc": "Complete a mission in Scrabler Belt",
-
-    "eolutch_escalation": "Eolutch Escalation",
-    "eolutch_escalation_desc": "Complete a mission in Eolutch",
-
-    "charred_link_escalation": "Charred Link Escalation",
-    "charred_link_escalation_desc": "Complete a mission in Charred Link",
-
-    "pulsar_vector_escalation": "Pulsar Vector Escalation",
-    "pulsar_vector_escalation_desc": "Complete a mission in Pulsar Vector",
-
-    "bloom_escalation": "Bloom Escalation",
-    "bloom_escalation_desc": "Complete a mission in Bloom",
-
-    "lumer_pass_escalation": "Lumer Pass Escalation",
-    "lumer_pass_escalation_desc": "Complete a mission in Lumer Pass",
-
-    "wacar_escalation": "Wacar Escalation",
-    "wacar_escalation_desc": "Complete a mission in Wacar",
-
-    "venerion_escalation": "Venerion Escalation",
-    "venerion_escalation_desc": "Complete a mission in Venerion",
-
-    "phasse_escalation": "Phasse Escalation",
-    "phasse_escalation_desc": "Complete a mission in Phasse",
-
-    "nebula_escalation": "Nebula Escalation",
-    "nebula_escalation_desc": "Complete a mission in Nebula",
-
-    "spiral_escalation": "Spiral Escalation",
-    "spiral_escalation_desc": "Complete a mission in Spiral",
-
-    "rift_escalation": "Through Rift",
-    "rift_escalation_desc": "Complete a mission in Rift",
-
-    "broken_infinity_escalation": "Through Broken Infinity",
-    "broken_infinity_escalation_desc": "Complete a mission in Broken Infinity",
-
-    "in_war_path": "In War Path",
-    "in_war_path_desc": "Complete a mission in War Path",
-
-    "in_white_grid": "In White Grid",
-    "in_white_grid_desc": "Complete a mission in White Grid",
+    "slayer_of_the_light_eater_desc": "毁灭光芒吞噬者伊索",
+    "slayer_of_the_shadow_maker_desc": "毁灭影子制造者努米尼尔",
+    "slayer_of_the_planet_killer_desc": "毁灭星球破坏者阿斯特尔",
+    "slayer_of_the_swarm_former_desc": "毁灭蜂群构筑者希文德",
+    "slayer_of_the_void_shaper_desc": "毁灭虚空塑造者特内拉塔",
+    "slayer_of_the_shield_breaker_desc": "毁灭盾牌破坏者里格维奇",
+    "slayer_of_the_fear_bringer_desc": "毁灭恐惧提供者欧文恩德",
+    "slayer_of_the_plague_carrier_desc": "毁灭鼠疫携带者马拉斯马尔",
 
 
 
-    "???": "???",
+    "deep_path_escalation": "深度路径升级",
+    "deep_path_escalation_desc": "完成一项在深度路径的任务",
+
+    "negati_escalation": "否定之地升级",
+    "negati_escalation_desc": "完成一项在否定之地的任务",
+
+    "labyrinth_escalation": "迷宫升级",
+    "labyrinth_escalation_desc": "完成一项在迷宫的任务",
+
+    "the_core_escalation": "通过混乱",
+    "the_core_escalation_desc": "完成一项在核心地带的任务",
+
+    "aspil_escalation": "阿斯皮尔升级",
+    "aspil_escalation_desc": "完成一项在阿斯皮尔的任务",
+
+    "pylon_escalation": "塔架升级",
+    "pylon_escalation_desc": "完成一项在塔架的任务",
+
+    "niss_escalation": "尼斯升级",
+    "niss_escalation_desc": "完成一项在尼斯的任务",
+
+    "archmist_escalation": "大法师之地升级",
+    "archmist_escalation_desc": "完成一项在大法师之地的任务",
+
+    "sailemar_escalation": "帆船之地升级",
+    "sailemar_escalation_desc": "完成一项在帆船之地的任务",
+
+    "ityl_escalation": "易太尔升级",
+    "ityl_escalation_desc": "完成一项在易太尔的任务",
+
+    "paradise_escalation": "天堂升级",
+    "paradise_escalation_desc": "完成一项在天堂的任务",
+
+    "tarion_escalation": "泰伦升级",
+    "tarion_escalation_desc": "完成一项在泰伦的任务",
+
+    "tridenkor_escalation": "特里登科升级",
+    "tridenkor_escalation_desc": "完成一项在特里登科的任务",
+
+    "colowis_escalation": "科洛维斯升级",
+    "colowis_escalation_desc": "完成一项在科洛维斯的任务",
+
+    "mzenim_escalation": "姆泽尼姆升级",
+    "mzenim_escalation_desc": "完成一项在姆泽尼姆的任务",
+
+    "silaar_escalation": "西拉尔升级",
+    "silaar_escalation_desc": "完成一项在西拉尔的任务",
+
+    "high_path_escalation": "高路径升级",
+    "high_path_escalation_desc": "完成一项在高路径的任务",
+
+    "scrambler_belt_escalation": "扰频带升级",
+    "scrambler_belt_escalation_desc": "完成一项在扰频带的任务",
+
+    "eolutch_escalation": "奥卢奇升级",
+    "eolutch_escalation_desc": "完成一项在奥卢奇的任务",
+
+    "charred_link_escalation": "烧焦的链环升级",
+    "charred_link_escalation_desc": "完成一项在烧焦的链环的任务",
+
+    "pulsar_vector_escalation": "脉冲星矢量升级",
+    "pulsar_vector_escalation_desc": "完成一项在脉冲星矢量的任务",
+
+    "bloom_escalation": "花朵升级",
+    "bloom_escalation_desc": "完成一项在花朵的任务",
+
+    "lumer_pass_escalation": "卢默通道升级",
+    "lumer_pass_escalation_desc": "完成一项在卢默通道的任务",
+
+    "wacar_escalation": "瓦卡升级",
+    "wacar_escalation_desc": "完成一项在瓦卡的任务",
+
+    "venerion_escalation": "崇敬之地升级",
+    "venerion_escalation_desc": "完成一项在崇敬之地的任务",
+
+    "phasse_escalation": "相位之地升级",
+    "phasse_escalation_desc": "完成一项在相位之地的升级",
+
+    "nebula_escalation": "星云之地升级",
+    "nebula_escalation_desc": "完成一项在星云之地的升级",
+
+    "spiral_escalation": "螺旋之地升级",
+    "spiral_escalation_desc": "完成一项在螺旋之地的升级",
+
+    "rift_escalation": "穿过裂缝",
+    "rift_escalation_desc": "完成一项在裂缝的任务",
+
+    "broken_infinity_escalation": "穿过破坏的无穷",
+    "broken_infinity_escalation_desc": "完成一项在破坏的无穷的任务",
+
+    "in_war_path": "在战争路径",
+    "in_war_path_desc": "完成一项在战争路径的任务",
+
+    "in_white_grid": "在白色网格",
+    "in_white_grid_desc": "完成一项在白色网格的任务",
+
+
+
+    "???": "？？？",
     "n/a": "N/A",
 
     "music_volume": "音乐音量",
@@ -737,92 +737,92 @@
 
     "upgrade_chance_stat": "$$% 几率升级丢失的部件",
 
-    "cooldown_reduction": "Phase charge speed: $$",
-    "phase_break_damage": "Phase damage: $$%",
+    "cooldown_reduction": "相位充电速度： $$",
+    "phase_break_damage": "相位伤害： $$%",
 
-    "white_wave_chance": "$$% chance to cause stunning wave",
-    "red_wave_chance": "$$% chance to cause damaging wave",
-    "black_wave_chance": "$$% chance to cause shredding wave",
+    "white_wave_chance": "$$% 机会引起震慑波",
+    "red_wave_chance": "$$% 机会引起破坏波",
+    "black_wave_chance": "$$% 机会引起粉碎波",
 
-    "relays_installed": "$$ physical relays installed",
-    "pylons_installed": "$$ physical pylons installed",
-    "nodes_installed": "$$ physical nodes installed",
+    "relays_installed": "$$ 物理继电器已安装",
+    "pylons_installed": "$$ 物理塔架已安装",
+    "nodes_installed": "$$ 物理节点已安装",
 
-    "v_relays_installed": "$$ relays installed",
-    "v_pylons_installed": "$$ pylons installed",
-    "v_nodes_installed": "$$ nodes installed",
+    "v_relays_installed": "$$ 继电器已安装",
+    "v_pylons_installed": "$$ 塔架已安装",
+    "v_nodes_installed": "$$ 节点已安装",
 
-    "parts_installed": "$$ physical parts installed",
-    "v_parts_installed": "$$ parts installed",
+    "parts_installed": "$$ 物理部分已安装",
+    "v_parts_installed": "$$ 部分已安装",
 
-    "engines_installed": "$$ engines installed",
+    "engines_installed": "$$ 发动机已安装",
 
-    "slots_filled": "$$/$$ slots filled",
-    "slot_pages": "$$ slot pages",
-    "slot_page": "$$ slot page",
+    "slots_filled": "$$/$$ 插槽已填充",
+    "slot_pages": "$$ 插槽页面",
+    "slot_page": "$$ 插槽页面",
 
-    "imperfections": "Imperfections detected",
-    "imperfection": "Imperfection detected",
+    "imperfections": "检测到缺陷",
+    "imperfection": "检测到缺陷",
 
-    "engines_and_weapons": "Too many weapons, no engines",
-    "no_engines": "No engines",
-    "too_many_weapons": "Too many weapons",
+    "engines_and_weapons": "太多的武器，没有发动机",
+    "no_engines": "没有发动机",
+    "too_many_weapons": "太多的武器",
 
-    "lack_of_weapons": "Lack of weapons detected",
-    "add_more_weapons": "Consider installing more weapons",
+    "lack_of_weapons": "检测到缺少武器",
+    "add_more_weapons": "考虑安装更多武器",
 
-    "no_damage": "Your abilities deal no damage",
-    "add_more_relays": "Install relays to increase damage",
+    "no_damage": "你的能力不会造成伤害",
+    "add_more_relays": "安装继电器以增加伤害",
 
-    "process1": "Allocating memory...",
-    "process2": "Adapting module software...",
-    "process3": "Preparing processes...",
-    "process4": "Realigning resources...",
-    "process5": "Checking compability...",
-    "process6": "Scanning for malware...",
-    "process7": "Attaching...",
-    "process8": "Checking integrity...",
-    "process9": "Applying assets...",
-    "process10": "Preparing for fusion...",
-    "process11": "Fusing links...",
-    "process12": "Creating backup...",
-    "process13": "Checking for updates...",
-    "process14": "Downloading updates...",
-    "process15": "Calculating mass...",
-    "process16": "Adjusting total mass...",
-    "process17": "Starting loops...",
-    "process18": "Setting default parameters...",
-    "process19": "Checking system condition...",
-    "process20": "Transfering data...",
-    "process21": "Optimizing module resources...",
+    "process1": "分配内存中……",
+    "process2": "适配模块软件中……",
+    "process3": "准备进程中……",
+    "process4": "资源重组中……",
+    "process5": "检查兼容性中……",
+    "process6": "扫描恶意软件中……",
+    "process7": "附加中……",
+    "process8": "检查完整性中……",
+    "process9": "应用资产中……",
+    "process10": "准备融合中……",
+    "process11": "融合链接中……",
+    "process12": "创造备份中……",
+    "process13": "检查更新中……",
+    "process14": "下载更新中……",
+    "process15": "计算质量中……",
+    "process16": "调整总质量中……",
+    "process17": "启动循环中……",
+    "process18": "设置默认参数中……",
+    "process19": "检查系统状况中……",
+    "process20": "正在传输数据……",
+    "process21": "优化模块资源中……",
 
-    "detaching": "Detaching...",
+    "detaching": "脱离中……",
 
-    "installing": "Installing $$%",
-    "uninstalling": "Uninstalling $$%",
+    "installing": "安装中 $$%",
+    "uninstalling": "卸载中 $$%",
 
-    "container_alloy": "$$/$$ alloy",
-    "container_alloy_wide": "$$ / $$ alloy",
-    "refill_cost": "Refill cost: $$ alloy",
+    "container_alloy": "$$/$$ 合金",
+    "container_alloy_wide": "$$ / $$ 合金",
+    "refill_cost": "重新装填成本： $$ 合金",
 
-    "no_container": "No container",
-    "no_alloy": "0 / 0 alloy",
+    "no_container": "没有容器",
+    "no_alloy": "0 / 0 合金",
 
-    "case": "Case",
-    "forge": "Forge",
-    "tank": "Tank",
-    "vat": "Vat",
-    "vault": "Vault",
-    "well": "Well",
-    "flask": "Flask",
-    "urn": "Urn",
-    "phial": "Phial",
-    "shell": "Shell",
-    "bin": "Bin",
-    "bowl": "Bowl",
-    "cell": "Cell",
+    "case": "案例",
+    "forge": "锻炉",
+    "tank": "坦克",
+    "vat": "大桶",
+    "vault": "金库",
+    "well": "井",
+    "flask": "瓶",
+    "urn": "瓮",
+    "phial": "药瓶",
+    "shell": "外壳",
+    "bin": "箱子",
+    "bowl": "碗",
+    "cell": "小屋",
 
-    "amphora": "Amphora",
+    "amphora": "双耳瓶",
 
     "COMMENT 6": "case-cell strings: They must be shorter than 5 characters",
 
